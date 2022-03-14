@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}"
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png",Первый канал
 http://dmitry-tv.ml/hls/DVB-T2/CH_1TV.m3u8
@@ -3437,31 +3437,27 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img2/6321.png",Кино 18+ HD
 https://autopilot.catcast.tv/content/40381/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
-http://46.181.193.122:81/udp/239.255.42.218:1234
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
 http://46.174.83.66/Russkaya_Noch/video.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Шелк ТВ HD
 http://live-2.otcnet.ru/shelk/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31848
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Eropuls DE
 https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/2780.png",Extasy HD
-http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/2780.png",Extasy 4K
 http://213.81.133.133:8080/extasy4k/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/2780.png",Extasy HD
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://iptvxpix.ml/hustler-tv.png",Hustler TV
 http://78.83.191.18:8000/play/a078
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.pinimg.com/236x/6e/ea/35/6eea353b0aa415cd0c1d49161bf2fc42.jpg",Jasmin TV
 http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV México
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Jenny For You
 http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Jenny Live
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV México
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/2527.png",O-la-la
 http://46.181.193.122:81/udp/239.255.42.219:1234
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Pinko Club
@@ -3470,156 +3466,112 @@ http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3266.png",SuperOne HD
 http://185.96.176.139:90/superone/index.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3266.png",SuperOne HD
-http://185.96.176.139:8080/superone/index.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3232.png",Visit-X TV
-http://194.116.150.47:1935/vxtv/live/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3232.png",Visit-X TV
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Bizzare Live
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31862
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3258.png",Pink Erotic 1
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31895
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Shemale Tube TV HD
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Shemale Tube TV 2 HD
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3136.png",AdultIPTV Anal
-http://live.redtraffic.xyz/anal.m3u8
+
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3136.png",AdultIPTV Anal
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3199.png",AdultIPTV Asian
-http://live.redtraffic.xyz/asian.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3136.png",AdultIPTV Anal
+http://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3199.png",AdultIPTV Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3144.png",AdultIPTV Big Ass
-https://ch.iptvmate.net/092284edab11da44e209f5e0edd68af2.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3144.png",AdultIPTV Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3199.png",AdultIPTV Asian
+http://live.redtraffic.xyz/asian.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3144.png",AdultIPTV Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3145.png",AdultIPTV Big Dick
-https://ch.iptvmate.net/5942a1f14fa8abe58251efcbbc2b88ef.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3145.png",AdultIPTV Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3144.png",AdultIPTV Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3145.png",AdultIPTV Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3146.png",AdultIPTV Big Tits
-https://ch.iptvmate.net/8602a0dc861a6084b1e60d4b72c3175d.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3146.png",AdultIPTV Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3145.png",AdultIPTV Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3146.png",AdultIPTV Big Tits
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3148.png",AdultIPTV Blonde
-http://live.redtraffic.xyz/blonde.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3146.png",AdultIPTV Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3148.png",AdultIPTV Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3149.png",AdultIPTV Blowjob
-https://ch.iptvmate.net/7117a69d1d618c82843facf705e9dd73.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3149.png",AdultIPTV Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3148.png",AdultIPTV Blonde
+http://live.redtraffic.xyz/blonde.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3149.png",AdultIPTV Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3152.png",AdultIPTV Brunette
-http://live.redtraffic.xyz/brunette.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3149.png",AdultIPTV Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3152.png",AdultIPTV Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3156.png",AdultIPTV Compilation
-http://live.redtraffic.xyz/compilation.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3152.png",AdultIPTV Brunette
+http://live.redtraffic.xyz/brunette.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3156.png",AdultIPTV Compilation
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3157.png",AdultIPTV Cuckold
-https://ch.iptvmate.net/877fdd4e981f99d05a374893946aca2a.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3157.png",AdultIPTV Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3156.png",AdultIPTV Compilation
+http://live.redtraffic.xyz/compilation.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3157.png",AdultIPTV Cuckold
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3182.png",AdultIPTV Fetish
-https://ch.iptvmate.net/2a1f1a25ce79551d84833fc9e260fff2.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3182.png",AdultIPTV Fetish
-http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3157.png",AdultIPTV Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3182.png",AdultIPTV Fetish
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3183.png",AdultIPTV Gangbang
-http://live.redtraffic.xyz/gangbang.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3182.png",AdultIPTV Fetish
+http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3183.png",AdultIPTV Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3184.png",AdultIPTV Gay
-http://live.redtraffic.xyz/gay.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3183.png",AdultIPTV Gangbang
+http://live.redtraffic.xyz/gangbang.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3184.png",AdultIPTV Gay
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3188.png",AdultIPTV HardCore
-https://ch.iptvmate.net/d5e550d027b702af767c9d9c3ecfb982.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3188.png",AdultIPTV HardCore
-http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3184.png",AdultIPTV Gay
+http://live.redtraffic.xyz/gay.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3188.png",AdultIPTV HardCore
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3193.png",AdultIPTV Interracial
-https://ch.iptvmate.net/e14f9ff51bc385fc890e9da51df17296.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3193.png",AdultIPTV Interracial
-http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3188.png",AdultIPTV HardCore
+http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3193.png",AdultIPTV Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3195.png",AdultIPTV Latina
-https://ch.iptvmate.net/c7df6c41c9005c5ecebd5f09507e1c16.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3195.png",AdultIPTV Latina
-http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3193.png",AdultIPTV Interracial
+http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3195.png",AdultIPTV Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3197.png",AdultIPTV Lesbian
-https://ch.iptvmate.net/210884d182bde7a8a159aae70d692807.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3197.png",AdultIPTV Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3195.png",AdultIPTV Latina
+http://live.redtraffic.xyz/latina.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3197.png",AdultIPTV Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3200.png",AdultIPTV Live Cams
-http://live.redtraffic.xyz/livecams.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3197.png",AdultIPTV Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3200.png",AdultIPTV Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3203.png",AdultIPTV MILF
-https://ch.iptvmate.net/bbb4f0f3223a8ca2c0cf8f57096c1b24.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3203.png",AdultIPTV MILF
-http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3200.png",AdultIPTV Live Cams
+http://live.redtraffic.xyz/livecams.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3203.png",AdultIPTV MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3212.png",AdultIPTV Pornstar
-http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31866
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3212.png",AdultIPTV Pornstar
-http://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3212.png",AdultIPTV Pornstar
-https://ch.iptvmate.net/7e9b8590de2930bd490dc661f1408e68.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3212.png",AdultIPTV Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3203.png",AdultIPTV MILF
+http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3212.png",AdultIPTV Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3213.png",AdultIPTV POV
-https://ch.iptvmate.net/11209aa571cf6b4a3f5939c56608379d.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3213.png",AdultIPTV POV
-http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3212.png",AdultIPTV Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3213.png",AdultIPTV POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3219.png",AdultIPTV Rough
-http://live.redtraffic.xyz/rough.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3213.png",AdultIPTV POV
+http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3219.png",AdultIPTV Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3220.png",AdultIPTV Russian
-https://ch.iptvmate.net/13fdb0c3c52d9236f2dbec874589bb8a.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3220.png",AdultIPTV Russian
-http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3219.png",AdultIPTV Rough
+http://live.redtraffic.xyz/rough.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3220.png",AdultIPTV Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3225.png",AdultIPTV Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3225.png",AdultIPTV Teen
-https://ch.iptvmate.net/d888afca3f8a45aab59b2d5aefc38c76.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3220.png",AdultIPTV Russian
+http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3225.png",AdultIPTV Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3226.png",AdultIPTV Threesome
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3226.png",AdultIPTV Threesome
-https://ch.iptvmate.net/6271f235201e84f419b00bb517a66580.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3225.png",AdultIPTV Teen
+http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3226.png",AdultIPTV Threesome
 http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3226.png",AdultIPTV Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/3212.png",AdultIPTV Woman
+http://live.redtraffic.net/woman.m3u8
+
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://belcekiz.com/wp-content/uploads/2018/01/live-cam.png",MyCamTV Anal
 http://live.mycamtv.com/anal.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://belcekiz.com/wp-content/uploads/2018/01/live-cam.png",MyCamTV Arab Girls
@@ -3654,3 +3606,8 @@ http://live.mycamtv.com/teen.m3u8
 http://live.mycamtv.com/white.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://belcekiz.com/wp-content/uploads/2018/01/live-cam.png",MyCamTV Young Girls
 http://live.mycamtv.com/young.m3u8
+
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Shemale Tube TV 2 HD
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Shemale Tube TV HD
+https://www.ast.tv/stream/1/ultra.m3u8
