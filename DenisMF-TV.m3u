@@ -2658,7 +2658,7 @@ http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные" tvg-id="dzenzhinsk-tv" tvg-logo="https://iptvxpix.ml/dzenzhinsk-tv.png",Дзержинск ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="doverie" tvg-logo="https://iptvxpix.ml/doverie.png",Доверие
+#EXTINF:-1 group-title="Региoнальные" tvg-id="doverie" tvg-logo="https://iptvxpix.ml/doverie.png",Доверие
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные" tvg-id="don-24" tvg-logo="https://iptvxpix.ml/don-24.png",Дон 24
@@ -3008,7 +3008,7 @@ http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные" tvg-id="no_epg" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578964121507.png",ТВ-7 (Абакан)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="tv-guberniya" tvg-logo="https://iptvxpix.ml/tv-guberniya.png",ТВ-Губерния
+#EXTINF:-1 group-title="Региoнальные" tvg-id="tv-guberniya" tvg-logo="https://iptvxpix.ml/tv-guberniya.png",ТВ-Губерния
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные" tvg-id="tv-in" tvg-logo="https://iptvxpix.ml/tv-in.png",ТВ-ИН (Магнитогорск)
@@ -3017,7 +3017,7 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные" tvg-id="tvk-krasnoyarsk" tvg-logo="https://iptvxpix.ml/tvk-krasnoyarsk.png",ТВК Красноярск HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="teotv" tvg-logo="https://iptvxpix.ml/teotv.png",ТЕО-ТВ HD
+#EXTINF:-1 group-title="Региoнальные" tvg-id="teotv" tvg-logo="https://iptvxpix.ml/teotv.png",ТЕО-ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TEOTV/variant.m3u8
 #EXTINF:-1 group-title="Региoнальные" tvg-id="tk-variant" tvg-logo="https://iptvxpix.ml/tk-variant.png",ТК Вариант
