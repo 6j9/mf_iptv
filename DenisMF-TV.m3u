@@ -30,7 +30,7 @@ http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="anekdottv" tvg-logo="https://iptvxpix.ml/anekdottv.png",Анекдот ТВ
 http://176.197.77.101:81/udp/239.255.42.95:1234
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="anekdottv" tvg-logo="https://iptvxpix.ml/anekdottv.png",Анекдот ТВ
-http://2serv.mylifeisgood.ml/channels/anekdot
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=anekdot
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="vmeste-rf" tvg-logo="https://iptvxpix.ml/vmeste-rf.png",Вместе-РФ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
@@ -98,7 +98,7 @@ http://dmitry-tv.ml/hls/DVB-T2/CH_NTV.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="https://iptvxpix.ml/ntv-white.png",НТВ HD
-http://109.200.130.124:7001/play/a002
+http://185.161.224.216/dash/HTB_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="ntv" tvg-logo="https://iptvxpix.ml/ntv-white.png",НТВ HD
 http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
 
@@ -721,9 +721,9 @@ http://stream.backustv.ru/live/btv2/index.m3u8
 http://dmitry-tv.ml/hls/CH_BACKUSTVDARKHD.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="bollywood-hd" tvg-logo="https://iptvxpix.ml/bollywood-hd.png",Bollywood HD
-http://109.200.130.124:7002/play/a01a
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="bollywood-hd" tvg-logo="https://iptvxpix.ml/bollywood-hd.png",Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="bollywood-hd" tvg-logo="https://iptvxpix.ml/bollywood-hd.png",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/4647.png",Cinema Classic TV
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
@@ -761,12 +761,12 @@ http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="paramount-channel" tvg-logo="https://iptvxpix.ml/paramount-channel.png",Paramount Channel
-http://50.7.231.220:8081/182/index.m3u8?wmsAuthSign=okad
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="paramount-channel" tvg-logo="https://iptvxpix.ml/paramount-channel.png",Paramount Channel
-http://109.200.130.124:7000/play/a00m
+http://94.19.220.168:81/udp/239.239.14.16:5239
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="paramount-comedy" tvg-logo="https://iptvxpix.ml/paramount-comedy.png",Paramount Comedy
-http://109.200.130.124:7000/play/a00j
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="paramount-comedy" tvg-logo="https://iptvxpix.ml/paramount-comedy.png",Paramount Comedy
 http://livetv.mylifeisgood.ml/channels/paramount_comedy
 
@@ -832,12 +832,12 @@ http://50.7.231.220:8081/172/index.m3u8?wmsAuthSign=okad
 http://50.7.231.220:8081/172/index.m3u8?wmsAuthSign=okad
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="evrokino" tvg-logo="https://iptvxpix.ml/eurokino.png",Еврокино
-http://109.200.130.124:15500/evrokino
+http://94.19.220.168:81/udp/239.239.14.1:5239
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="evrokino" tvg-logo="https://iptvxpix.ml/eurokino.png",Еврокино
 http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="illuzion-plus" tvg-logo="https://iptvxpix.ml/illuzion-plus.png",Иллюзион+
-http://109.200.130.124:7006/play/a014
+http://persik.by/stream/7504/377885/327.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="illuzion-plus" tvg-logo="https://iptvxpix.ml/illuzion-plus.png",Иллюзион+
 https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
 
@@ -850,11 +850,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://live-1.otcnet.ru/kinosem/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png" tvg-shift=2,Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotv
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png",Кино ТВ HD
-http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png",Кино ТВ HD
-http://109.200.130.124:7007/play/a00f
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://suzukantv.at.ua/LOGOKINO/kinoklub.png",Киноклуб
 http://v2.catcast.tv/content/39005/index.m3u8
@@ -892,12 +887,12 @@ http://dmitry-tv.ml/hls/CH_REDLINE.m3u8
 http://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="mir-seriala" tvg-logo="https://iptvxpix.ml/mir-seriala.png",Мир сериала
-http://109.200.130.124:7007/play/a01a
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="mir-seriala" tvg-logo="https://iptvxpix.ml/mir-seriala.png",Мир сериала
 http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="mir-seriala" tvg-logo="https://iptvxpix.ml/mir-seriala.png",Мир сериала
+http://94.19.220.168:81/udp/239.239.14.5:5239
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm" tvg-logo="https://iptvxpix.ml/mosfilm.png",Мосфильм. Золотая коллекция
-http://109.200.130.124:7007/play/a018
+http://50.7.231.220:8081/235/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="mosfilm" tvg-logo="https://iptvxpix.ml/mosfilm.png",Мосфильм. Золотая коллекция
 http://50.7.231.220:8081/235/index.m3u8?wmsAuthSign=okad
 
@@ -934,12 +929,12 @@ http://st1.astra-uk.ru:81/cd59211874cc4acb0dbae03a7f5b5fbe/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-detektiv" tvg-logo="https://iptvxpix.ml/russky-detektiv.png",Русский детектив
 http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="russky-detektiv" tvg-logo="https://iptvxpix.ml/russky-detektiv.png",Русский детектив
-http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+http://195.26.83.96:7024/play/79
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-illuzion" tvg-logo="https://iptvxpix.ml/russky-illuzion.png",Русский иллюзион
 https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="russky-illuzion" tvg-logo="https://iptvxpix.ml/russky-illuzion.png",Русский иллюзион
-http://109.200.130.124:7006/play/a013
+http://persik.by/stream/7504/377885/177.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-roman" tvg-logo="https://iptvxpix.ml/russky-roman.png",Русский роман
 http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
@@ -1015,9 +1010,9 @@ https://livetv.mylifeisgood.ml/channels/nickelodeon-hd
 http://persik.by/stream/7504/377885/10420.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="nicktoons" tvg-logo="https://iptvxpix.ml/nicktoons.png",Nicktoons
-http://iptv.prosto.tv:7000/ch70/video.m3u8
+http://193.32.37.17:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="Детские [резерв]" tvg-id="nicktoons" tvg-logo="https://iptvxpix.ml/nicktoons.png",Nicktoons
-http://195.222.7.26:7001/play/a00p
+http://158.101.218.99:2134/channel/26b318fe/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
 
 #EXTINF:-1 group-title="Детские" tvg-id="tiji" tvg-logo="https://iptvxpix.ml/tiji.png",TiJi
 https://sc.id-tv.kz/TiJi_34_35.m3u8
@@ -3875,3 +3870,4 @@ http://live.mycamtv.com/young.m3u8
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Shemale Tube TV 2 HD
 https://www.ast.tv/stream/2/ultra.m3u8
+
