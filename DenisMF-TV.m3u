@@ -25,7 +25,7 @@ http://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3
 #EXTINF:-1 group-title="Эфирные" tvg-id="cctv-ru" tvg-logo="https://iptvxpix.ml/cctv-ru.png",CGTN-Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="cctv-ru" tvg-logo="https://iptvxpix.ml/cctv-ru.png",CGTN-Русский
-http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="rtd-ru" tvg-logo="https://iptvxpix.ml/rt-doc.png",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
@@ -126,7 +126,7 @@ http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8?ts
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy-kanal-eurasia-kz" tvg-logo="https://iptvxpix.ml/pervy-kanal-eurasia-kz.png",Первый канал Евразия
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/index.m3u8
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="pervy-kanal-eurasia-kz" tvg-logo="https://iptvxpix.ml/pervy-kanal-eurasia-kz.png",Первый канал Евразия
-https://sc.id-tv.kz/1KanalEvraziya.m3u8
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/playlist.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="piatnica" tvg-logo="https://iptvxpix.ml/pyatnica.png",Пятница HD
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
@@ -333,7 +333,7 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://46.174.83.66/MirBasketbola/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="motorsportv-tv" tvg-logo="https://iptvxpix.ml/motorsportv-tv.png",Моторспорт ТВ
-http://50.7.231.220:8081/230/index.m3u8?wmsAuthSign=okad
+http://pl.iptv.monster/3918/video.m3u8?token=B65C5288FFA5747
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="start" tvg-logo="https://iptvxpix.ml/start.png",Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
@@ -3918,4 +3918,3 @@ https://mhd219.iptv2022.com/p/G4rtXCQ4w7h11NHUBOv-bQ,1647948973/streaming/tochka
 https://mhd219.iptv2022.com/p/ag8z1OlmpEj03uvygoqAEg,1647949707/streaming/tm-kvant/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/priboy.png",Прибой ТВ
 https://mhd219.iptv2022.com/p/uSpGvJ2F6aesFPxIemIZoQ,1647949564/streaming/priboy/324/1/index.m3u8
-
