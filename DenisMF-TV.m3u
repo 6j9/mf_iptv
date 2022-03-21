@@ -887,7 +887,7 @@ http://dmitry-tv.ml/hls/CH_REDLINE.m3u8
 http://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="mir-seriala" tvg-logo="https://iptvxpix.ml/mir-seriala.png",Мир сериала
-http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+http://109.200.130.124:7007/play/a01a
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="mir-seriala" tvg-logo="https://iptvxpix.ml/mir-seriala.png",Мир сериала
 http://94.19.220.168:81/udp/239.239.14.5:5239
 
@@ -1024,11 +1024,6 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="Детские [резерв]" tvg-id="da-vinci" tvg-logo="https://iptvxpix.ml/da-vinci.png",Да Винчи
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=davinci
 
-#EXTINF:-1 group-title="Детские" tvg-id="detkino-tviksel" tvg-logo="https://iptvxpix.ml/detkino-tviksel.png",Детское кино (TvikselTV)
-http://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Детские [резерв]" tvg-id="detkino-tviksel" tvg-logo="https://iptvxpix.ml/detkino-tviksel.png",Детское кино (TvikselTV)
-http://v2.catcast.me/content/38720/index.m3u8
-
 #EXTINF:-1 group-title="Детские" tvg-id="disney" tvg-logo="https://iptvxpix.ml/disney.png",Канал Disney
 http://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="disney-pl2" tvg-logo="https://www.goldmir.net/uploads/tv/channel/57/logo_big.jpg" shift="+2",Канал Disney (+2)
@@ -1131,7 +1126,7 @@ http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="hitv" tvg-logo="https://iptvxpix.ml/hitv.png",HITV
 https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mcm-top" tvg-logo="https://iptvxpix.ml/mcm-top.png",MCM Top Россия
-http://live-1.otcnet.ru/mcm/tracks-v1a1/index.m3u8
+http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Музыкальные" tvg-id="4654" tvg-logo="http://epg.it999.ru/img/4654.png",Mix M TV HD
 https://live.prd.dlive.tv/hls/live/mixm.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV 00s
@@ -1390,22 +1385,10 @@ http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 https://eu1.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="5483" tvg-logo="http://epg.it999.ru/img2/5483.png",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/LJkqvzL/VEVO-70s.png",VEVO '70s
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_Country_190x190.png",VEVO Country
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?sid=0892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
 #EXTINF:-1 group-title="Music",VEVO Hip-Hop HD
 http://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 #EXTINF:-1 group-title="Music",VEVO Latino HD
 http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/VevoPop_190x190.png",VEVO Pop
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?sid=0885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=1&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/Vevo_R&B_190x190.png",VEVO R&B
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?sid=0890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1 group-title="Music" tvg-logo="http://i114.fastpic.ru/big/2021/0327/2d/bc69a521c0b2e289e8a68fce387a0d2d.png",VEVO Reggaeton & Trap
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?sid=0888&deviceId=5f32f397795b750007706448&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1 group-title="Music",VEVO TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Music",Vuemme TV
 http://5db313b643fd8.streamlock.net:1935/Vuemme/Vuemme/playlist.m3u8
 #EXTINF:-1 group-title="Music",XITE HD (DE)
@@ -2544,7 +2527,7 @@ http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/varian
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="arirang" tvg-logo="https://iptvxpix.ml/arirang.png",Arirang
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/variant.m3u8
+http://dmitry-tv.ml/hls/zabava/region/DV_HVSK/CH_ARIRANGKOREA.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="next-tv" tvg-logo="https://iptvxpix.ml/next-tv.png",NEXT-TV
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
