@@ -3464,48 +3464,48 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
-#EXTINF:-1 group-title="Релакс",Nature Relaxation
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://2mz.me/images/770120.jpg",Nature Relaxation
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Silence TV
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://goo.su/Icbaz1a",Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Stingray Naturescape
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/stingray-naturescape-ca.png",Stingray Naturescape
 https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Stingray Naturescape 2
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/stingray-naturescape-ca.png",Stingray Naturescape 2
 https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-id="sochi-live" tvg-logo="https://iptvxpix.ml/sochi-live.png",Sochi Live HD
 https://sochi.camera:8081/cam_359/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Релакс",Водопады
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/vodopady.webp",Водопады
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Горы
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/gory.webp",Горы
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-id="dajving-tv" tvg-logo="https://iptvxpix.ml/dajving-tv.png",Дайвинг.TV
 http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_130.smil/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Джунгли
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/dzhungli.webp",Джунгли
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7b1MArgRlD9de8NWP.png",Дождик
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/dozhd.webp",Дождь
 https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/animals.webp",Животные
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Закат
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/zakat.webp",Закат
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Камин
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/ochag.webp",Камин
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Релакс",Космос
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://pp.userapi.com/c636327/v636327148/46baf/NSqLXYotsv0.jpg?ava=1",Космос
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Лес
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/les.webp",Лес
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-id="nasha-sibir-4k" tvg-logo="https://iptvxpix.ml/nasha-sibir-4k.png",Наша Сибирь 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
-#EXTINF:-1 group-title="Релакс",Озёра
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/ozera.webp",Озёра
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Острова
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/ostrova.webp",Острова
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-#EXTINF:-1 group-title="Релакс",Очаг
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/ochag.webp",Очаг
 https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Пляжи
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/plyazhi.webp",Пляжи
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 group-title="Релакс",Реки
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/reki.webp",Реки
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
 #EXTINF:-1 group-title="Взрослые" tvg-id="6321" tvg-logo="http://epg.it999.ru/img2/6321.png",Кино 18+ HD
