@@ -13,7 +13,7 @@ http://radio-live-mg.rtr-vesti.ru/live/smil:r1.smil/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="2265" tvg-logo="http://epg.it999.ru/img/2265.png",360° HD
-http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="2265" tvg-logo="http://epg.it999.ru/img/2265.png",360° HD
 http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
 
@@ -153,6 +153,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="rentv-int" tvg-logo="https://iptvxpix.ml/rentv-int.png",Рен ТВ Международный
 https://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="rentv-int" tvg-logo="https://iptvxpix.ml/rentv-int.png",Рен ТВ Международный
+https://sc.id-tv.kz/RenTV_36_37.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="https://iptvxpix.ml/rossia1.png",Россия 1 HD
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist.m3u8
@@ -187,6 +189,8 @@ http://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="sts-int" tvg-logo="https://iptvxpix.ml/sts-int.png",СТС Международный
+https://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="sts-int" tvg-logo="https://iptvxpix.ml/sts-int.png",СТС Международный
 https://sc.id-tv.kz/STS_36_37.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="sts-love" tvg-logo="https://iptvxpix.ml/sts-love.png",СТС Love
