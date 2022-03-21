@@ -573,22 +573,16 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-turbo" tvg-logo="https://iptvxpix.ml/sony-turbo.png",.black
 http://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="sony-turbo" tvg-logo="https://iptvxpix.ml/sony-turbo.png",.black
-http://dmitry-tv.ml/hls/CH_BLACK.m3u8
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="sony-turbo" tvg-logo="https://iptvxpix.ml/sony-turbo.png",.black orig
 http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8?ts
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-tv" tvg-logo="https://iptvxpix.ml/sony.png",.red
 http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="sony-tv" tvg-logo="https://iptvxpix.ml/sony.png",.red
-http://dmitry-tv.ml/hls/CH_RED.m3u8
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="sony-tv" tvg-logo="https://iptvxpix.ml/sony.png",.red orig
 http://myott.top/stream/1VGPHYLZTH/69.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-scifi" tvg-logo="https://iptvxpix.ml/sony-scifi.png",.sci-fi
 http://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="sony-scifi" tvg-logo="https://iptvxpix.ml/sony-scifi.png",.sci-fi
-http://dmitry-tv.ml/hls/CH_SCI-FI.m3u8
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="sony-scifi" tvg-logo="https://iptvxpix.ml/sony-scifi.png",.sci-fi orig
 http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia1" tvg-logo="https://iptvxpix.ml/amedia1.png",Amedia 1 HD
