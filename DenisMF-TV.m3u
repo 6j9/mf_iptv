@@ -1,40 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}"
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="2269" tvg-logo="http://epg.it999.ru/img/2269.png",RT News
-https://mhd219.iptv2022.com/p/ruUaC3VOueAcdzIabk7mWA,1647949125/streaming/rt/324/variable.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/classickino.png",Movie Classic HD
-https://mhd219.iptv2022.com/p/ycgOcffQZr5u66d-ZJjh7Q,1647948203/streaming/k_kino/324/1/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/kinomenu.png",КиноМеню HD
-https://mhd219.iptv2022.com/p/-OzHRG7SVkAqMPudP250rw,1647948145/streaming/kinomenu/324/1/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/nashdom.png",Наш Дом
-https://mhd219.iptv2022.com/p/0qUlP8MZLvaDit9iCjFMgQ,1647949491/streaming/11channel/324/1/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/sovmov.png",Советское Кино
-https://mhd219.iptv2022.com/p/wdlyKEEjG8--gibwWd0KrQ,1647948515/streaming/sovietmovs/324/1/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/skazki.png",Сказки зайки
-https://mhd219.iptv2022.com/p/y-5cOrQ-B4XnLEChkupEKA,1647948621/streaming/zaj/324/1/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="1111" tvg-logo="http://epg.it999.ru/img2/1111.png",Советские мультфильмы
-https://mhd219.iptv2022.com/p/UiiFNtAR_gx80QjHLypNbg,1647949461/streaming/rusmult/324/1/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="2287" tvg-logo="http://epg.it999.ru/img/2287.png",Радость моя
-https://mhd219.iptv2022.com/p/8nfn3YOhM0VbKSd7MoEZhg,1647949000/streaming/radost/324/variable.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="europa-plus-tv" tvg-logo="https://iptvxpix.ml/europa-plus-tv.png",Европа Плюс ТВ
-https://mhd219.iptv2022.com/p/zKJOdaLG5Ctkv98_l8X-5Q,1647949394/streaming/evropaplus/324/variable.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="2422" tvg-logo="http://epg.it999.ru/img/2422.png",HD Media
-https://mhd219.iptv2022.com/p/R-nU-uc9N3H74JczvZv5lg,1647947904/streaming/hdmedia/324/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные" "https://www.tvplusonline.ru/assets/img/channels/list/joycook.png",Joy Cook
-https://mhd128.iptv2022.com/p/IByJOTfzcTE9ThO6LvQXyQ,1647940764/streaming/joycook/324/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/terra.png",Terra Incognita
-https://mhd219.iptv2022.com/p/9oZaMsVqzkuaLjtZR2QhGg,1647948125/streaming/terra/324/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/unknownplanet.png",Unknown Planet
-https://mhd219.iptv2022.com/p/6FG2vBzVcIvmqu28kB9lbw,1647948010/streaming/np/324/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="2753" tvg-logo="http://epg.it999.ru/img/2753.png",Про Бизнес
-https://mhd219.iptv2022.com/p/wPqqm1vogQnaek_MJBOlkA,1647948763/streaming/probusiness/324/1/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="2457" tvg-logo="http://epg.it999.ru/img/2457.png",Точка ТВ
-https://mhd219.iptv2022.com/p/G4rtXCQ4w7h11NHUBOv-bQ,1647948973/streaming/tochka/324/variable.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/kvant.png",Квант
-https://mhd219.iptv2022.com/p/ag8z1OlmpEj03uvygoqAEg,1647949707/streaming/tm-kvant/324/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/priboy.png",Прибой ТВ
-https://mhd219.iptv2022.com/p/uSpGvJ2F6aesFPxIemIZoQ,1647949564/streaming/priboy/324/1/index.m3u8
-
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png",Первый канал
 http://dmitry-tv.ml/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png",Первый канал
@@ -176,7 +141,7 @@ http://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="rbk" tvg-logo="https://iptvxpix.ml/rbk.png",РБК
-http://online-video.rbc.ru/online/rbctv.m3u8
+http://online-video.rbc.ru/online/rbctvhd.m3u8
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="rbk" tvg-logo="https://iptvxpix.ml/rbk.png",РБК
 https://sc.id-tv.kz/RBK_34_35.m3u8
 
@@ -3918,4 +3883,39 @@ http://live.mycamtv.com/young.m3u8
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Shemale Tube TV 2 HD
 https://www.ast.tv/stream/2/ultra.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="2269" tvg-logo="http://epg.it999.ru/img/2269.png",RT News
+https://mhd219.iptv2022.com/p/ruUaC3VOueAcdzIabk7mWA,1647949125/streaming/rt/324/variable.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/classickino.png",Movie Classic HD
+https://mhd219.iptv2022.com/p/ycgOcffQZr5u66d-ZJjh7Q,1647948203/streaming/k_kino/324/1/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/kinomenu.png",КиноМеню HD
+https://mhd219.iptv2022.com/p/-OzHRG7SVkAqMPudP250rw,1647948145/streaming/kinomenu/324/1/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/nashdom.png",Наш Дом
+https://mhd219.iptv2022.com/p/0qUlP8MZLvaDit9iCjFMgQ,1647949491/streaming/11channel/324/1/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/sovmov.png",Советское Кино
+https://mhd219.iptv2022.com/p/wdlyKEEjG8--gibwWd0KrQ,1647948515/streaming/sovietmovs/324/1/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/skazki.png",Сказки зайки
+https://mhd219.iptv2022.com/p/y-5cOrQ-B4XnLEChkupEKA,1647948621/streaming/zaj/324/1/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="1111" tvg-logo="http://epg.it999.ru/img2/1111.png",Советские мультфильмы
+https://mhd219.iptv2022.com/p/UiiFNtAR_gx80QjHLypNbg,1647949461/streaming/rusmult/324/1/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="2287" tvg-logo="http://epg.it999.ru/img/2287.png",Радость моя
+https://mhd219.iptv2022.com/p/8nfn3YOhM0VbKSd7MoEZhg,1647949000/streaming/radost/324/variable.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="europa-plus-tv" tvg-logo="https://iptvxpix.ml/europa-plus-tv.png",Европа Плюс ТВ
+https://mhd219.iptv2022.com/p/zKJOdaLG5Ctkv98_l8X-5Q,1647949394/streaming/evropaplus/324/variable.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="2422" tvg-logo="http://epg.it999.ru/img/2422.png",HD Media
+https://mhd219.iptv2022.com/p/R-nU-uc9N3H74JczvZv5lg,1647947904/streaming/hdmedia/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные" "https://www.tvplusonline.ru/assets/img/channels/list/joycook.png",Joy Cook
+https://mhd128.iptv2022.com/p/IByJOTfzcTE9ThO6LvQXyQ,1647940764/streaming/joycook/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/terra.png",Terra Incognita
+https://mhd219.iptv2022.com/p/9oZaMsVqzkuaLjtZR2QhGg,1647948125/streaming/terra/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/unknownplanet.png",Unknown Planet
+https://mhd219.iptv2022.com/p/6FG2vBzVcIvmqu28kB9lbw,1647948010/streaming/np/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="2753" tvg-logo="http://epg.it999.ru/img/2753.png",Про Бизнес
+https://mhd219.iptv2022.com/p/wPqqm1vogQnaek_MJBOlkA,1647948763/streaming/probusiness/324/1/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="2457" tvg-logo="http://epg.it999.ru/img/2457.png",Точка ТВ
+https://mhd219.iptv2022.com/p/G4rtXCQ4w7h11NHUBOv-bQ,1647948973/streaming/tochka/324/variable.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/kvant.png",Квант
+https://mhd219.iptv2022.com/p/ag8z1OlmpEj03uvygoqAEg,1647949707/streaming/tm-kvant/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/priboy.png",Прибой ТВ
+https://mhd219.iptv2022.com/p/uSpGvJ2F6aesFPxIemIZoQ,1647949564/streaming/priboy/324/1/index.m3u8
 
