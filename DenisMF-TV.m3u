@@ -13,7 +13,7 @@ http://radio-live-mg.rtr-vesti.ru/live/smil:r1.smil/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="2265" tvg-logo="http://epg.it999.ru/img/2265.png",360° HD
-https://video1.in-news.ru/360/index.m3u8
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="2265" tvg-logo="http://epg.it999.ru/img/2265.png",360° HD
 http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
 
