@@ -367,7 +367,7 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="6130" tvg-logo="http://epg.it999.ru/img2/6130.png",Insport HD
 https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
 
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://pbs.twimg.com/profile_images/766257175597576192/vzFwXwps_400x400.jpg",KOK Fights TV
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://kokfights.com/wp-content/uploads/2020/06/cropped-KOK-logo-180x180.jpg",KOK Fights TV
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="m1global" tvg-logo="https://iptvxpix.ml/m1global.png",M-1 Global
@@ -414,7 +414,7 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.nspsurfboards.com/wp-content/uploads/2019/09/ASMlogo_BLK_sm-increased.png",Adventure Sports Network
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/profile_images/1062251825481404416/LHK-R9Hx_400x400.jpg",ALL SPORTS TV HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://d2qbf73089ujv4.cloudfront.net/uploads/company/logo/38913/large_cropped_LHK-R9Hx_400x400.jpg",ALL SPORTS TV HD
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.it999.ru/img/4563.png",Arena Sport 1 HD HR
@@ -498,13 +498,13 @@ http://myhosting.one:8080/arsenal1/arsenal1/255648
 #EXTINF:-1 group-title="Sport" tvg-logo="https://3.bp.blogspot.com/-So-DAt-PYWE/Wx1J-xuE1nI/AAAAAAAAUAU/02BN3nOZ_hwMfi6kakpWXW8koakKQ11nwCLcBGAs/s320/be_in_mena_sports_max_02.png",beIN Sports Max 2 HD TR
 http://myhosting.one:8080/arsenal1/arsenal1/255649
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DZOAY6gVwAIxGha.jpg",beIN Sports Premium 1
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.digiturkburada.com/kanallar2/ligtv150x.jpg",beIN Sports Premium 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DZOAY6gVwAIxGha.jpg",beIN Sports Premium 2
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.digiturkburada.com/kanallar2/ligtv150x.jpg",beIN Sports Premium 2
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DZOAY6gVwAIxGha.jpg",beIN Sports Premium 3
+#EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.digiturkburada.com/kanallar2/ligtv150x.jpg",beIN Sports Premium 3
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png",beIN Sports XTRA
@@ -543,22 +543,22 @@ http://red.ipfox.org:8080/1234/12345678/2649
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.it999.ru/img/2920.png",Eleven Sports 6 PT
 http://red.ipfox.org:8080/1234/12345678/2650
 
-#EXTINF:-1 group-title="Sport",Fight-Sports
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.frocus.net/images/logotv/fight-sports.jpg",Fight-Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8
 
-#EXTINF:-1 group-title="Sport",Fox Sports News
+#EXTINF:-1 group-title="Sport" tvg-logo="https://wholesalesneakerslist.com/images/partner5.png",Fox Sports News
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
 
-#EXTINF:-1 group-title="Sport",FreeSports HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://trace.tv/wp-content/uploads/2013/06/TS_Freesports-280x158.jpg",FreeSports HD
 http://45.153.35.224:8000/play/a00r
 
-#EXTINF:-1 group-title="Sport",Gol TV HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://myareanetwork-photos.s3.amazonaws.com/bizlist_photos/t/208792_1507907667.jpg",Gol TV HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1090
 
-#EXTINF:-1 group-title="Sport",Hard Knocks
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.logoarena.com/contestimages/public_new/6032/12483_1435072023_hardknok2.jpg",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 
-#EXTINF:-1 group-title="Sport",Horizon Sports
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.sgboutdoor.co.uk/wp-content/uploads/unnamed-76-300x112.png",Horizon Sports
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.it999.ru/img/3105.png",LaLigaTV HD
@@ -630,7 +630,7 @@ http://red.ipfox.org:8080/1234/12345678/2752
 #EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/stadium.webp",Stadium
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/f3d8696d886f4c3b9612132643061743/playlist_ssaiM.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://4cross.eu/images/logos/sponsoren/swisssporttv.png",Swiss Sports
+#EXTINF:-1 group-title="Sport" tvg-logo="https://d3i68pnuybn9g3.cloudfront.net/images/s/swiss-gutscheine_logo_9.jpg",Swiss Sports
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i7.pngguru.com/preview/999/188/972/roku-tennis-channel-television-channel-tennis-thumbnail.jpg",Tennis Channel
@@ -978,9 +978,9 @@ https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://suzukantv.at.ua/LOGOKINO/kinopab_fantastika.png",Кинопаб Фантастика
 https://v2.catcast.tv/content/38801/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.goldmir.net/uploads/tv/channel/132/logo_big.jpg",Кинолюкс
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://me-se.careerist.ru/media/logo/110/21922/10960728_rs_248x154.jpg",Кинолюкс
 https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://www.goldmir.net/uploads/tv/channel/132/logo_big.jpg",Кинолюкс
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://me-se.careerist.ru/media/logo/110/21922/10960728_rs_248x154.jpg",Кинолюкс
 https://v2.catcast.tv/content/38821/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://www.tvplusonline.ru/assets/img/channels/list/kinomenu.png",КиноМеню HD
@@ -1209,15 +1209,15 @@ http://dmitry-tv.ml/hls/DVB-T2/CH_KARUSEL-1.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="karusel-pl2" tvg-logo="https://iptvxpix.ml/karusel-pl2.png" shift="+2",Карусель (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="karusel-pl4" tvg-logo="https://iptvxpix.ml/karusel-pl2.png" shift="+4",Карусель (+4)
+#EXTINF:-1 group-title="Детские" tvg-id="karusel-pl4" tvg-logo="https://iptvxpix.ml/karusel-pl4.png" shift="+4",Карусель (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="karusel" tvg-logo="https://iptvxpix.ml/karusel.png" shift="+6",Карусель (+6)
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_ZK/variant.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="karusel-pl7" tvg-logo="https://iptvxpix.ml/karusel-pl2.png" shift="+7",Карусель (+7)
+#EXTINF:-1 group-title="Детские" tvg-id="karusel-pl7" tvg-logo="https://iptvxpix.ml/karusel-pl7.png" shift="+7",Карусель (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="karusel-pl8" tvg-logo="https://iptvxpix.ml/karusel-pl8.png" shift="+8",Карусель (+8)
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" tvg-logo="https://iptvxpix.ml/karusel.png" shift="+8",Карусель (+8)
 http://dmitry-tv.ml/hls/DVB-T2/CH_KARUSEL_8.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="mama" tvg-logo="https://iptvxpix.ml/mama.png",Мама
@@ -1362,7 +1362,7 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="zhara" tvg-logo="https://iptvxpix.ml/zhara.png",ЖАРА
 https://livetv.mylifeisgood.ml/movix.m3u8?channel=ch094
 
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://dvb.by/sources/logos/3292.png",ЖАРА Kids TV
+#EXTINF:-1 group-title="Музыка" tvg-id="5382" tvg-logo="http://epg.it999.ru/img2/5382.png",Жара kids HD
 https://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvxpix.ml/muztv.png",МузТВ
@@ -1371,7 +1371,7 @@ https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="https://iptvxpix.ml/muzyka-pervogo.png",Музыка Первого
 https://sc.id-tv.kz:443/MuzikaPervogo_36_37.m3u8
 
-#EXTINF:-1 group-title="Музыкальные",Караоке Party Time
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.vectorstock.com/i/thumb-large/17/84/karaoke-party-logo-round-microphone-vector-27471784.jpg",Караоке Party Time
 http://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=147
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5375" tvg-logo="http://epg.it999.ru/img2/5375.png",Новое радио
@@ -3175,7 +3175,7 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://pbs.twimg.com/profile_images/917304539056955394/Kti654Ou_200x200.jpg",КТВ-Луч (Сызрань)
+#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://sun1-17.userapi.com/c850328/v850328289/566c3/E0WhStkegmE.jpg?ava=1",КТВ-Луч (Сызрань)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
 
