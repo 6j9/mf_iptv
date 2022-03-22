@@ -1362,7 +1362,7 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="zhara" tvg-logo="https://iptvxpix.ml/zhara.png",ЖАРА
 https://livetv.mylifeisgood.ml/movix.m3u8?channel=ch094
 
-#EXTINF:-1 group-title="Музыка" tvg-id="5382" tvg-logo="http://epg.it999.ru/img2/5382.png",Жара kids HD
+#EXTINF:-1 group-title="Музыкальные" tvg-id="5382" tvg-logo="http://epg.it999.ru/img2/5382.png",Жара kids HD
 https://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvxpix.ml/muztv.png",МузТВ
