@@ -25,7 +25,7 @@ http://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1.m3
 #EXTINF:-1 group-title="Эфирные" tvg-id="cctv-ru" tvg-logo="https://iptvxpix.ml/cctv-ru.png",CGTN-Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="cctv-ru" tvg-logo="https://iptvxpix.ml/cctv-ru.png",CGTN-Русский
-https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+http://dmitry-tv.ml/hls/CH_CGTN_RU.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="rtd-ru" tvg-logo="https://iptvxpix.ml/rt-doc.png",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
@@ -59,7 +59,7 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 http://live2.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="zvezda" tvg-logo="https://iptvxpix.ml/zvezda.png",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+http://dmitry-tv.ml/hls/DVB-T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="zvezda" tvg-logo="https://iptvxpix.ml/zvezda.png",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
@@ -332,9 +332,6 @@ https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 #EXTINF:-1 group-title="Спортивные" tvg-id="mir-basketbola" tvg-logo="https://iptvxpix.ml/mir-basketbola.png",Мир Баскетбола
 http://46.174.83.66/MirBasketbola/index.m3u8
 
-#EXTINF:-1 group-title="Спортивные" tvg-id="motorsportv-tv" tvg-logo="https://iptvxpix.ml/motorsportv-tv.png",Моторспорт ТВ
-http://pl.iptv.monster/3918/video.m3u8?token=B65C5288FFA5747
-
 #EXTINF:-1 group-title="Спортивные" tvg-id="start" tvg-logo="https://iptvxpix.ml/start.png",Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 
@@ -369,7 +366,7 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://sc.id-tv.kz:443/M-1_34_35.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="http://db.radioline.fr/pictures/podcast_d3bf5cb3ef3d43dfcef8c785ed7951a7/logo200.jpg",MMA Jankie HD
-http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://www.mmatv.co.uk/wp-content/uploads/2016/01/mma-tv-news-300x300.jpg",MMATV-live
 https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
