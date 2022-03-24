@@ -1,5 +1,3 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&amp;utcstart=${timestamp}"
-
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png",Первый канал
 http://dmitry-tv.ml/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="Эфирные [резерв]" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png",Первый канал
@@ -364,6 +362,9 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="6130" tvg-logo="http://epg.it999.ru/img2/6130.png",Insport HD
 https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
 
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cdn.freelance.ru/img/portfolio/thumb/00/27/F5/2618816.png",High TV
+https://v2.catcast.tv/content/270/index.m3u8
+
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://kokfights.com/wp-content/uploads/2020/06/cropped-KOK-logo-180x180.jpg",KOK Fights TV
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
@@ -378,6 +379,9 @@ https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b43
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="mostvideo" tvg-logo="https://iptvxpix.ml/mostvideo.png",MostVideo
 http://w4.mostvideo.tv/tv/ch1.m3u8
+
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://img.catcast.tv/uploads/05012021/logos/39650-5ff4499e3aede.png",Pro Wrestling Network
+https://v2.catcast.tv/content/39650/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="6039" tvg-logo="http://epg.it999.ru/img2/6039.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -819,6 +823,16 @@ https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="rodnoe-kino" tvg-logo="https://iptvxpix.ml/rodnoe-kino.png",Родное Кино
 http://persik.by/stream/7504/377885/312.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/banners/a2af47aa7423533ec5572fb9972dda10.png",Action Film
+https://v2.catcast.tv/content/36517/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/banners/a2af47aa7423533ec5572fb9972dda10.png",Action Film
+https://autopilot.catcast.tv/content/36517/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/03022022/logos/40791-61fc01e01fcad.png",AVD
+https://v2.catcast.tv/content/40791/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/03022022/logos/40791-61fc01e01fcad.png",AVD
+https://autopilot.catcast.tv/content/40791/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="backustv" tvg-logo="https://iptvxpix.ml/backustv.png",BackusTV
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="backustv" tvg-logo="https://iptvxpix.ml/backustv.png",BackusTV
@@ -849,25 +863,70 @@ http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="filmbox-ru" tvg-logo="https://iptvxpix.ml/filmbox-ru.png",FilmBox Russia
 http://94.230.240.17:8080/film_box/index.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/01072020/logos/38681-5efc665d49992.png",FilmCast
+https://v2.catcast.tv/content/38681/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/01072020/logos/38681-5efc665d49992.png",FilmCast
+https://autopilot.catcast.tv/content/38681/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/logos/9d386e3c02e7b905667dfc2a0133fce4.png",Film TV
+https://v2.catcast.tv/content/36043/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/logos/9d386e3c02e7b905667dfc2a0133fce4.png",Film TV
+https://autopilot.catcast.tv/content/36043/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/2652.png",FMC TV
-http://hlss.goodgame.ru/hls/187741.m3u8
+https://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="http://epg.it999.ru/img/2652.png",FMC TV
-http://hlss.goodgame.ru/hls/187741.m3u8
+http://hls.goodgame.ru/hls/187741.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hollywood-hd" tvg-logo="https://iptvxpix.ml/hollywood-hd.png",Hollywood HD
 https://sc.id-tv.kz/Hollywood_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="hollywood-hd" tvg-logo="https://iptvxpix.ml/hollywood-hd.png",Hollywood HD
 http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/01012022/logos/41121-61d0a03cb6920.jpg",IPTV IMDB TOP
+https://v2.catcast.tv/content/41121/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/01012022/logos/41121-61d0a03cb6920.jpg",IPTV IMDB TOP
+https://v2.catcast.tv/content/41121/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38821-61045e2aa14fb.png",IPTVPLAY Память
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38821-61045e2aa14fb.png",IPTVPLAY Память
+https://autopilot.catcast.tv/content/38821/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38896-61045dae6ffff.png",IPTVPLAY Ужастик
+https://v2.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38896-61045dae6ffff.png",IPTVPLAY Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38801-61045ebfe0919.png",IPTVPLAY Фантастика
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38801-61045ebfe0919.png",IPTVPLAY Фантастика
+https://autopilot.catcast.tv/content/38801/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/16032020/38010-5e6fcf8544b52.png",KinoMax
+https://v2.catcast.tv/content/38010/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/16032020/38010-5e6fcf8544b52.png",KinoMax
+https://autopilot.catcast.tv/content/38010/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/5200.png",LAVA HD
 http://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="http://epg.it999.ru/img/5200.png",LAVA HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=957
 
+#EXTINF:-1 group-title="Кино и сериалы",MayerIP
+https://v2.catcast.tv/content/38505/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]",MayerIP
+https://autopilot.catcast.tv/content/38505/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img2/5356.png",Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="http://epg.it999.ru/img2/5356.png",Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/08112021/logos/40660-61893f884df5a.png",NorMax
+https://v2.catcast.tv/content/40660/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" [резерв] tvg-logo="https://img.catcast.tv/uploads/08112021/logos/40660-61893f884df5a.png",NorMax
+https://autopilot.catcast.tv/content/40660/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="paramount-channel" tvg-logo="https://iptvxpix.ml/paramount-channel.png",Paramount Channel
 http://109.200.130.124:15500/paramountchannel
@@ -884,10 +943,20 @@ http://145.249.228.229:8000/play/a003
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="plan-b" tvg-logo="https://iptvxpix.ml/plan-b.png",Plan B HD
 http://145.249.228.229:8000/play/a003
 
+#EXTINF:-1 group-title="Кино и сериалы",Premiere HD
+https://v2.catcast.tv/content/38487/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]",Premiere HD
+https://autopilot.catcast.tv/content/38487/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/19032022/logos/41171-62350f09652d3.png",Prokop TV Криминал
+https://v2.catcast.tv/content/41171/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/19032022/logos/41171-62350f09652d3.png",Prokop TV Криминал
+https://v2.catcast.tv/content/41171/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img2/6001.png",Series TV HD
-http://hlss.goodgame.ru/hls/186021.m3u8
+https://hls.goodgame.ru/hls/186021.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="http://epg.it999.ru/img2/6001.png",Series TV HD
-http://hlss.goodgame.ru/hls/186021.m3u8
+http://hls.goodgame.ru/hls/186021.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-cinema-ua" tvg-logo="https://iptvxpix.ml/star-cinema.png",Star Cinema
 http://31.43.48.248:7000/ch56/video.m3u8
@@ -910,15 +979,30 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="ultra-hd-cinema" tvg-logo="https://iptvxpix.ml/ultra-hd-cinema.png",Ultra HD Cinema
 http://dmitry-tv.ml/hls/zabava/CH_ULTRAHDCINEMAHD.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40675-61335c6a27efa.jpg",VHS-Крутая Видеотека
+https://v2.catcast.tv/content/40675/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40675-61335c6a27efa.jpg",VHS-Крутая Видеотека
+https://autopilot.catcast.tv/content/40675/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/06012021/logos/38135-5ff57f823f672.png",YossoTV 1
+https://v2.catcast.tv/content/38135/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/06012021/logos/38135-5ff57f823f672.png",YossoTV 1
+https://autopilot.catcast.tv/content/38135/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="zee-tv" tvg-logo="https://iptvxpix.ml/zee-tv.png",Zee TV
 https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="zee-tv" tvg-logo="https://iptvxpix.ml/zee-tv.png",Zee TV
 http://st1.astra-uk.ru:81/29cd7631af2bc372546584478ce43acf/playlist.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvxpix.ml/bcu-vhs-hd.png",Видеокассета VHS
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/31072021/logos/37925-61050978e18c3.png",Видеокассета VHS
 https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://iptvxpix.ml/bcu-vhs-hd.png",Видеокассета VHS
-https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/31072021/logos/37925-61050978e18c3.png",Видеокассета VHS
+https://autopilot.catcast.tv/content/37925/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/06072021/logos/40391-60e45cef75c58.jpg",Видеосалон VHS
+https://v2.catcast.tv/content/40391/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/06072021/logos/40391-60e45cef75c58.jpg",Видеосалон VHS
+https://autopilot.catcast.tv/content/40391/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino" tvg-logo="https://iptvxpix.ml/domkino.png",Дом Кино
 http://st1.astra-uk.ru:81/7bfe4cf6278ff80748c9d021cf7144d8/playlist.m3u8?ts
@@ -950,30 +1034,50 @@ http://persik.by/stream/7504/377885/327.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="illuzion-plus" tvg-logo="https://iptvxpix.ml/illuzion-plus.png",Иллюзион+
 https://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/logos/80ddb8fed50e98dc16b7316cddccf94b.gif",Империя Кино
+https://v2.catcast.tv/content/34450/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/logos/80ddb8fed50e98dc16b7316cddccf94b.gif",Империя Кино
+https://autopilot.catcast.tv/content/34450/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino1int-tviksel" tvg-logo="https://iptvxpix.ml/kino1int-tviksel.png",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="kino1int-tviksel" tvg-logo="https://iptvxpix.ml/kino1int-tviksel.png",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i8.imgiz.com/rshots/3603/come-and-see_3603381-14_160x100.jpg",Кино-International
+https://v2.catcast.tv/content/40636/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://i8.imgiz.com/rshots/3603/come-and-see_3603381-14_160x100.jpg",Кино-International
+https://autopilot.catcast.tv/content/40636/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png" tvg-shift=2,Кино ТВ
 http://live-1.otcnet.ru/kinosem/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png" tvg-shift=2,Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotv
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://suzukantv.at.ua/LOGOKINO/kinoklub.png",Киноклуб
-https://v2.catcast.tv/content/39005/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://suzukantv.at.ua/LOGOKINO/kinoklub.png",Киноклуб
-https://v2.catcast.tv/content/39005/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/07092021/logos/40686-6136813168e64.jpg",Кино Выход
+https://v2.catcast.tv/content/40686/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/07092021/logos/40686-6136813168e64.jpg",Кино Выход
+https://autopilot.catcast.tv/content/40686/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://suzukantv.at.ua/LOGOKINO/kinopab_fantastika.png",Кинопаб Фантастика
-https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://suzukantv.at.ua/LOGOKINO/kinopab_fantastika.png",Кинопаб Фантастика
-https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/03062021/logos/38223-60b92415dcb70.png",КИНОBOX
+https://v2.catcast.tv/content/38223/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/03062021/logos/38223-60b92415dcb70.png",КИНОBOX
+https://autopilot.catcast.tv/content/38223/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://me-se.careerist.ru/media/logo/110/21922/10960728_rs_248x154.jpg",Кинолюкс
-https://v2.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://me-se.careerist.ru/media/logo/110/21922/10960728_rs_248x154.jpg",Кинолюкс
-https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/04062021/logos/40304-60b9fc58ea29a.png",КИНОBOX= Best Film
+https://v2.catcast.tv/content/40304/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/04062021/logos/40304-60b9fc58ea29a.png",КИНОBOX= Best Film
+https://autopilot.catcast.tv/content/40304/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/01062021/logos/40242-60b4ed67e555b.gif",Киновселенная_TV
+https://v2.catcast.tv/content/40242/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/01062021/logos/40242-60b4ed67e555b.gif",Киновселенная_TV
+https://autopilot.catcast.tv/content/40242/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/07022021/logos/39005-60201ae8e136b.jpg",Киноклуб
+https://v2.catcast.tv/content/39005/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/07022021/logos/39005-60201ae8e136b.jpg",Киноклуб
+https://autopilot.catcast.tv/content/39005/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopokaz" tvg-logo="https://iptvxpix.ml/kinopokaz.png",Кинопоказ
 http://myott.top/stream/1VGPHYLZTH/64.m3u8
@@ -995,6 +1099,21 @@ http://dmitry-tv.ml/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="krasnaya-linia" tvg-logo="https://iptvxpix.ml/krasnaya-linia.png",Красная линия ТВ
 http://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/12032022/logos/38794-622c67e06cba2.png",Малдер ТВ VHS 1
+https://v2.catcast.tv/content/38794/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/12032022/logos/38794-622c67e06cba2.png",Малдер ТВ VHS 1
+https://autopilot.catcast.tv/content/38794/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/12032022/logos/38792-622c682d8217e.png",Малдер ТВ VHS 2
+https://v2.catcast.tv/content/38792/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/12032022/logos/38792-622c682d8217e.png",Малдер ТВ VHS 2
+https://autopilot.catcast.tv/content/38792/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/20032022/logos/41023-6236e858c6e14.png",Малдер ТВ Ужасы
+https://v2.catcast.tv/content/41023/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/20032022/logos/41023-6236e858c6e14.png",Малдер ТВ Ужасы
+https://autopilot.catcast.tv/content/41023/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="mir-seriala" tvg-logo="https://iptvxpix.ml/mir-seriala.png",Мир сериала
 http://109.200.130.124:7007/play/a01a
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="mir-seriala" tvg-logo="https://iptvxpix.ml/mir-seriala.png",Мир сериала
@@ -1009,6 +1128,11 @@ http://50.7.231.220:8081/235/index.m3u8?wmsAuthSign=okad
 https://sc.id-tv.kz/NSTV_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="nst" tvg-logo="https://iptvxpix.ml/nst.png",Настоящее страшное ТВ
 http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/05012021/logos/39650-5ff4499e3aede.png",Новое TV
+https://v2.catcast.tv/content/39390/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/05012021/logos/39650-5ff4499e3aede.png",Новое TV
+https://autopilot.catcast.tv/content/39390/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-xit" tvg-logo="https://iptvxpix.ml/ntv-xit.png",НТВ Хит
 http://217.11.177.55/streams/media/ntv-hit_492x250/index.m3u8
@@ -1035,6 +1159,11 @@ http://46.174.83.66/Retro/mpegts
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="retro-tv" tvg-logo="https://iptvxpix.ml/retro-tv.png",Ретро
 http://tv.streams.baikal-telecom.net/RetroTV/mpegts
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/10032022/logos/40831-6229a7e06f1a3.png",Российские Сериалы
+https://v2.catcast.tv/content/40831/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/10032022/logos/40831-6229a7e06f1a3.png",Российские Сериалы
+https://autopilot.catcast.tv/content/40831/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-bestseller" tvg-logo="https://iptvxpix.ml/russky-bestseller.png",Русский бестселлер
 http://st1.astra-uk.ru:81/cd59211874cc4acb0dbae03a7f5b5fbe/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="russky-bestseller" tvg-logo="https://iptvxpix.ml/russky-bestseller.png",Русский бестселлер
@@ -1060,10 +1189,55 @@ https://edge-01.kino.watch/fresh/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://sun1-87.userapi.com/c848528/v848528161/c9495/Fhm1IGSVnfc.jpg?ava=1",Свежаки HD
 https://edge-01.kino.watch/fresh/index.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://logosave.com/images/small/16/Plus-1-2-3-4-5-6-7-logo.gif",Сериал плюс
+https://v2.catcast.tv/content/40983/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://logosave.com/images/small/16/Plus-1-2-3-4-5-6-7-logo.gif",Сериал плюс
+https://autopilot.catcast.tv/content/40983/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/34246-621323cff005f.png",Сити Эдем TV RU
+https://v2.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/34246-621323cff005f.png",Сити Эдем TV RU
+https://autopilot.catcast.tv/content/34246/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/34393-6213252d684ae.png",Сити Эдем - Голос Бирмы
+https://v2.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/34393-6213252d684ae.png",Сити Эдем - Голос Бирмы
+https://autopilot.catcast.tv/content/34393/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/41327-62132887b5733.png",Сити Эдем - КиноДетектив
+https://v2.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/41327-62132887b5733.png",Сити Эдем - КиноДетектив
+https://autopilot.catcast.tv/content/41327/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/34185-6213238f2e1d8.png",Сити Эдем - КиноКлассика
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/34185-6213238f2e1d8.png",Сити Эдем - КиноКлассика
+https://autopilot.catcast.tv/content/34185/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/40783-621327df2c1bb.png",Сити Эдем - КиноМистика
+https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/40783-621327df2c1bb.png",Сити Эдем - КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/22022022/logos/41333-6214c74721679.png",Сити Эдем - КиноЭкшен
+https://v2.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/22022022/logos/41333-6214c74721679.png",Сити Эдем - КиноЭкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/38128-621326f31dcf7.png",Сити Эдем - Пульсар TV
+https://v2.catcast.tv/content/38128/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/38128-621326f31dcf7.png",Сити Эдем - Пульсар TV
+https://autopilot.catcast.tv/content/38128/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tvoyo-tv-hd" tvg-logo="https://iptvxpix.ml/tvoyo-tv-hd.png",Твоё ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="tvoyo-tv-hd" tvg-logo="https://iptvxpix.ml/tvoyo-tv-hd.png",Твоё ТВ HD
 http://stream-norst.cf/tvoetv.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/03122021/logos/41000-61a9d0bfdcd0a.png",Ужас ТВ
+https://v2.catcast.tv/content/41000/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/03122021/logos/41000-61a9d0bfdcd0a.png",Ужас ТВ
+https://autopilot.catcast.tv/content/41000/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://smotret.tv/images/uzhastik.webp",Ужастик
 https://edge-01.kino.watch/horror/index.m3u8
@@ -1076,7 +1250,7 @@ https://edge-01.kino.watch/hit/index.m3u8
 https://edge-01.kino.watch/hit/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://suzukantv.at.ua/IPTV-LOGO-3/fantastika_hd.png",Фантастика HD
-http://hlss.goodgame.ru/hls/187241.m3u8
+https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://suzukantv.at.ua/IPTV-LOGO-3/fantastika_hd.png",Фантастика HD
 http://hls.goodgame.ru/hls/187241.m3u8
 
@@ -1084,6 +1258,26 @@ http://hls.goodgame.ru/hls/187241.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="feniks-plus-kino" tvg-logo="https://iptvxpix.ml/feniks-plus-kino.png",Феникс+ Кино
 http://dmitry-tv.ml/hls/CH_FENIKSPLUSKINO.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы",Фильмы
+https://v2.catcast.tv/content/38063/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]",Фильмы
+https://autopilot.catcast.tv/content/38063/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы",Фильмы 2
+https://v2.catcast.tv/content/38070/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]",Фильмы 2
+https://autopilot.catcast.tv/content/38070/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/28012020/37762-5e30725b3c37c.png",Фильмы и сериалы HD
+https://v2.catcast.tv/content/37762/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/28012020/37762-5e30725b3c37c.png",Фильмы и сериалы HD
+https://autopilot.catcast.tv/content/37762/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/12092021/logos/40710-613d2f06cb31a.png",Хороший Сериал
+https://v2.catcast.tv/content/40710/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://img.catcast.tv/uploads/12092021/logos/40710-613d2f06cb31a.png",Хороший Сериал
+https://autopilot.catcast.tv/content/40710/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="shokiruyushchee" tvg-logo="https://iptvxpix.ml/shokiruyushchee.png",Шокирующее
 http://myott.top/stream/1VGPHYLZTH/75.m3u8
@@ -1116,15 +1310,20 @@ https://sc.id-tv.kz/Gulli_34_35.m3u8
 #EXTINF:-1 group-title="Детские [резерв]" tvg-id="gulli-girl" tvg-logo="https://iptvxpix.ml/gulligirl.png",Gulli Girl
 http://persik.by/stream/7504/377885/596.m3u8
 
+#EXTINF:-1 group-title="Детские" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38850-61045d8175ad6.png",IPTVPLAY МультСказки
+https://v2.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1 group-title="Детские [резерв]" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38850-61045d8175ad6.png",IPTVPLAY МультСказки
+https://autopilot.catcast.tv/content/38850/index.m3u8
+
 #EXTINF:-1 group-title="Детские" tvg-id="jimjam" tvg-logo="https://iptvxpix.ml/jimjam.png",JimJam
 http://persik.by/stream/7504/377885/454.m3u8
 #EXTINF:-1 group-title="Детские [резерв]" tvg-id="jimjam" tvg-logo="https://iptvxpix.ml/jimjam.png",JimJam
 http://dmitry-tv.ml/hls/CH_JIMJAM.m3u8
 
-#EXTINF:-1 group-title="Детские" tvg-logo="https://i.ytimg.com/vi/R6ONCWJNc5w/default.jpg",Kinder TV
+#EXTINF:-1 group-title="Детские" tvg-logo="https://img.catcast.tv/uploads/02062021/logos/38144-60b7e4ab9b127.png",Kinder TV
 https://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 group-title="Детские [резерв]" tvg-logo="https://i.ytimg.com/vi/R6ONCWJNc5w/default.jpg",Kinder TV
-https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 group-title="Детские [резерв]" tvg-logo="https://img.catcast.tv/uploads/02062021/logos/38144-60b7e4ab9b127.png",Kinder TV
+https://autopilot.catcast.tv/content/38144/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="nick-jr" tvg-logo="https://iptvxpix.ml/nick-jr.png",Nick Jr
 https://sc.id-tv.kz/NickJr_36_37.m3u8
@@ -1155,6 +1354,11 @@ http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="Детские [резерв]" tvg-id="da-vinci" tvg-logo="https://iptvxpix.ml/da-vinci.png",Да Винчи
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=davinci
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детские [резерв]" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
+https://autopilot.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="disney" tvg-logo="https://iptvxpix.ml/disney.png",Канал Disney
 http://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
@@ -1199,6 +1403,11 @@ http://dmitry-tv.ml/hls/DVB-T2/CH_KARUSEL_6.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="karusel" tvg-logo="https://iptvxpix.ml/karusel.png" tvg-shift="+8" shift="+8",Карусель (+8)
 http://dmitry-tv.ml/hls/DVB-T2/CH_KARUSEL_8.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://img.catcast.tv/uploads/04062021/logos/40305-60b9fdf9b7302.png",КИНОBOX= Children's
+https://v2.catcast.tv/content/40305/index.m3u8
+#EXTINF:-1 group-title="Детские [резерв]" tvg-logo="https://img.catcast.tv/uploads/04062021/logos/40305-60b9fdf9b7302.png",КИНОBOX= Children's
+https://autopilot.catcast.tv/content/40305/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="mama" tvg-logo="https://iptvxpix.ml/mama.png",Мама
 http://109.200.130.124:15500/mama
@@ -1289,6 +1498,9 @@ http://94.19.220.168:81/udp/239.239.3.69:5239
 #EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvxpix.ml/bridge-tv-ruxit.png",Bridge TV Русский хит
 http://st1.astra-uk.ru:81/cc7fefbc8c69a819a7f604433d1d793b/playlist.m3u8?ts
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://img.catcast.tv/uploads/21022022/logos/34100-6213233386ef7.png",Сити Эдем - Сити Эдем Play
+https://v2.catcast.tv/content/34100/index.m3u8
+
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5366" tvg-logo="http://epg.it999.ru/img2/5366.png",Fresh HD
 http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_4.smil/playlist.m3u8
 
@@ -1340,6 +1552,15 @@ https://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvxpix.ml/muztv.png",МузТВ
 https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="https://iptvxpix.ml/muzyka-pervogo.png",Музыка Первого
 https://sc.id-tv.kz:443/MuzikaPervogo_36_37.m3u8
 
@@ -1380,6 +1601,9 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="6008" tvg-logo="http://epg.it999.ru/img2/6008.png",Best Live Performances
 http://140.238.127.147/streams/3.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://img.catcast.tv/uploads/19012021/logos/39730-600736477b96f.png",Canal Musique HD
+https://v2.catcast.tv/content/39730/index.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-id="clubbing-tv" tvg-logo="https://iptvxpix.ml/clubbing-tv.png",Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
@@ -1415,6 +1639,9 @@ http://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="3928" tvg-logo="http://epg.it999.ru/img/3928.png",Dream Turk FHD TR
 http://2122248074.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://img.catcast.tv/logos/21b9345e2d6c266a185ca3777ea8a9d0.png",Enter Music TV
+https://v2.catcast.tv/content/36007/index.m3u8
 
 #EXTINF:-1 group-title="Music",Factoria TV HD
 https://eu1.servers10.com:8081/8010/index.m3u8
@@ -1545,6 +1772,9 @@ http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 group-title="Music",Portal FoxMix TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://img.catcast.tv/uploads/14032022/banners/41313-622f43cc4ef4b.png",Prokop TV ROCK
+https://v2.catcast.tv/content/41313/index.m3u8
+
 #EXTINF:-1 group-title="Music",Radio Birikina TV
 http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
 
@@ -1577,6 +1807,9 @@ http://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Reload Radio Music Power HD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://img.catcast.tv/uploads/10042020/38141-5e90a4455c240.png",Retro 90s TV
+https://v2.catcast.tv/content/38141/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVpywMNr4jQPOGd7KJb.png",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -1668,7 +1901,7 @@ https://eu1.servers10.com:8081/8028/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="5597" tvg-logo="http://epg.it999.ru/img2/5597.png",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Music",Trance is Star
+#EXTINF:-1 group-title="Music" tvg-logo="https://img.catcast.tv/uploads/09072021/logos/391-60e8444c6c0c6.png",Trance is Star TV
 https://tis.catcast.tv/content/391/index.m3u8
 
 #EXTINF:-1 group-title="Music",TVM3
@@ -4122,14 +4355,16 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 
 #EXTINF:-1 group-title="Взрослые" tvg-id="6321" tvg-logo="http://epg.it999.ru/img2/6321.png",Кино 18+ HD
-https://autopilot.catcast.tv/content/40381/index.m3u8
+https://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
 http://46.181.193.122:81/udp/239.255.42.218:1234
 #EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
 http://46.174.83.66/Russkaya_Noch/video.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-id="sholk" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Шелк ТВ HD
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Телеканал кому за 18
+https://v2.catcast.tv/content/37358/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="sholk" tvg-logo="https://st.weblancer.net/download/1059784_250xr.jpg",Шелк ТВ HD
 http://live-2.otcnet.ru/shelk/index.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Babestation
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://assets.bigcartel.com/theme_images/18251983/logo.png",Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2313" tvg-logo="http://epg.it999.ru/img/2313.png",Barely legal
 http://46.181.193.122:81/udp/239.255.42.224:1234
@@ -4139,7 +4374,7 @@ http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
 http://46.181.193.122:81/udp/239.255.42.222:1234
 #EXTINF:-1 group-title="Взрослые" tvg-id="2021" tvg-logo="http://epg.it999.ru/img/2021.png",BRAZZERS TV
 http://46.181.193.122:81/udp/239.255.42.220:1234
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Eropuls DE
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://yt3.ggpht.com/a/AATXAJwBSHNWFeTf8OW2SmlUcpqofdnfqC72cQSLRQ=s100-c-k-c0xffffffff-no-rj-mo",Eropuls DE
 https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2193" tvg-logo="http://epg.it999.ru/img/2193.png",Erox HD
 http://94.229.250.73:8008/play/a002
@@ -4164,7 +4399,7 @@ http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2527" tvg-logo="http://epg.it999.ru/img/2527.png",O-la-la
 http://46.181.193.122:81/udp/239.255.42.219:1234
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Pinko Club
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://img-ipad.lisisoft.com/imgmic/8/1/819-1-pinko-up.jpg",Pinko Club
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",PLAYBOY TV
 http://46.181.193.122:81/udp/239.255.42.221:1234
