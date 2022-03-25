@@ -829,8 +829,7 @@ http://50.7.231.221:8081/184/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvxpix.ml/bolt.png",Bolt
 http://50.7.231.221:8081/215/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-logo="https://iptvxpix.ml/bolt.png",Bolt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8
+http://50.7.231.221:8081/215/index.m3u8?wmsAuthSign=okad
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/4647.png",Cinema Classic TV
 http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
