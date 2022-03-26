@@ -992,9 +992,9 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="kino1int-tviksel" tvg-logo="https://iptvxpix.ml/kino1int-tviksel.png",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png" tvg-shift="+2" shift="+2",Кино ТВ
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png" tvg-shift="+6" shift="+6",Кино ТВ
 http://live-1.otcnet.ru/kinosem/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png" tvg-shift="+2" shift="+2",Кино ТВ
+#EXTINF:-1 group-title="Кино и сериалы [резерв]" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png" tvg-shift="+6" shift="+6",Кино ТВ
 https://livetv.mylifeisgood.ml/channels/kinotv
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/07022021/logos/39005-60201ae8e136b.jpg",Киноклуб
