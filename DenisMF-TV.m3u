@@ -691,6 +691,9 @@ http://myott.top/stream/1VGPHYLZTH/226.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tvxxi" tvg-logo="https://iptvxpix.ml/tvxxi.png",TV XXI
 http://193.176.179.38:8087/xxi/index.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://pover-v-mechtu.ru/wp-content/uploads/2012/11/TVMCHANNEL.png",TVM Channel
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/playlist.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ultra-hd-cinema" tvg-logo="https://iptvxpix.ml/ultra-hd-cinema.png",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
@@ -1046,7 +1049,10 @@ http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="hitv" tvg-logo="https://iptvxpix.ml/hitv.png",HITV
 https://strm.yandex.ru/kal/hittv/hittv0.m3u8
 
-#EXTINF:-1 group-title="Музыкальные",Maidan TV HD Татарстан
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3724598/80ad3fc5-df0a-4727-a088-c0893367d24a/s600",MAFI2A Music
+https://hls.myvideocontent.ru/hls/tv12/index.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="maydan" tvg-logo="https://iptvxpix.ml/maydan.png",Maidan TV HD Татарстан
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mcm-top" tvg-logo="https://iptvxpix.ml/mcm-top.png",MCM Top Россия
@@ -1059,19 +1065,37 @@ https://live.prd.dlive.tv/hls/live/mixm.m3u8
 http://myott.top/stream/1VGPHYLZTH/88.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="vh1-classic" tvg-logo="https://iptvxpix.ml/vh1-classic.png",MTV 80s
-http://myott.top/stream/1VGPHYLZTH/87.m3u8
+http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV 00s
-http://193.32.37.17:8000/play/a007/index.m3u8
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Dance
+http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="1723" tvg-logo="http://epg.it999.ru/img/1723.png",MTV Hits
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="382" tvg-logo="http://epg.it999.ru/img/382.png",MTV Live HD
+http://109.200.130.124:7005/play/a00e
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-russia" tvg-logo="https://iptvxpix.ml/mtv-russia.png",MTV Россия
 http://myott.top/stream/1VGPHYLZTH/89.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="2094" tvg-logo="http://epg.it999.ru/img/2094.png",Music HD
+http://live-planetaonline.cdnvideo.ru/http/smil:channel_4.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="musicbox" tvg-logo="https://iptvxpix.ml/musicbox-gold.png",MusicBox Gold
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://muzzone.tv/images/logo.png",Muzzone
-http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
+http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://www.trkvolgamoll.ru/upload/main/842/Logotip_dlya_znachka_na_karte_i_v_spiske.jpg",PowerNet HD
+http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="4472" tvg-logo="http://epg.it999.ru/img/4472.png",Ritsa TV
 https://live.prd.dlive.tv/hls/live/fila007.m3u8
@@ -1079,14 +1103,23 @@ https://live.prd.dlive.tv/hls/live/fila007.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="russian-ru-tv" tvg-logo="https://iptvxpix.ml/ru-tv.png",RU.TV HD
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://vseotzyvy.ru/media/item_images/1362157307.png",RUSONG TV
+http://mfe.cliptv.az/dash/RUSONG_TV_SD.ism/playlist.mpd
+
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5373" tvg-logo="http://epg.it999.ru/img2/5373.png",Russian Dance Hits of 90s
 http://140.238.127.147/streams/4.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="russian-musicbox" tvg-logo="https://iptvxpix.ml/russian-musicbox.png",Russian MusicBox
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://bem-media.de/wp-content/cache/thumb/e9/4115b91bd4770e9_263x165.png",Russischer JahrMarkt
+http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+
 #EXTINF:-1 group-title="Музыкальные" tvg-id="viva-rus" tvg-logo="https://iptvxpix.ml/viva-rus.png",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="viva-rus" tvg-logo="https://iptvxpix.ml/viva-rus.png",VIVA Россия
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="europa-plus-tv" tvg-logo="https://iptvxpix.ml/europa-plus-tv.png",Европа Плюс ТВ
 http://persik.by/stream/7504/377885/682.m3u8
@@ -1100,11 +1133,17 @@ https://livetv.mylifeisgood.ml/movix.m3u8?channel=ch094
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5382" tvg-logo="http://epg.it999.ru/img2/5382.png",ЖАРА Kids HD
 https://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://cdn.teleon.tv/logo/illi-tv.png",Илли ТВ
+http://illi.fm/illitv_2000/index.m3u8
+
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.vectorstock.com/i/thumb-large/17/84/karaoke-party-logo-round-microphone-vector-27471784.jpg",Караоке Party Time
 http://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=147
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="la-minor" tvg-logo="https://iptvxpix.ml/la-minor.png",Ля-минор
 http://myott.top/stream/1VGPHYLZTH/303.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://2015.regions.rif.ru/upload/iblock/e47/e4724ffb3961078fde3836dc9c67f864.png", МТВ Столица
+http://iptv46.mcx-ix.ru:8077/mtv-stolitca/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv" tvg-logo="https://iptvxpix.ml/muztv.png",МузТВ
 https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
@@ -1119,34 +1158,49 @@ https://kino-1.catcast.tv/content/37742/index.m3u8
 https://kino-1.catcast.tv/content/37739/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="https://iptvxpix.ml/muzyka-pervogo.png",Музыка Первого
-https://sc.id-tv.kz/MuzikaPervogo_36_37.m3u8
+http://st1.astra-uk.ru:81/c3cf8febe32962c8e47fe38878831e6f/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5375" tvg-logo="http://epg.it999.ru/img2/5375.png",Новое радио
-http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+https://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://line-new.ru/upload/iblock/bda/bdae85b069455e4bd15147f9892fb49c.jpg",О!2
+http://217.11.177.56/streams/media/o2tv_720x576/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5365" tvg-logo="http://epg.it999.ru/img2/5365.png",Первый музыкальный
 http://rtmp.one.by:1300
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://epg.it999.ru/img2/5365.png",Первый музыкальный SD
+http://rtmp.one.by:1200
+
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5364" tvg-logo="http://epg.it999.ru/img2/5364.png",Первый музыкальный HD RU
 http://rtmp.one.by:2300
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/187464/qKWoUis9UF2KzrAr1xFDwA.jpg",Радио Kids FM
+http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="6191" tvg-logo="http://epg.it999.ru/img2/6191.png",Радио ХИТ ОРС
+http://lova.me/hls/hithd.m3u8
+
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://reklabank.ru/wp-content/uploads/2020/03/Radio_Shanson-300x300.jpg",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5372" tvg-logo="http://epg.it999.ru/img2/5372.png",Русская попса 80х-90х
 http://140.238.127.147/streams/6.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="radio-strana-fm-tv" tvg-logo="https://iptvxpix.ml/radio-strana-fm-tv.png",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="tnt-music" tvg-logo="https://iptvxpix.ml/tnt-music.png",ТНТ Music
 https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="shanson-tv" tvg-logo="https://iptvxpix.ml/shanson-tv.png",Шансон-ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzsoyuz" tvg-logo="https://iptvxpix.ml/muzsoyuz.png",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Music",30A Music
+#EXTINF:-1 group-title="Music" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d3/d4/0d/d3d40de6-fd2a-ac4d-70e2-8d591eaac82d/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/320x0w.png",30A.TV Music
 http://30a-tv.com/music.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/1c/cd/4a/1ccd4a9098532f553d15ce963567aa82.jpg",Afrobeats
@@ -1169,9 +1223,6 @@ http://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1705
 
 #EXTINF:-1 group-title="Music",Brasa Music HD
 http://live.salto.nl/hls/sotv1_high.m3u8
-
-#EXTINF:-1 group-title="Music",Capital Tibu Musical
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="Music",Christian Music
 http://broadcast.mytvtogo.net/contemporarychristian/contemporarychristian/playlist.m3u8
@@ -1200,32 +1251,32 @@ http://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="4673" tvg-logo="http://epg.it999.ru/img/4673.png",Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
-#EXTINF:-1 group-title="Music",DT Best of House Flor
-http://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-
-#EXTINF:-1 group-title="Music",DT Deep House District
-http://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-
-#EXTINF:-1 group-title="Music",DT Techno Warehouse
-https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
-
 #EXTINF:-1 group-title="Music",DT Algorhythm
 https://eu-nl-012.worldcast.tv/dancetelevisionfour/dancetelevisionfour.m3u8
 
-#EXTINF:-1 group-title="Music",DT HouseFloor
-http://eu-nl-012.worldcast.tv/dancetelevisionfive/dancetelevisionfive.m3u8
-
-#EXTINF:-1 group-title="Music",DT Minimal Tech
-http://eu-nl-012.worldcast.tv/dancetelevisionsix/dancetelevisionsix.m3u8
-
-#EXTINF:-1 group-title="Music",DT MainStage
-http://eu-nl-012.worldcast.tv/dancetelevisionseven/dancetelevisionseven.m3u8
+#EXTINF:-1 group-title="Music",DT Best of House Flor
+http://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 group-title="Music",DT ChillAF
 http://eu-nl-012.worldcast.tv/dancetelevisioneight/dancetelevisioneight.m3u8
 
+#EXTINF:-1 group-title="Music",DT Deep House District
+http://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 group-title="Music",DT HouseFloor
+http://eu-nl-012.worldcast.tv/dancetelevisionfive/dancetelevisionfive.m3u8
+
+#EXTINF:-1 group-title="Music",DT MainStage
+http://eu-nl-012.worldcast.tv/dancetelevisionseven/dancetelevisionseven.m3u8
+
 #EXTINF:-1 group-title="Music",DT MelodicTech
 http://eu-nl-012.worldcast.tv/dancetelevisionnine/dancetelevisionnine.m3u8
+
+#EXTINF:-1 group-title="Music",DT Minimal Tech
+http://eu-nl-012.worldcast.tv/dancetelevisionsix/dancetelevisionsix.m3u8
+
+#EXTINF:-1 group-title="Music",DT Techno Warehouse
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
 
 #EXTINF:-1 group-title="Music",Deluxe Music HD
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
@@ -1269,9 +1320,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="6189" tvg-logo="http://epg.it999.ru/img2/6189.png" shift="-2",M6Music HD
 http://190.2.155.162:8080/m6music/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3724598/80ad3fc5-df0a-4727-a088-c0893367d24a/s600",MAFI2A MUSIC
-https://hls.myvideocontent.ru/hls/tv12/index.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.telenet.hu/images/upload/channel_logo/c.jpg",MegaRadio
 http://cdn-curie.wasd.tv/live/305240/index.m3u8
 
@@ -1293,17 +1341,23 @@ https://mmdtv.ddns.net:3400/live/mixmydaylive.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="3798" tvg-logo="http://epg.it999.ru/img/3798.png",Mooz Dance
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 
-#EXTINF:-1 group-title="Music",Mooz HITS
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/3798.png",Mooz HITS
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
 
-#EXTINF:-1 group-title="Music",Mooz RO!
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/3798.png",Mooz RO!
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozro
+
+#EXTINF:-1 group-title="Music" tvg-id="1723" tvg-logo="http://epg.it999.ru/img/1723.png",MTV Hits
+http://myott.top/stream/1VGPHYLZTH/302.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="1723" tvg-logo="http://epg.it999.ru/img/1723.png",MTV Hits HD
 http://190.2.155.162:8080/mtvhit/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/1021.png",MTV France
 http://190.2.155.162:8080/mtvfrance/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Polska
+http://193.32.37.17:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="5481" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -1320,11 +1374,20 @@ http://myott.top/stream/1VGPHYLZTH/215.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png",MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Yo! 2
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Yo! 3
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="http://tv.10dailythings.com/images/channels/UNS/music/normal.png",MusicPlus HD HU
 http://s02.diazol.hu:10190/stream.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="4655" tvg-logo="http://epg.it999.ru/img/4655.png",Music Top HD
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Musica del Recuerdo
 https://eu1.servers10.com:8081/8066/index.m3u8
@@ -1366,7 +1429,7 @@ http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 http://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",NM TV
-http://tv.a21network.ru/stream/40650/index.m3u8
+https://tv.a21network.ru/stream/40650/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://suzukantv.at.ua/LOGOMUSIC/0x0_Music.png",NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/index.m3u8
@@ -1375,7 +1438,7 @@ http://tv.nrg91.gr:1935/onweb/live/index.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Ocko Gold
-http://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
@@ -1383,11 +1446,17 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 group-title="Music",Opoja TV HD
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 
+#EXTINF:-1 group-title="Music",OTTO FM TV
+http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
+
 #EXTINF:-1 group-title="Music",Paradise TV
-http://59ef7ad665d1d.streamlock.net:1935/paradisetv/_definst_/paradisetv/playlist.m3u8
+http://59ef7ad665d1d.streamlock.net:1935/paradisetv/paradisetv/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Persiana Music HD
 http://51.210.199.24/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Music",Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Music",Play Ibiza HD
 http://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1710
@@ -1398,26 +1467,50 @@ http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 group-title="Music",Portal FoxMix TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://suzukantv.at.ua/LOGOMUSIC/MusiC_iTunes.png",Power HD
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://suzukantv.at.ua/LOGO-IPTV/NAGO_TV.png",Power Turk HD
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://img.catcast.tv/uploads/14032022/banners/41313-622f43cc4ef4b.png",Prokop TV ROCK
 https://v2.catcast.tv/content/41313/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/626px-Qmusic_logo.svg.png",Q Music
+http://ch.iptvmate.net/30cada41457f1d01f5ab9f1a608ebca6.m3u8
 
 #EXTINF:-1 group-title="Music",Radio 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 
-#EXTINF:-1 group-title="Music",Radio Birikina TV
-http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://ai-i1.infcdn.net/icons_siandroid/png/200/10882/10882662.png",Radio 88 Stereo
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7T3LMcphfe.png",Radio Birikina TV
+http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 #EXTINF:-1 group-title="Music",Radio Favorita TV
 http://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="Music",Radio HIT FM
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/playlist.m3u8
+
 #EXTINF:-1 group-title="Music",Radio Ibiza TV
-http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
+http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",Radio Italia
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
 #EXTINF:-1 group-title="Music",Radio Javan TV
-http://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_b2892000.m3u8
+http://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",Radio Kiss Kiss TV
+http://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",Radio Love FM
+http://56b50ada2d659.streamlock.net:1935/LoveFM/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="4674" tvg-logo="http://epg.it999.ru/img/4674.png",M20 tv DJ station
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
@@ -1435,16 +1528,19 @@ http://stream1.aswifi.it/stereo5/live/index.m3u8
 http://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Reload Radio Music Power HD
-http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVpywMNr4jQPOGd7KJb.png",Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Rock TV
-http://46.20.136.59/live3/rocktv/playlist.m3u8
+http://fms-https1.mediadirect.ro/live3/rocktv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="6009" tvg-logo="http://epg.it999.ru/img2/6009.png",Romantic & Ballads
 http://140.238.127.147/streams/8.m3u8
+
+#EXTINF:-1 group-title="Music",RTV Altea HD
+http://54.38.156.56/live/stream/index.m3u8
 
 #EXTINF:-1 group-title="Music",Sexy Kpop TV
 http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -1456,7 +1552,7 @@ http://5.188.172.179/Shant-Music/index.m3u8
 http://a3.smashmalta.com:82/live/smash/smash/8.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://i114.fastpic.ru/big/2021/0210/89/201b08a4197caed24385da0b855d9589.png",Sonus
-http://www.sonus.fm:1935/public/stream_in/playlist.m3u8
+http://sonus.fm:1935/public/stream_in/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://suzukantv.at.ua/LOGOMUSIC/MusiC_iTunes.png",Spirit TV
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
@@ -1515,14 +1611,23 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",TVO HD
 https://eu1.servers10.com:8081/8138/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="http://pager.nnov.ru/appletv/images/150x150/tvm3.jpg",TVM3
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-id="5483" tvg-logo="http://epg.it999.ru/img2/5483.png",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 group-title="Music",VEVO Hip-Hop HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://progsoft.net/images/vevo-icon-8910f419bc15002a657e29fd3d84fd98c1a04bc3.png",VEVO Hip-Hop HD
 http://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 
-#EXTINF:-1 group-title="Music",VEVO Latino HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://progsoft.net/images/vevo-icon-8910f419bc15002a657e29fd3d84fd98c1a04bc3.png",VEVO Latino HD
 http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF:-1 group-title="Music",Visual Radio TV
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",VOX Music TV
+http://193.32.37.17:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 group-title="Music",Vuemme TV
 http://5db313b643fd8.streamlock.net:1935/Vuemme/Vuemme/playlist.m3u8
