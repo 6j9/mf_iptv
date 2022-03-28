@@ -1086,7 +1086,7 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="europa-plus-tv" tvg-logo="https://iptvxpix.ml/europa-plus-tv.png",Европа Плюс ТВ
-http://94.19.220.168:81/udp/239.239.3.25:5239
+http://persik.by/stream/7504/377885/682.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png",ё (Самара)
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
@@ -3723,7 +3723,7 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/dzhungli.webp",Джунгли
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/dozhd.webp",Дождь
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/dozhd.webp",Дожди
 https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://smotret.tv/images/animals.webp",Животные
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
