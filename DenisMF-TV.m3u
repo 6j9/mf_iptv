@@ -707,10 +707,10 @@ https://livetv.mylifeisgood.ml/channels/kinotv
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/07022021/logos/39005-60201ae8e136b.jpg",Киноклуб
 https://v2.catcast.tv/content/39005/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopokaz" tvg-logo="https://iptvxpix.ml/kinopokaz.png" tvg-rec="7" timeshift="7",Кинопоказ
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopokaz" tvg-logo="https://iptvxpix.ml/kinopokaz.png",Кинопоказ
 http://myott.top/stream/1VGPHYLZTH/64.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="komedijnoe" tvg-logo="https://iptvxpix.ml/komedijnoe.png" tvg-rec="7" timeshift="7",Комедийное
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="komedijnoe" tvg-logo="https://iptvxpix.ml/komedijnoe.png",Комедийное
 http://myott.top/stream/1VGPHYLZTH/74.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="krasnaya-linia" tvg-logo="https://iptvxpix.ml/krasnaya-linia.png",Красная линия ТВ
@@ -758,7 +758,7 @@ https://sc.id-tv.kz/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-roman" tvg-logo="https://iptvxpix.ml/russky-roman.png",Русский роман
 http://st1.astra-uk.ru:81/ca696d582f4f88493181e81e51a50960/playlist.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russkaya-komedia"tvg-logo="https://iptvxpix.ml/russkaya-komedia.png" tvg-rec="7" timeshift="7",Русская комедия
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russkaya-komedia"tvg-logo="https://iptvxpix.ml/russkaya-komedia.png",Русская комедия
 http://myott.top/stream/1VGPHYLZTH/68.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://sun1-87.userapi.com/c848528/v848528161/c9495/Fhm1IGSVnfc.jpg?ava=1",Свежаки HD
@@ -779,7 +779,7 @@ https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="feniks-plus-kino" tvg-logo="https://iptvxpix.ml/feniks-plus-kino.png",Феникс+ Кино
 http://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="shokiruyushchee" tvg-logo="https://iptvxpix.ml/shokiruyushchee.png" tvg-rec="7" timeshift="7",Шокирующее
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="shokiruyushchee" tvg-logo="https://iptvxpix.ml/shokiruyushchee.png",Шокирующее
 http://myott.top/stream/1VGPHYLZTH/75.m3u8
 
 
