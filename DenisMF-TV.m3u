@@ -1290,13 +1290,13 @@ https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:-1 group-title="Music",MIX MY DAY TV HD
 https://mmdtv.ddns.net:3400/live/mixmydaylive.m3u8
 
-#EXTINF:-1 group-title="Music",Mooz Dance
+#EXTINF:-1 group-title="Music" tvg-id="3798" tvg-logo="http://epg.it999.ru/img/3798.png",Mooz Dance
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 
 #EXTINF:-1 group-title="Music",Mooz HITS
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
 
-#EXTINF:-1 group-title="Music" tvg-id="3798" tvg-logo="http://epg.it999.ru/img/3798.png",Mooz RO!
+#EXTINF:-1 group-title="Music",Mooz RO!
 http://db2-archive.teleon.tv/m3u/m3u.php?ch=moozro
 
 #EXTINF:-1 group-title="Music" tvg-id="1723" tvg-logo="http://epg.it999.ru/img/1723.png",MTV Hits HD
