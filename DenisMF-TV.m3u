@@ -15,7 +15,7 @@ https://strm.yandex.ru/kal/360tv_supres/360tv_supres0.m3u8
 https://strm.yandex.ru/kal/360news_supres/360news_supres0.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="cctv-ru" tvg-logo="https://iptvxpix.ml/cctv-ru.png",CGTN-Русский
-http://liveru.cgtn.com/1000r/prog_index.m3u8
+https://liveru.cgtn.com/1000r/prog_index.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="rt-america" tvg-logo="https://iptvxpix.ml/russia-today.png",RT America
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
@@ -57,7 +57,7 @@ https://strm.yandex.ru/kal/mir/mir0.m3u8
 https://strm.yandex.ru/kal/msk24_supres/msk24_supres0.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="nastoyaschee-vremia" tvg-logo="https://iptvxpix.ml/nastoiaschee-vremia.png",Настоящее время
-http://rfe-lh.akamaized.net/i/rfe_tvmc5@383630/master.m3u8
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="https://iptvxpix.ml/ntv-white.png",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -445,7 +445,7 @@ http://93.152.174.144:4000/play/sporttv1/index.m3u8
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/stadium.webp",Stadium
-https://bcovlive-a.akamaized.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/f3d8696d886f4c3b9612132643061743/playlist_ssaiM.m3u8
+https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/f3d8696d886f4c3b9612132643061743/playlist_ssaiM.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://d3i68pnuybn9g3.cloudfront.net/images/s/swiss-gutscheine_logo_9.jpg",Swiss Sports
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
@@ -1180,7 +1180,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg",Contact Vision
-http://contact-lh.akamaized.net/i/CONTACT_1@321283/master.m3u8
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="5371" tvg-logo="http://epg.it999.ru/img2/5371.png",Dance Hits of 90s
 http://140.238.127.147/streams/1.m3u8
@@ -1189,7 +1189,7 @@ http://140.238.127.147/streams/1.m3u8
 http://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="4673" tvg-logo="http://epg.it999.ru/img/4673.png",Deejay TV
-https://deejay_tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="3495" tvg-logo="http://epg.it999.ru/img/3495.png",Desi Channel IN
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/index.m3u8
@@ -1255,7 +1255,7 @@ http://fms-https1.mediadirect.ro/live3/kiss.smil/playlist.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="4674" tvg-logo="http://epg.it999.ru/img/4674.png",M20 tv DJ station
-https://m2otv-lh.akamaized.net/i/m2oTv_1@186074/master.m3u8
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="6189" tvg-logo="http://epg.it999.ru/img2/6189.png" shift="-2",M6Music HD
 http://190.2.155.162:8080/m6music/index.m3u8
@@ -1393,7 +1393,7 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://mp3ha.org/img/radio/318121_big.jpg",Radio Capital TV
-https://capital_tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmZhdm9yaXRhMi5yYWRpb19pY29uXzE1ODY1NTcxMjJfMDUy/icon.png?w=340&fakeurl=1",Radio Favorita TV
 http://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
@@ -1405,7 +1405,7 @@ http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/playlist.m3u8
 http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ritsatv.ru/files/poster/medium/900477.jpg",Radio Italia
-https://radioitaliatv-lh.akamaized.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://podcast-api-images.s3.amazonaws.com/podcast_logo_40908_300x300.jpg",Radio Javan TV
 http://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
@@ -3815,7 +3815,7 @@ http://46.174.83.66/Russkaya_Noch/video.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="sholk" tvg-logo="https://st.weblancer.net/download/1059784_250xr.jpg",Шелк ТВ HD
 http://live-2.otcnet.ru/shelk/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://assets.bigcartel.com/theme_images/18251983/logo.png",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaihd.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2313" tvg-logo="http://epg.it999.ru/img/2313.png",Barely legal
 http://46.181.193.122:81/udp/239.255.42.224:1234
 #EXTINF:-1 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler
@@ -3840,7 +3840,6 @@ http://46.181.193.122:81/udp/239.255.43.53:1234
 http://78.83.191.18:8000/play/a078
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.pinimg.com/236x/6e/ea/35/6eea353b0aa415cd0c1d49161bf2fc42.jpg",Jasmin TV
 http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Jenny For You
@@ -3861,7 +3860,6 @@ http://109.200.130.123:7032/play/353
 https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2528" tvg-logo="http://epg.it999.ru/img/2528.png",Vivid Red HD
 http://109.200.130.123:7032/play/a00g
-
 #EXTINF:-1 group-title="Взрослые" tvg-id="3136" tvg-logo="http://epg.it999.ru/img/3136.png",AdultIPTV.net Anal
 http://live.redtraffic.xyz/anal.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="3199" tvg-logo="http://epg.it999.ru/img/3199.png",AdultIPTV.net Asian
@@ -3912,7 +3910,6 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="3226" tvg-logo="http://epg.it999.ru/img/3226.png",AdultIPTV.net Threesome
 http://live.redtraffic.xyz/threesome.m3u8
-
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 1
 http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17375
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 2
@@ -4081,7 +4078,6 @@ http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31897
 http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31898
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: BRAZZERS TV EUROPE
 http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31899
-
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://belcekiz.com/wp-content/uploads/2018/01/live-cam.png",MyCamTV Anal
 http://live.mycamtv.com/anal.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://belcekiz.com/wp-content/uploads/2018/01/live-cam.png",MyCamTV Arab Girls
@@ -4116,7 +4112,6 @@ http://live.mycamtv.com/teen.m3u8
 http://live.mycamtv.com/white.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="http://belcekiz.com/wp-content/uploads/2018/01/live-cam.png",MyCamTV Young Girls
 http://live.mycamtv.com/young.m3u8
-
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Shemale Tube TV HD
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Shemale Tube TV 2 HD
