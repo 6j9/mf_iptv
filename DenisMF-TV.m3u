@@ -1191,6 +1191,9 @@ http://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="4673" tvg-logo="http://epg.it999.ru/img/4673.png",Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://ru.wargaming.net/clans/media/clans/emblems/cl_062/205062/emblem_195x195.png",Deluxe Music HD
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-id="3495" tvg-logo="http://epg.it999.ru/img/3495.png",Desi Channel IN
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/index.m3u8
 
@@ -1226,9 +1229,6 @@ http://eu-nl-012.worldcast.tv/dancetelevisionsix/dancetelevisionsix.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ru.wargaming.net/clans/media/clans/emblems/cl_062/205062/emblem_195x195.png",DT Techno Warehouse
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://ru.wargaming.net/clans/media/clans/emblems/cl_062/205062/emblem_195x195.png",Deluxe Music HD
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/0/06/ELW-Logo.svg/250px-ELW-Logo.svg.png",ElW
 https://hls.goodgame.ru/hls/163343.m3u8
