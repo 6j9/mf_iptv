@@ -1347,6 +1347,9 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-star-6827-300x225.jpg",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/4846/brand.gif?itok=t4I--YVR",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="http://oklivetv.com/wp-content/uploads/media/b8c03029e633f8616a10912987ba768d-320x180.jpeg",Opoja TV HD
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 
