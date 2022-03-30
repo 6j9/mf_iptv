@@ -354,6 +354,9 @@ https://it.fms2.premio.link/bike/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="http://epg.it999.ru/img/3559.png",BT SPORT ESPN FHD UK
 http://45.153.35.224:8000/play/a008
 
+#EXTINF:-1 group-title="Sport" tvg-logo="http://televizor.org/img/logopit/Canal+Motor.png",CanalplusMotor
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+
 #EXTINF:-1 group-title="Sport" tvg-logo="https://iptvxpix.ml/cbc-sport.png",CBC Sport HD
 https://mfe02.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 
@@ -729,10 +732,10 @@ https://sc.id-tv.kz/Tehno24_34_35.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://cdn.discordapp.com/attachments/821433902077968423/842078312401862656/ZAL8.png",Akudji TV
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://televizor.org/img/logopit/Akudji%20HD.png",Akudji TV
 https://hls.goodgame.ru/hls/5346.m3u8
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://img.catcast.tv/uploads/03022022/logos/40791-61fc01e01fcad.png",AVD Cinema
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://img.catcast.tv/uploads/03022022/logos/40791-61fc01e01fcad.png",AVD
 https://v2.catcast.tv/content/40791/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-id="backustv" tvg-logo="https://iptvxpix.ml/backustv.png",BackusTV
@@ -742,7 +745,7 @@ http://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.it999.ru/img/4647.png",Cinema Classic TV
-http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://st.wasd.tv/upload/avatars/fdf02b56-f607-4e5f-9abe-ca12099b2277/original.jpeg",Danplay700
 https://cdn.wasd.tv/live/1253439/index.m3u8
@@ -777,7 +780,7 @@ https://v2.catcast.tv/content/40660/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://img.catcast.tv/uploads/19032022/logos/41171-62350f09652d3.png",Prokop TV Криминал
 https://v2.catcast.tv/content/41171/index.m3u8
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://cdn.discordapp.com/attachments/821433902077968423/842077940535656498/ZAL6.png",PZN Films
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://televizor.org/img/logopit/PZN%20FHD.png",PZN Films
 https://hlss.goodgame.ru/hls/180960.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://st.wasd.tv/upload/avatars/8c7c9f0f-ef51-49d2-8960-1cc712812507/48x48.png",RAF
@@ -824,6 +827,9 @@ http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_5.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://sun1-87.userapi.com/c848528/v848528161/c9495/Fhm1IGSVnfc.jpg?ava=1",Свежаки HD
 https://edge-01.kino.watch/fresh/index.m3u8
+
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://televizor.org/img/logopit/%D0%A3%D0%B6%D0%B0%D1%81%20HD.png",Ужас HD
+https://v2.catcast.tv/content/41000/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://smotret.tv/images/uzhastik.webp",Ужастик
 https://edge-01.kino.watch/horror/index.m3u8
@@ -1315,7 +1321,7 @@ http://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://ru.live-tv-channels.org/pt-data/uploads/logo/ro-ht-music-channel-3244-300x225.jpg",H!T Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="http://infoua.biz/image/tv/stream/hits360.png",HITs 360 HD
+#EXTINF:-1 group-title="Music" tvg-logo="http://televizor.org/img/logopit/Hits%20360%20HD.png",HITs 360 HD
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/400px-ITV_logo_2013.svg.png",I-TV
@@ -1380,6 +1386,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://vo-radio.ru/images/logoweb2/music-history-180.jpg",Music History Radio TV
 https://live.prd.dlive.tv/hls/live/mhtvradio.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://televizor.org/img/logopit/musikcolabfm.png",Music Colab FM
+http://hls.goodgame.ru/hls/163343.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="4655" tvg-logo="http://epg.it999.ru/img/4655.png",Music Top HD
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
