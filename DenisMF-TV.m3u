@@ -2642,7 +2642,7 @@ http://persik.by/stream/7504/377885/11178.m3u8
 http://persik.by/stream/7504/377885/11179.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-id="chavash-en" tvg-logo="http://zapobedu21.ru/images/thumbnails/images/08.11.2017/logo-new-fill-197x197.jpg",Национальное ТВ Чувашии (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="chavash-en" tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg",Национальное ТВ Чувашии (Чаваш ЕН)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg",НТВ (Чувашия)
@@ -3481,10 +3481,6 @@ http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="xamdan-kalm24" tvg-logo="https://iptvxpix.ml/xamdan-kalm24.png",Хамдан-Калмыкия 24 (Элиста)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-
-#EXTINF:-1 group-title="Региональные" tvg-id="chavash-en" tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg",Чаваш ЕН
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
-http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://sun1-93.userapi.com/c853524/v853524202/cae15/PEjd3rITTOs.jpg?ava=1",Чайковский ТВ
 http://178.170.233.3:8889/index.m3u8
