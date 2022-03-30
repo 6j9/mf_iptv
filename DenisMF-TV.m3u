@@ -1356,7 +1356,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Yo! 2
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://vo-radio.ru/images/logoweb2/music-history-180.jpg",Music History Radio TV
+#EXTINF:-1 group-title="Music" tvg-logo="https://vo-radio.ru/images/logoweb2/music-history-180.jpg",Music History Radio TV
 https://live.prd.dlive.tv/hls/live/mhtvradio.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="4655" tvg-logo="http://epg.it999.ru/img/4655.png",Music Top HD
