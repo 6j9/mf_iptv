@@ -604,6 +604,9 @@ https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" rodnoe-kino" tvg-logo="http://img.rnx.ru/logotvchannel/472-250.jpg",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://cdn.discordapp.com/attachments/821433902077968423/842078312401862656/ZAL8.png",Akudji TV
+https://hls.goodgame.ru/hls/5346.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/03022022/logos/40791-61fc01e01fcad.png",AVD
 https://v2.catcast.tv/content/40791/index.m3u8
 
@@ -672,6 +675,9 @@ http://145.249.228.229:8000/play/a003
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img.catcast.tv/uploads/19032022/logos/41171-62350f09652d3.png",Prokop TV Криминал
 https://v2.catcast.tv/content/41171/index.m3u8
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://cdn.discordapp.com/attachments/821433902077968423/842077940535656498/ZAL6.png",PZN Films
+https://hlss.goodgame.ru/hls/180960.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img2/6001.png",Series TV HD
 https://hls.goodgame.ru/hls/186021.m3u8
@@ -1133,6 +1139,51 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzsoyuz" tvg-logo="https://iptvxpix.ml/muzsoyuz.png",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Aillion
+https://sluhay.by/live/Ch149pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Among Your God
+https://sluhay.by/live/Ch086pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Cover
+https://sluhay.by/live/Ch117pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Christ
+https://sluhay.by/live/Ch064pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_edm.png",Sluhay.by EDM
+https://sluhay.by/live/Ch091pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_live.png",Sluhay.by Egiazar
+https://sluhay.by/live/Ch341pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by HD
+https://sluhay.by/live/Ch045pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Lenadi
+https://sluhay.by/live/Ch052pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_live.png",Sluhay.by Live
+https://sluhay.by/live/Ch173pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Markuts Band
+https://sluhay.by/live/Ch360pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Mova
+https://sluhay.by/live/Ch034pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Moyo Тебе
+https://sluhay.by/live/Ch250pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Olia
+https://sluhay.by/live/Ch015pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_pop.png",Sluhay.by Pop
+https://sluhay.by/live/Ch066pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Radio
+https://sluhay.by/live/Ch048pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_rap.png",Sluhay.by Rap
+https://sluhay.by/live/Ch107pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_rock.png",Sluhay.by Rock
+https://sluhay.by/live/Ch114pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by The Glithchhh
+https://sluhay.by/live/Ch362pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Xtip
+https://sluhay.by/live/Ch056pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Априори
+https://sluhay.by/live/Ch363pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_live.png",www.doma.fun
+https://sluhay.by/live/Ch316pub/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_live.png",www.doma.fun
+https://sluhay.by/live/Ch236pub/index.m3u8
+
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d3/d4/0d/d3d40de6-fd2a-ac4d-70e2-8d591eaac82d/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/320x0w.png",30A.TV Music
 http://30a-tv.com/music.m3u8
@@ -1541,6 +1592,9 @@ https://eu1.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://pager.nnov.ru/appletv/images/150x150/tvm3.jpg",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://cdn.discordapp.com/attachments/821433902077968423/842079057658118204/ZAL11.png",U TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="5483" tvg-logo="http://epg.it999.ru/img2/5483.png",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
@@ -3816,7 +3870,6 @@ http://dmitry-tv.ml/hls/zabava/CH_U_6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
-
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://2mz.me/images/770120.jpg",Nature Relaxation
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://goo.su/Icbaz1a",Silence TV
@@ -3864,7 +3917,7 @@ https://v2.catcast.tv/content/40381/index.m3u8
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/54
 #EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/50
-#EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
+#EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь HD
 http://46.174.83.66/Russkaya_Noch/video.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2031" tvg-logo="http://epg.it999.ru/img/2031.png",Шалун
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/43
@@ -3876,13 +3929,9 @@ http://live-2.otcnet.ru/shelk/index.m3u8
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2313" tvg-logo="http://epg.it999.ru/img/2313.png",Barely legal
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/51
-#EXTINF:-1 group-title="Взрослые" tvg-id="2313" tvg-logo="http://epg.it999.ru/img/2313.png",Barely legal
-http://46.181.193.122:81/udp/239.255.42.224:1234
 #EXTINF:-1 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler
 http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
-#EXTINF:-1 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler
-http://46.181.193.122:81/udp/239.255.42.222:1234
-#EXTINF:-1 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler
+#EXTINF:-1 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler HD
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/48
 #EXTINF:-1 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler Europe
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/49
@@ -3900,8 +3949,6 @@ http://213.81.133.133:8080/extasy4k/index.m3u8
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/55
 #EXTINF:-1 group-title="Взрослые" tvg-id="2526" tvg-logo="http://epg.it999.ru/img/2526.png",FrenchLover
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/53
-#EXTINF:-1 group-title="Взрослые" tvg-id="2526" tvg-logo="http://epg.it999.ru/img/2526.png",FrenchLover
-http://46.181.193.122:81/udp/239.255.42.223:1234
 #EXTINF:-1 group-title="Взрослые" tvg-id="2322" tvg-logo="http://epg.it999.ru/img/2322.png",Hustler HD
 http://46.181.193.122:81/udp/239.255.43.53:1234
 #EXTINF:-1 group-title="Взрослые" tvg-id="hustler-tv" tvg-logo="https://iptvxpix.ml/hustler-tv.png",Hustler TV
@@ -3916,16 +3963,12 @@ http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2527" tvg-logo="http://epg.it999.ru/img/2527.png",O-la-la
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/52
-#EXTINF:-1 group-title="Взрослые" tvg-id="2527" tvg-logo="http://epg.it999.ru/img/2527.png",O-la-la
-http://46.181.193.122:81/udp/239.255.42.219:1234
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://img-ipad.lisisoft.com/imgmic/8/1/819-1-pinko-up.jpg",Pinko Club
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy Europe
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/46
 #EXTINF:-1 group-title="Взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy Europe UA
 http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/47
-#EXTINF:-1 group-title="Взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy TV
-http://46.181.193.122:81/udp/239.255.42.221:1234
 #EXTINF:-1 group-title="Взрослые" tvg-id="2320" tvg-logo="http://epg.it999.ru/img/2320.png",Redlight HD
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-id="2320" tvg-logo="http://epg.it999.ru/img/2320.png",Redlight HD
