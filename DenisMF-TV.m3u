@@ -80,7 +80,7 @@ http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/index.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="prnk-tv" tvg-logo="https://iptvxpix.ml/prnk-tv.png",Первый Российский Национальный канал
-https://serv25.vintera.tv/1pnk/1pnk/playlist.m3u8
+http://dmitry-tv.ml/hls/CH_1RNKHD720.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="piatnica" tvg-logo="https://iptvxpix.ml/pyatnica.png",Пятница HD
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
