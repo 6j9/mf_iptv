@@ -4417,3 +4417,12 @@ http://live.mycamtv.com/young.m3u8
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Shemale Tube TV 2 HD
 https://www.ast.tv/stream/2/ultra.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-premier",Матч! Премьер
+http://persik.by/stream/7504/377885/284.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-football1",Матч! Футбол 1 
+http://persik.by/stream/7504/377885/346.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-football2",Матч! Футбол 2 
+http://persik.by/stream/7504/377885/10217.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-football3",Матч! Футбол 3 
+http://persik.by/stream/7504/377885/10218.m3u8
