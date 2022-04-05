@@ -1,5 +1,6 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
 
+#EXTM3U
 #EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png",TVRI Sport HD (480p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORT TV 4K UHD
@@ -122,13 +123,13 @@ http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8?checkedby:iptvcat.co
 http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Eurosport 1 Deutschland
 http://185.204.32.4:9981/stream/channelid/577840136?ticket=6BD731AAAAF62A0FC6B42210FD1752C29F939C80&profile=pass&checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",TГјrkmenistan Sport
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8&checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",TГјrkmenistan Sport
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",TГјrkmenistan Sport
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",BT Sport 2 HD
 http://45.153.35.224:8000/play/a007?checkedby:iptvcat.com
@@ -218,11 +219,11 @@ http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/387?checkedby:iptvcat.com
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/391?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",BN Sports 3 HD
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/63120?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",BEiN SPORT HABER +в„ў
+#EXTINF:-1 group-title="Sport",BEiN SPORT HABER +™
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/63197?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",BEIN SPORTS 2 +в„ў
+#EXTINF:-1 group-title="Sport",BEIN SPORTS 2 +™
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/63206?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",BEIN SPORTS 1 HDв„ў
+#EXTINF:-1 group-title="Sport",BEIN SPORTS 1 HD™
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/63211?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",EUROSPORT1 HD
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/63233?checkedby:iptvcat.com
@@ -322,39 +323,39 @@ http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84638?checkedby:iptvcat.com
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84641?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORT TV 1 (extra1) HEVC
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84642?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV 1 HD К°бµ‰бµ›б¶њ
+#EXTINF:-1 group-title="Sport",SPORT TV 1 HD ʰᵉᵛᶜ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84644?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV 1 FHD К°бµ‰бµ›б¶њ
+#EXTINF:-1 group-title="Sport",SPORT TV 1 FHD ʰᵉᵛᶜ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84645?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV 1 FHD КібµѓК·
+#EXTINF:-1 group-title="Sport",SPORT TV 1 FHD ʳᵃʷ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84646?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORT TV 2 HEVC
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84648?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORT TV 2  (extra1)
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84649?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV 2 HD К°бµ‰бµ›б¶њ
+#EXTINF:-1 group-title="Sport",SPORT TV 2 HD ʰᵉᵛᶜ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84650?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV 2 FHD К°бµ‰бµ›б¶њ
+#EXTINF:-1 group-title="Sport",SPORT TV 2 FHD ʰᵉᵛᶜ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84651?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV 2 FHD КібµѓК·
+#EXTINF:-1 group-title="Sport",SPORT TV 2 FHD ʳᵃʷ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84652?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV 2 FHD (extra1) КібµѓК·
+#EXTINF:-1 group-title="Sport",SPORT TV 2 FHD (extra1) ʳᵃʷ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84653?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORT TV 3 HEVC
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84654?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV 3 HD К°бµ‰бµ›б¶њ
+#EXTINF:-1 group-title="Sport",SPORT TV 3 HD ʰᵉᵛᶜ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84655?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORT TV 3 FHD HEVC
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84656?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORT TV 4 FHD
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84659?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV 5 HD К°бµ‰бµ›б¶њ
+#EXTINF:-1 group-title="Sport",SPORT TV 5 HD ʰᵉᵛᶜ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84661?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORT TV 5 FHD
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84662?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV NBA К°бµ‰бµ›б¶њ
+#EXTINF:-1 group-title="Sport",SPORT TV NBA ʰᵉᵛᶜ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84663?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",SPORT TV NBA HD К°бµ‰бµ›б¶њ
+#EXTINF:-1 group-title="Sport",SPORT TV NBA HD ʰᵉᵛᶜ
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84664?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORT TV NBA HEVC
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/84665?checkedby:iptvcat.com
@@ -1075,9 +1076,9 @@ http://bosstr.net:80/nomoreacble/dsfsdfsfds/9530?checkedby:iptvcat.com
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",All Sports
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",Р РµРїРѕСЂС‚РµСЂ
+#EXTINF:-1 group-title="Sport",Репортер
 http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport" tvg-logo="http://reporter.odessa.ua/wp-content/uploads/2017/05/logo_retina-300x99.png",Р РµРїРѕСЂС‚РµСЂ
+#EXTINF:-1 group-title="Sport" tvg-logo="http://reporter.odessa.ua/wp-content/uploads/2017/05/logo_retina-300x99.png",Репортер
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",ESPN 3 4K FHDR
 http://cdn99.one:80/356195/FgHq4u/103504.ts?checkedby:iptvcat.com
@@ -1233,13 +1234,13 @@ http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8?checkedby:iptvcat
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",иїЄж‹њиµ›й©¬дї±д№ђйѓЁ
+#EXTINF:-1 group-title="Sport",迪拜赛马俱乐部
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/jo3XekR.png",SPORT | Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",DUBAI SPORTS 1 (1920Г—1080)
+#EXTINF:-1 group-title="Sport",DUBAI SPORTS 1 (1920×1080)
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Dubai Sports 1 HD
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8?checkedby:iptvcat.com
@@ -1247,7 +1248,7 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",DUBAI SPORTS 3 (1920Г—1080)
+#EXTINF:-1 group-title="Sport",DUBAI SPORTS 3 (1920×1080)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8?checkedby:iptvcat.com
@@ -1263,7 +1264,7 @@ http://fasttvuk.com:2086/muhammad1/muhammad1/79307?checkedby:iptvcat.com
 http://fasttvuk.com:2086/muhammad1/muhammad1/79313?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Star Sports 1 HD
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/868?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",AmГ©rica Sports (720p) [Not 24/7]
+#EXTINF:-1 group-title="Sport",América Sports (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Televisa Del Golfo
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQ08tNTPiBn44c975S81ftg/live&checkedby:iptvcat.com
@@ -3063,9 +3064,9 @@ http://mains.services:2086/lorre/3Jy14gb2kR/99512?checkedby:iptvcat.com
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",EUROSPORT 1
 http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РњР°С‚С‡! Р‘РѕРµС†
+#EXTINF:-1 group-title="Sport",Матч! Боец
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РњР°С‚С‡! РђСЂРµРЅР°
+#EXTINF:-1 group-title="Sport",Матч! Арена
 http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SportsGrid
 http://myhosting.one:8080/arsenal1/arsenal1/261220?checkedby:iptvcat.com
@@ -3437,7 +3438,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedb
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/ui099xQ.jpg",TVS Classic Sports (720p)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",Р РµРїРѕСЂС‚РµСЂ 73 (РЈР»СЊСЏРЅРѕРІСЃРє)
+#EXTINF:-1 group-title="Sport",Репортер 73 (Ульяновск)
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",MOVISTAR GOLF HD
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/184165?checkedby:iptvcat.com
@@ -3641,7 +3642,7 @@ http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465862?checkedby:iptvcat.com
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465863?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",SPORTS XTRA 2 H265
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465864?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",Bein Sports En EspaГ±ol
+#EXTINF:-1 group-title="Sport",Bein Sports En Español
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/466884?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Eleven Sports Network
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/467067?checkedby:iptvcat.com
@@ -4271,7 +4272,7 @@ http://stariptv.org:8080/wael2021/123456/92164?checkedby:iptvcat.com
 http://stariptv.org:8080/wael2021/123456/92165?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",DSTV: SuperSport 12 HD
 http://stariptv.org:8080/wael2021/123456/92166?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",DSTV: SuperSport MГЎXimo 1
+#EXTINF:-1 group-title="Sport",DSTV: SuperSport MáXimo 1
 http://stariptv.org:8080/wael2021/123456/92170?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",DSTV: SuperSport Events
 http://stariptv.org:8080/wael2021/123456/92172?checkedby:iptvcat.com
@@ -4329,19 +4330,19 @@ http://stariptv.org:8080/wael2021/123456/97824?checkedby:iptvcat.com
 http://stariptv.org:8080/wael2021/123456/97825?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Oman Sport HD
 http://stariptv.org:8080/wael2021/123456/97877?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РђСЃС‚СЂР°С…Р°РЅСЊ.Ru Sport
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РђСЃС‚СЂР°С…Р°РЅСЊ.Ru Sport
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РђСЃС‚СЂР°С…Р°РЅСЊ.Ru Sport
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://ya.co.ve/rBx",TIGO SPORT HD
 http://tecnotv.club/got/smtv3.php?c=800&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Bein SPORTS 1 Feed 4K 10Mbit
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116592?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",BEIN SPORTS 1 PLATINUM X SPORTS ULTIMATE (MAC SAATД° ACIK)
+#EXTINF:-1 group-title="Sport",BEIN SPORTS 1 PLATINUM X SPORTS ULTIMATE (MAC SAATİ ACIK)
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121353?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",BEIN SPORTS 1 PLATINUM X SPORTS SD (MAC SAATД° ACIK)
+#EXTINF:-1 group-title="Sport",BEIN SPORTS 1 PLATINUM X SPORTS SD (MAC SAATİ ACIK)
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121356?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Sky Sports News
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199560?checkedby:iptvcat.com
@@ -4409,7 +4410,7 @@ http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76336?checkedby:iptvcat.com
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76343?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",BEIN SPORTS 1 HD
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78345?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",BEINSPORT 2  PREMД°UM
+#EXTINF:-1 group-title="Sport",BEINSPORT 2  PREMİUM
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78349?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",BEIN SPORTS 3 (SD/HD)
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78351?checkedby:iptvcat.com
@@ -5089,7 +5090,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.c
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",AD Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png",Al Kass РЎРїРѕСЂС‚s 1 HD
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png",Al Kass Спортs 1 HD
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:iptvcat.com
@@ -5107,9 +5108,9 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:iptvcat.co
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg",Dubai Sports 3
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РњР°С‚С‡! (Р РµР·РµСЂРІ2)
+#EXTINF:-1 group-title="Sport",Матч! (Резерв2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РњР°С‚С‡! РўР’
+#EXTINF:-1 group-title="Sport",Матч! ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/Lt9ZUYA.png",Lax Sports Network TV
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8?checkedby:iptvcat.com
@@ -5147,13 +5148,13 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png",NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",TГјrkmenistan Sport (406p) [Not 24/7]
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",TГјrkmenistan Sport
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",TГјrkmenistan Sport (406p) [Not 24/7]
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg",TГјrkmenistan Sport
+#EXTINF:-1 group-title="Sport" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg",Türkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/Kxem8ae.jpg",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
@@ -5271,7 +5272,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Local Now Sports LN (720p)
 https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",Best Cable Sports PerГє
+#EXTINF:-1 group-title="Sport",Best Cable Sports Perú
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8?checkedby:iptvcat.com
@@ -5321,13 +5322,13 @@ https://sportsgrid-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport",AntenaSport (720p)
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РђСЃС‚СЂР°С…Р°РЅСЊ.Ru Sport (1080p)
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport (1080p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РђСЃС‚СЂР°С…Р°РЅСЊ.Ru Sport
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РђСЃС‚СЂР°С…Р°РЅСЊ.Ru Sport
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sport",РђСЃС‚СЂР°С…Р°РЅСЊ.Ru Sport
+#EXTINF:-1 group-title="Sport",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/IaRaabJ.jpg",Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
