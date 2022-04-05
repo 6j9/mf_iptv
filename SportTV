@@ -1,4 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
+
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",31 RTSH Sport HD
 http://185.204.32.4:9981/stream/channelid/1261192802?ticket=E164CD67A6836FEAF3BC6D7E2CADDEC4EAC87E29&profile=pass&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport
@@ -301,17 +302,17 @@ http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOgPcUTxss53zpNJchcCk2A?c
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFG-xnGJSuujreJ1wx2ZTAIg?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",[CANALI SD] SKY SPORT FOOTBALL SD
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNIyyZbcUP0ATMzb7erb_-I?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport;Undefined",New Japan Pro Wrestling World,NJPW World
+#EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport",New Japan Pro Wrestling World,NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Sport",Jordan Sport
 http://stariptv.org:8080/wael2021/123456/111529?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 1 (1024×576),Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;Undefined",AL KASS 2 (1024×576),Al Kass Two
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport",AL KASS 2 (1024×576),Al Kass Two
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 3 (1024×576),Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;Undefined",AL KASS 5 (1024×576),Al Kass Five
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport",AL KASS 5 (1024×576),Al Kass Five
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS 1 (1920×1080)
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
@@ -1075,7 +1076,7 @@ http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465580?checkedby:iptvcat.com
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465582?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Extreme Sports
 http://stariptv.org:8080/wael2021/123456/3328?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RU;UA" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport;Undefined",Red Bull TV,Red Bull TV HD,Red Bull TV SD
+#EXTINF:0 tvg-country="RU;UA" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport",Red Bull TV,Red Bull TV HD,Red Bull TV SD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Viasat Sport
 http://stariptv.org:8080/wael2021/123456/3346?checkedby:iptvcat.com
@@ -1805,7 +1806,7 @@ http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465845?checkedby:iptvcat.com
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465815?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Partizan TV HD
 http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/5508?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042862.png" group-title="Sport;Undefined",Red Bull TV,RED BULL TV OPT 1
+#EXTINF:0 tvg-country="UN" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042862.png" group-title="Sport",Red Bull TV,RED BULL TV OPT 1
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FN?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
@@ -2477,7 +2478,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:iptvcat.c
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport;Undefined",Dubai Racing,迪拜赛马俱乐部
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport",Dubai Racing,迪拜赛马俱乐部
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:iptvcat.com
