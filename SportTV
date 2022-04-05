@@ -200,7 +200,6 @@ http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/9738
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/455942
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport 4 HD
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1075
-#EXTM3U
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport News
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/386
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Tring Sport News HD
@@ -401,7 +400,6 @@ http://cdn99.one:80/356195/FgHq4u/71955.ts
 http://cdn99.one:80/356195/FgHq4u/71956.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV
 http://mains.services:2086/lorre/3Jy14gb2kR/92645
-#EXTM3U
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 1
 http://mains.services:2086/lorre/3Jy14gb2kR/92731
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2
@@ -602,7 +600,6 @@ http://mains.services:2086/kixy2030/u8zC9nvB69/65840
 http://mains.services:2086/lorre/3Jy14gb2kR/65840
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFdlpKS8K3y5JXTHjYLcvlY
-#EXTM3U
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBC GOLF
 http://mains.services:2086/lorre/3Jy14gb2kR/3403
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBC GOLF
@@ -803,7 +800,6 @@ http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKGYo4u_pDQ0r1emLRgf5eg
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFCwcZ_w6gy37ng-5VDqVj08
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet World Extra 2 (FHD)
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKui3_OIJ3ONwB7FlZOtpU4
-#EXTM3U
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet World Extra 3 (FHD)
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFInl9qv4mn5tEgJVx3zEYFs
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet World Extra 4 (FHD)
@@ -1004,7 +1000,6 @@ http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/75179.ts
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/75178.ts
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",FC BAYERN TV HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/234999
-#EXTM3U
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Magenta Sport (3.Liga) 2 HD
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/91323
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Magenta Sport (3.Liga) 3 HD
@@ -1205,7 +1200,6 @@ http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/132801
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3408
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 8 (Only Live Event)
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3407
-#EXTM3U
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT BUNDESLIGA 9 (Only Live Event)
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/3406
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",SKY SPORT Bundesliga 1 Hevc
@@ -1406,7 +1400,6 @@ http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/289.ts
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/16349.ts
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport 7 (Mobil)
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/27182.ts
-#EXTM3U
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport 7 FHD
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/89225
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport 7 HD
@@ -1607,7 +1600,6 @@ http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/10436.ts
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/105.ts
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport F1 (Mobil)
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/27186.ts
-#EXTM3U
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport F1 HD
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/89210
 #EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Sport",Sky Sport F1 HD
@@ -1808,7 +1800,6 @@ http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/88768
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/88765
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Rai Sport  HD
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFO4_5aIQxcXjfi1Rlhn7v78
-#EXTM3U
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Rai Sport 1
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/88766
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Rai Sport 1
@@ -1907,17 +1898,17 @@ http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOgPcUTxss53zpNJchcCk2A
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFG-xnGJSuujreJ1wx2ZTAIg
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",[CANALI SD] SKY SPORT FOOTBALL SD
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNIyyZbcUP0ATMzb7erb_-I
-#EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport;Undefined",New Japan Pro Wrestling World,NJPW World
+#EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sport",New Japan Pro Wrestling World,NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Sport",Jordan Sport
 http://stariptv.org:8080/wael2021/123456/111529
 #EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 1 (1024×576),Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;Undefined",AL KASS 2 (1024×576),Al Kass Two
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport",AL KASS 2 (1024×576),Al Kass Two
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 #EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 3 (1024×576),Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;Undefined",AL KASS 5 (1024×576),Al Kass Five
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport",AL KASS 5 (1024×576),Al Kass Five
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS 1 (1920×1080)
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
@@ -2009,7 +2000,6 @@ http://bosstr.net:80/nomoreacble/dsfsdfsfds/55928
 http://stariptv.org:8080/wael2021/123456/86562
 #EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",TV2 SPORT PREMIUM 2
 http://bosstr.net:80/nomoreacble/dsfsdfsfds/29605
-#EXTM3U
 #EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",TV2 Sport Premium HD (NO)
 http://cmsvs.tvmoip.com:18080/ZvezdanStefan/StefanZvezdan/755
 #EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Sport",VIASAT SPORT
@@ -2210,7 +2200,6 @@ http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/7542
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/80182
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Polsat Sport News HD 1080
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFBf-Vw7GHPIMIdo7mGhKg1U
-#EXTM3U
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",SPORTKLUB
 http://mains.services:2086/kixy2030/u8zC9nvB69/92812
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Sport Klub Polska
@@ -2411,7 +2400,6 @@ http://145.239.7.22:8080/live/victor/victor/7084.m3u8
 http://145.239.7.22:8080/live/victor/victor/39442.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV + NET MUITO LENTA
 http://145.239.7.22:8080/live/victor/victor/7086.m3u8
-#EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
 http://mains.services:2086/kixy2030/u8zC9nvB69/92132
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
@@ -2612,7 +2600,6 @@ http://srv.vitrizamper.com:80/marli2022/2022marli/1048
 http://srv.vitrizamper.com:80/marli2022/2022marli/1128
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV NBA FHD [H265]
 http://cdn99.one:80/356195/FgHq4u/74978.ts
-#EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV+
 http://cdn99.one:80/356195/FgHq4u/74979.ts
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV+ FHD
@@ -2677,7 +2664,7 @@ http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465580
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465582
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Extreme Sports
 http://stariptv.org:8080/wael2021/123456/3328
-#EXTINF:0 tvg-country="RU;UA" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport;Undefined",Red Bull TV,Red Bull TV HD,Red Bull TV SD
+#EXTINF:0 tvg-country="RU;UA" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport",Red Bull TV,Red Bull TV HD,Red Bull TV SD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Viasat Sport
 http://stariptv.org:8080/wael2021/123456/3346
@@ -2813,7 +2800,6 @@ http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/90709
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/90710
 #EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Sport",V Sport Motor
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/90711
-#EXTM3U
 #EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Sport",V Sport Premium
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/90714
 #EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Sport",V Sport UHD 4K
@@ -3014,7 +3000,6 @@ http://bosstr.net:80/nomoreacble/dsfsdfsfds/1802
 http://bosstr.net:80/nomoreacble/dsfsdfsfds/1801
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS 4 HD TR
 http://bosstr.net:80/nomoreacble/dsfsdfsfds/1800
-#EXTM3U
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS HABER FHD
 http://bosstr.net:80/nomoreacble/dsfsdfsfds/1809
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEiN SPORT HABER +™
@@ -3215,7 +3200,6 @@ http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465848
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465849
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BIENSPORT 5 H265
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465850
-#EXTM3U
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BIENSPORT 6 H265
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465851
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BIENSPORT 7 H265
@@ -3404,7 +3388,7 @@ http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465845
 http://ruedos.ddns.net:8080/7jh8LXC53b/eC44I6Jdek/465815
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Partizan TV HD
 http://nova-media.net:80/Marko_Maljkovic/XPGgOwUec5/5508
-#EXTINF:0 tvg-country="UN" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042862.png" group-title="Sport;Undefined",Red Bull TV,RED BULL TV OPT 1
+#EXTINF:0 tvg-country="UN" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92704/14042862.png" group-title="Sport",Red Bull TV,RED BULL TV OPT 1
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FN
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -3416,7 +3400,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
-#EXTM3U
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
@@ -3617,7 +3600,6 @@ http://mains.services:2086/kixy2030/u8zC9nvB69/66773
 http://mains.services:2086/kixy2030/u8zC9nvB69/66774
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SPORTS : BN SPORTS USA
 http://mains.services:2086/kixy2030/u8zC9nvB69/66771
-#EXTM3U
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SPORTS : CO  WINSPORTS PLUS
 http://mains.services:2086/kixy2030/u8zC9nvB69/102335
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",SPORTS : SPORT KLUB 1
@@ -3818,7 +3800,6 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sport",TNT Sports 3 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTM3U
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sport",TNT Sports 3 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Sport",TNT Sports 4 Brasil
@@ -3879,7 +3860,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing,SPORT : Dubai Racing,SPORT | Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport;Undefined",Dubai Racing,迪拜赛马俱乐部
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport",Dubai Racing,迪拜赛马俱乐部
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
@@ -4019,7 +4000,6 @@ http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/87101
 http://bosstr.net:80/nomoreacble/dsfsdfsfds/3745
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORT 2
 http://stariptv.org:8080/wael2021/123456/16126
-#EXTM3U
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORT 2 HD
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/87103
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Edge Sport HD
@@ -4220,7 +4200,6 @@ http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199571
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/87223
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premier Liga
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/796
-#EXTM3U
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sporty Stuff TV (720p)
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",USA-Bein Sport Xtra (TV)(720)
@@ -4421,7 +4400,6 @@ http://mains.services:2086/lorre/3Jy14gb2kR/44696
 http://iptvmedia.live:8080/12810/7f788911/277374
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",FS1 Football HD
 http://iptvmedia.live:8080/12810/7f788911/756
-#EXTM3U
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox College Sports Atlantic
 http://stariptv.org:8080/hakim2021/123456/148511
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox College Sports Pacific HD
@@ -4622,7 +4600,6 @@ http://mains.services:2086/lorre/3Jy14gb2kR/308
 http://mains.services:2086/lorre/3Jy14gb2kR/64168
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL NEW ENGLAND PATRIOTS
 http://mains.services:2086/lorre/3Jy14gb2kR/55080
-#EXTM3U
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL NEW ENGLAND PATRIOTS
 http://mains.services:2086/kixy2030/u8zC9nvB69/55080
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL NEW ORLEANS SAINTS
@@ -4823,7 +4800,6 @@ http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/58096
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/1593
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA-Ginx eSports (X)(720)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/35818
-#EXTM3U
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA-Golf (PM)(720)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/65436
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA-MBC Chicago Sports 2 (PM)(720)
@@ -5024,7 +5000,6 @@ http://tv.romanija.xyz:8080/22maky/test111/158
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/89149
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 4 SR HD
 http://stariptv.org:8080/wael2021/123456/101895
-#EXTM3U
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 5
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/154
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Arena Sport 5
@@ -5225,7 +5200,6 @@ http://tv.romanija.xyz:8080/22maky/test111/146
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/138
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 2
 http://tv.romanija.xyz:8080/22maky/test111/138
-#EXTM3U
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 2 HR
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/135
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Sport Klub 2 HR
