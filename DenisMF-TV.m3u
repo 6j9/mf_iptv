@@ -374,11 +374,11 @@ http://93.152.174.144:4000/play/barcatv/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2019/08/bein-sports-laliga.jpg",beIN LaLiga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-id="bein-sport-1-fr" tvg-logo="https://iptvxpix.ml/bein-sport-1-fr.png",beIN Sports 1 HD FR
+#EXTINF:-1 group-title="Sport" tvg-id="bein-sport-1-fr" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png",beIN Sports 1 HD FR
 http://stariptv.org:8080/wael2021/123456/56225
-#EXTINF:-1 group-title="Sport" tvg-id="bein-sport-2-fr" tvg-logo="https://iptvxpix.ml/bein-sport-2-fr.png",beIN Sports 2 HD FR
+#EXTINF:-1 group-title="Sport" tvg-id="bein-sport-2-fr" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",beIN Sports 2 HD FR
 http://stariptv.org:8080/wael2021/123456/56226
-#EXTINF:-1 group-title="Sport" tvg-id="bein-sport-3-fr" tvg-logo="https://iptvxpix.ml/bein-sport-3-fr.png",beIN Sports 3 HD FR
+#EXTINF:-1 group-title="Sport" tvg-id="bein-sport-3-fr" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png",beIN Sports 3 HD FR
 http://stariptv.org:8080/wael2021/123456/56227
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-4-max-403.png",beIN Sports Max 4 FR
 http://stariptv.org:8080/wael2021/123456/4954
@@ -415,17 +415,17 @@ http://stariptv.org:8080/wael2021/123456/141572
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-nba-877.png",beIN Sports NBA HD QA
 http://stariptv.org:8080/wael2021/123456/150160
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-1-640.png",beIN Sports 1 HD TR
+#EXTINF:-1 group-title="Sport" tvg-id="5092" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-1-640.png",beIN Sports 1 HD TR
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78345
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",beIN Sports 2 HD TR
+#EXTINF:-1 group-title="Sport" tvg-id="3874" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-2-641.png",beIN Sports 2 HD TR
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76295
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",beIN Sports 3 HD TR
+#EXTINF:-1 group-title="Sport" tvg-id="3876" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",beIN Sports 3 HD TR
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76297
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-4-704.png",beIN Sports 4 HD TR
+#EXTINF:-1 group-title="Sport" tvg-id="3878" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-4-704.png",beIN Sports 4 HD TR
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76299
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-haber-1086.png",beIN Sports Haber TR
+#EXTINF:-1 group-title="Sport" tvg-id="2618" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-haber-1086.png",beIN Sports Haber TR
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76305
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png",beIN Sports Max 1 HD TR
+#EXTINF:-1 group-title="Sport" tvg-id="3880" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-1-742.png",beIN Sports Max 1 HD TR
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76300
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-762.png",beIN Sports Max 2 HD TR
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76303
@@ -484,7 +484,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://iptvxpix.ml/eurosport1.png",Eurosport 1 FR
 http://stariptv.org:8080/wael2021/123456/4357
-#EXTINF:-1 group-title="Sport" tvg-logo="https://iptvxpix.ml/eurosport2.png",Eurosport 2 TR
+#EXTINF:-1 group-title="Sport" tvg-logo="https://iptvxpix.ml/eurosport2.png",Eurosport 2 FR
 http://stariptv.org:8080/wael2021/123456/4356
 
 #EXTINF:-1 group-title="Sport" tvg-id="3792" tvg-logo="http://epg.it999.ru/img/3792.png",Fight Box
@@ -566,7 +566,6 @@ http://stariptv.org:8080/wael2021/123456/97821
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-95.png",Premier Sports 1
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/98771
-
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sports-2-1442.png",Premier Sports 2
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/98770
 
