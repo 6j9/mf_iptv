@@ -451,7 +451,7 @@ http://myhosting.one:8080/arsenal1/arsenal1/255648
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-max-2-762.png",beIN SPORTS MAX 2 HD TR
 http://myhosting.one:8080/arsenal1/arsenal1/255649
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://w7.pngwing.com/pngs/752/349/png-transparent-la-liga-bein-sports-3-streaming-media-others-purple-television-violet-thumbnail.png",beIN Sports LaLiga
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg",beIN Sports LaLiga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/bike-tv.webp",Bike TV
@@ -632,7 +632,7 @@ https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b43
 #EXTINF:-1 group-title="Sport" tvg-logo="http://db.radioline.fr/pictures/podcast_d3bf5cb3ef3d43dfcef8c785ed7951a7/logo200.jpg",MMA Jankie HD
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://p7.hiclipart.com/preview/518/361/238/motorcycle-accessories-logo-motorcycle-racer-bridgestone-hispania-s-a-motocross-thumbnail.jpg",motoRRacing
+#EXTINF:-1 group-title="Sport" tvg-logo="https://57.img.avito.st/avatar/social/256x256/5443836557.jpg",motoRRacing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-motorvision-tv-185.png",MotorVision HD
