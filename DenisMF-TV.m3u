@@ -3076,7 +3076,7 @@ http://persik.by/stream/7504/377885/10579.m3u8
 http://persik.by/stream/7504/377885/10577.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-id="chavash-en" tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Национальное ТВ Чувашии (Чаваш ЕН)
+#EXTINF:-1 group-title="Региональные" tvg-id="chavash-en" tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Чаваш ЕН (Чувашия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (Чувашия)
@@ -3091,7 +3091,7 @@ https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tvcentr" tvg-logo="https://nv.tvstroka.com/images/tvc.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр (Чувашия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="utv-cheboxary" tvg-logo="https://iptvxpix.ml/utv-cheboxary.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Телеканал ЮТВ (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="utv-cheboxary" tvg-logo="https://iptvxpix.ml/utv-cheboxary.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ЮТВ Чебоксары (Чувашия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="che" tvg-logo="http://www.oreol.tv/img/che_s.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че (Чувашия)
@@ -3964,10 +3964,6 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="echotv24" tvg-logo="https://iptvxpix.ml/echotv24.png",Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
-
-#EXTINF:-1 group-title="Региональные" tvg-id="utv-cheboxary" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/201.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ЮТВ Чебоксары
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
-http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSssikk5_ajRaE4VznV_kFHKBbZaiFzzGcUq5NrYw=s220-c-k-c0x00ffffff-no-rj?.png" tvg-name="Югорск ТВ" shift="+2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Югорск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
