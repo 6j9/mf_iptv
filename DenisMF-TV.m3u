@@ -1,7 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
 
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
-
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -840,7 +838,7 @@ http://stariptv.org:8080/wael2021/123456/92172
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-maximo-1-301.png",SuperSport MáXimo 1
 http://stariptv.org:8080/wael2021/123456/92170
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://d3i68pnuybn9g3.cloudfront.net/images/s/swiss-gutscheine_logo_9.jpg",Swiss Sports
+#EXTINF:-1 group-title="Sport" tvg-logo="http://swiss-sport.tv/wp-content/uploads/2021/06/logo_sstv_claim_transp3.gif",Swiss-Sport.TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tennis-channel-63.png",Tennis Channel
@@ -1362,9 +1360,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1hd" tvg-logo="https://iptvxpix.ml/1hd-music.png",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="Музыкальные" tvg-id="acb-tv" tvg-logo="https://iptvxpix.ml/9-volna.png",ACB TV
-http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8
-
 #EXTINF:-1 group-title="Музыкальные" tvg-id="aiva" tvg-logo="http://epg.it999.ru/img/2837.png",AIVA HD
 http://194.190.78.81:8080/aiva/index.m3u8
 
@@ -1649,7 +1644,7 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m
 #EXTINF:-1 group-title="Music" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/917142.5445ac20bf76b.jpg",CMT Music
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://globalbanglatv.com/wp-content/uploads/2019/11/company-tv.jpg",Company TV HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://img.utdstc.com/icon/92c/3de/92c3dec976c82600073a140bd425e00f8450d88dec3552754714202655110e73",Company TV HD
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg",Contact Vision
