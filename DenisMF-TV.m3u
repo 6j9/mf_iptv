@@ -1317,9 +1317,6 @@ http://st1.astra-uk.ru:81/721d8da68749d5a361038cf2f2a2204a/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimania" tvg-logo="https://iptvxpix.ml/multimania.png",Мультиландия
 http://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
 
-#EXTINF:-1 group-title="Детские" tvg-id="multimania-lv" tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/02/cf239e79d0d8650b4c5b6e8efb50f5d2.jpg",Мультимания
-http://st1.astra-uk.ru:81/d3fdbf52940d095bec5622b47d204e9a/playlist.m3u8
-
 #EXTINF:-1 group-title="Детские" tvg-id="multsezon" tvg-logo="https://iptvxpix.ml/multsezon.png",МультСезон
 http://158.101.218.99:2134/channel/n1f848680/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
 
