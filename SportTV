@@ -2710,7 +2710,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://myott.top/stream/1VGPHYLZTH/332.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://iptvxpix.ml/xsport-ua.png",Xsport HD
 http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 group-title="2243" tvg-logo="http://epg.it999.ru/img/2243.png",XSPORT HD
+#EXTINF:-1 group-title="Sport" tvg-logo="http://epg.it999.ru/img/2243.png",XSPORT HD
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Xumo : 719 SportsGrid
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
