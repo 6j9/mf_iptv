@@ -946,28 +946,28 @@ http://46.174.83.66/Indiiskoe_kino/index.m3u8
 http://46.174.83.66/Kinokomedia/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinomiks" tvg-logo="https://iptvxpix.ml/kinomiks.png",Киномикс
-http://st1.astra-uk.ru:81/4e31cb975e4e6f9bbe27c1aab2402ebf/playlist.m3u8
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopremiera-hd" tvg-logo="https://iptvxpix.ml/kinopremiera.png",Кинопремьера
-http://st1.astra-uk.ru:81/8335ed4599bdb1bddf4bfd7ea8f8b401/playlist.m3u8
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosvidanie" tvg-logo="https://iptvxpix.ml/kinosvidanie.png",Киносвидание
-http://persik.by/stream/7504/377885/30.m3u8
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosemiya" tvg-logo="https://iptvxpix.ml/kinosemia.png",Киносемья
-http://st1.astra-uk.ru:81/2fbefac710a67d4bcebb3810f6702a83/playlist.m3u8
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinoseria" tvg-logo="https://iptvxpix.ml/kinoseria.png",Киносерия
-http://st1.astra-uk.ru:81/3300cbc9af590772bae4cbaa47a03a68/playlist.m3u8
+https://sc.id-tv.kz/Kinoseriya_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinouzhas" tvg-logo="https://iptvxpix.ml/kinouzhas.png",Киноужас
 https://sc.id-tv.kz/Kinouzhas_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinoxit" tvg-logo="https://iptvxpix.ml/kinoxit.png",Кинохит
-http://st1.astra-uk.ru:81/fd3504e71b0da4b572c6942d915a1f5d/playlist.m3u8
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="muzhskoe-kino" tvg-logo="https://iptvxpix.ml/muzhskoe-kino.png",Мужское Кино
-http://st1.astra-uk.ru:81/78739d23a671640e943c8fd484686f55/playlist.m3u8
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="nashe-novoe-kino" tvg-logo="https://iptvxpix.ml/nashe-novoe-kino.png",Наше Новое Кино
 http://st1.astra-uk.ru:81/2c3ae8d5ff31d21cb37109d8cc1b5c21/playlist.m3u8
@@ -982,7 +982,7 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://st1.astra-uk.ru:81/bbe710524ff563d5a62a3ab4f8a5b757/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="cinema-ru" tvg-logo="https://iptvxpix.ml/cinema-ru.png",Cinema
-http://195.26.83.96:50001/1
+https://sc.id-tv.kz/Cinema_36_37.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/3860.png",Dizi
 http://46.181.193.122:81/udp/239.255.42.68:1234
@@ -991,7 +991,7 @@ http://46.181.193.122:81/udp/239.255.42.68:1234
 http://94.230.240.17:8080/film_box/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="774" tvg-logo="http://epg.it999.ru/img/774.png",FlixSnip
-http://145.249.228.229:8000/play/40
+https://sc.id-tv.kz/FlixSnip_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hollywood-hd" tvg-logo="https://iptvxpix.ml/hollywood-hd.png",Hollywood HD
 http://st1.astra-uk.ru:81/669f0f295de83119a18bfe299a96dbdb/playlist.m3u8
