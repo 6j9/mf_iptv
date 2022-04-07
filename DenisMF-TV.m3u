@@ -122,10 +122,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="https://iptvxpix.ml/rossia1.png",Россия 1 HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="rossia-24" tvg-logo="https://iptvxpix.ml/rossia-24.png",Россия 24
-http://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
-
-#EXTINF:-1 group-title="Эфирные" tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-24
+#EXTINF:-1 group-title="Эфирные" tvg-id="rossia-24" tvg-logo="https://iptvxpix.ml/rossia-24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
@@ -138,6 +135,9 @@ https://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="sarafan" tvg-logo="https://iptvxpix.ml/sarafan.png",Сарафан
 http://st1.astra-uk.ru:81/e4eb5830bf416d1b49e2996a7868d14d/playlist.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://pic.rutubelist.ru/user/93/b8/93b83013072717fa52c8370fc1792d24.jpg",Соловьёв.Live
+http://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="sts" tvg-logo="https://iptvxpix.ml/sts.png",СТС HD
 http://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
@@ -1461,7 +1461,8 @@ https://hls.goodgame.ru/hls/180509.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="viva-rus" tvg-logo="https://iptvxpix.ml/viva-rus.png",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png",ё (Самара)
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ё (Самара)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="zhara" tvg-logo="https://iptvxpix.ml/zhara.png",ЖАРА
@@ -3078,9 +3079,6 @@ http://persik.by/stream/7504/377885/10579.m3u8
 http://persik.by/stream/7504/377885/10577.m3u8
 
 
-#EXTINF:-1 group-title="Региональные" tvg-id="chavash-en" tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Чаваш ЕН (Чувашия)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
-https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (Чувашия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
@@ -3093,9 +3091,6 @@ https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="tvcentr" tvg-logo="https://nv.tvstroka.com/images/tvc.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр (Чувашия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="utv-cheboxary" tvg-logo="https://iptvxpix.ml/utv-cheboxary.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ЮТВ Чебоксары (Чувашия)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
-https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="che" tvg-logo="http://www.oreol.tv/img/che_s.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че (Чувашия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
@@ -3353,10 +3348,6 @@ http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 
-#EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ё (Самара)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
-http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
-
 #EXTINF:-1 group-title="Региональные" tvg-id="zab-tv-24" tvg-logo="https://iptvxpix.ml/zab-tv-24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Заб.TV 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8
@@ -3368,9 +3359,6 @@ http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/06/45571caf9d64821ea16f7883ac62a930.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Известия Воронеж
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-
-#EXTINF:-1 group-title="Региональные" tvg-logo="http://cdn.teleon.tv/logo/illi-tv.png",Илли ТВ
-http://illi.fm/illitv_2000/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1558583498243.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Импульс (Ямало-Ненецкий АО)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
