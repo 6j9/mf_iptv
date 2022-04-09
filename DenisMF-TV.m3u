@@ -241,7 +241,7 @@ http://st1.astra-uk.ru:81/45b46ea77a890502df74ad55d82b8e4a/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="belarus5" tvg-logo="https://iptvxpix.ml/belarus5hd.png",Беларусь 5
-http://persik.by/stream/7504/377885/10408.m3u8
+http://82.209.197.187:8080/udp/239.0.100.9:1234
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="box-tv" tvg-logo="https://iptvxpix.ml/box-tv.png",Бокс ТВ
 http://st1.astra-uk.ru:81/9cbaa7594b1a1af55e54b25426638d99/playlist.m3u8
@@ -776,19 +776,19 @@ http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89204
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89203
 #EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/bein%209HD.png",beIN SPORTS 9
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89202
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 4
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png",beIN CONNECT 4
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38455
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 5
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png",beIN CONNECT 5
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38456
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 6
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png",beIN CONNECT 6
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38457
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 7
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png",beIN CONNECT 7
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38458
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Bein_connect_logo.png",beIN CONNECT 8
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38459
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beINSportsN.png",beIN SPORTS ESP
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/BeinSportsN.png",beIN SPORTS ESP
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/27685
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beIN%20SPORT%20USA.png",beIN SPORTS USA
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/BEIN%20SPORT%20USA.png",beIN SPORTS USA
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/1501
 #EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/BTN.png",BIG TEN NETWORK
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/1467
