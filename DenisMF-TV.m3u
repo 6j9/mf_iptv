@@ -1,13 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-
-#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="https://iptvxpix.ml/rossia1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-
 #EXTINF:-1 group-title="Эфирные" tvg-id="360-podmoskovie" tvg-logo="https://iptvxpix.ml/360-podmoskovie.png",360°
 https://strm.yandex.ru/kal/360tv_supres/360tv_supres0.m3u8
 
@@ -52,9 +44,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="izvestia" tvg-logo="https://iptvxpix.ml/izvestia.png",Известия
 http://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="kvn-tv" tvg-logo="https://iptvxpix.ml/kvn-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",КВН ТВ
-http://persik.by/stream/7504/377885/10949.m3u8
-
 #EXTINF:-1 group-title="Эфирные" tvg-id="mir-24" tvg-logo="https://iptvxpix.ml/mir24.png",Мир 24
 https://strm.yandex.ru/kal/mir24/mir240.m3u8
 
@@ -95,6 +84,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png",Первый канал HD
 http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8
 
+#EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy-kanal-eurasia-kz" tvg-logo="https://iptvxpix.ml/pervy-kanal-eurasia-kz.png",Первый канал Евразия
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/index.m3u8
 
@@ -125,6 +118,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="https://iptvxpix.ml/rossia1.png",Россия 1 HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 
+#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="https://iptvxpix.ml/rossia1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
 #EXTINF:-1 group-title="Эфирные" tvg-id="rossia-24" tvg-logo="https://iptvxpix.ml/rossia-24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -135,9 +132,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="2547" tvg-logo="http://epg.it999.ru/img/2547.png" ,Россия РТР
 https://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
-
-#EXTINF:-1 group-title="Эфирные" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042020/ratv_logo.png?KR_lqxX8wgb_4DTMCMW3JfF1xcsB68VP&itok=z3t3UVy2",Русская Америка ТВ
-https://stream.russianamerica.tv/ratv/index.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="sarafan" tvg-logo="https://iptvxpix.ml/sarafan.png",Сарафан
 http://st1.astra-uk.ru:81/e4eb5830bf416d1b49e2996a7868d14d/playlist.m3u8
@@ -152,7 +146,7 @@ http://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="sts-love" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love
+#EXTINF:-1 group-title="Эфирные" tvg-id="sts-love" tvg-logo="https://iptvxpix.ml/sts-love.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
@@ -766,31 +760,31 @@ http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/111023
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/33746
 #EXTINF:-1 group-title="Sport" tvg-logo="https://cdn.mos.cms.futurecdn.net/v2WivcMNkETkZ4BnbTiS8o-1200-80.jpeg",BALLY SPORTS WISCONSIN
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/33745
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beIN%201HD.png",beIN SPORTS 1
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/bein%201HD.png",beIN SPORTS 1
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89210
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beIN%202HD.png",beIN SPORTS 2
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/bein%202HD.png",beIN SPORTS 2
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89209
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beIN%204HD.png",beIN SPORTS 4
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/bein%204HD.png",beIN SPORTS 4
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89207
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beIN%205HD.png",beIN SPORTS 5
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/bein%205HD.png",beIN SPORTS 5
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89206
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beIN%206HD.png",beIN SPORTS 6
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/bein%206HD.png",beIN SPORTS 6
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89205
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beIN%207HD.png",beIN SPORTS 7
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/bein%207HD.png",beIN SPORTS 7
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89204
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beIN%208HD.png",beIN SPORTS 8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/bein%208HD.png",beIN SPORTS 8
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89203
-#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beIN%209HD.png",beIN SPORTS 9
+#EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/bein%209HD.png",beIN SPORTS 9
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89202
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/beIN_connect_logo.png",beIN CONNECT 4
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 4
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38455
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/beIN_connect_logo.png",beIN CONNECT 5
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 5
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38456
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/beIN_connect_logo.png",beIN CONNECT 6
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 6
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38457
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/beIN_connect_logo.png",beIN CONNECT 7
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 7
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38458
-#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/beIN_connect_logo.png",beIN CONNECT 8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/bein_connect_logo.png",beIN CONNECT 8
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/38459
 #EXTINF:-1 group-title="Sport" tvg-logo="http://primestreamstv.com/logos/beINSportsN.png",beIN SPORTS ESP
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/27685
