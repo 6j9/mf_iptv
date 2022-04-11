@@ -487,8 +487,6 @@ http://93.152.174.144:4000/play/skysports2/index.m3u8
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-golf-94.png",Sky Sports Golf
 http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sports-racing-1653.png",Sky Sports Racing
-http://mains.services:2086/lorre/3Jy14gb2kR/47763
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.sport2u.tv/wp-content/uploads/2021/05/logo-sport2u.png",Sport 2U
 https://live.sport2u.tv/EvoLive/myStream/playlist.m3u8
@@ -499,8 +497,6 @@ https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="http://www.tvlizer.com/wp-content/uploads/2015/08/sports-tonight-200x141.jpg",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/playlist.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/stadium.webp",Stadium
-https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/f3d8696d886f4c3b9612132643061743/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-stadium-843.png", Stadium UFC
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
@@ -529,13 +525,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tyc-sports-1245.png",TyC Sports HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1115
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8Z8O52L.png",Vivaro Arena
-http://135.181.178.91/vmedia_live/3/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8m9vBA0.png",Vivaro Sports
-http://135.181.178.91/vmedia_live/1/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/aovzCvs.png",Vivaro Sports+
-http://135.181.178.91/vmedia_live/2/index.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://user-images.githubusercontent.com/16014375/42868322-8809ffa2-8a61-11e8-9161-ce6d697fe46c.png",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
@@ -1069,7 +1058,7 @@ http://91.210.251.19:4866/udp/239.0.1.118:4000
 https://mfe01.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tvxxi" tvg-logo="https://iptvxpix.ml/tvxxi.png",TV XXI
-http://193.176.179.38:8087/xxi/index.m3u8
+http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://pover-v-mechtu.ru/wp-content/uploads/2012/11/TVMCHANNEL.png",TVM Channel
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/playlist.m3u8
@@ -1405,7 +1394,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1hd" tvg-logo="https://iptvxpix.ml/1hd-music.png",1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+http://dmitry-tv.ml/hls/CH_1HDMUSICTELEVISIONHD.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="aiva" tvg-logo="http://epg.it999.ru/img/2837.png",AIVA HD
 http://194.190.78.81:8080/aiva/index.m3u8
@@ -1680,9 +1669,6 @@ http://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1705
 #EXTINF:-1 group-title="Music" tvg-logo="https://media-cdn.tripadvisor.com/media/photo-i/0e/95/19/cd/tudo-na-brasa.jpg",Brasa Music HD
 http://live.salto.nl/hls/sotv1_high.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/736x/9e/f3/53/9ef3531430ed55a58e54278a0cca7931--christian-crosses-christian-music.jpg",Christian Music
-http://broadcast.mytvtogo.net/contemporarychristian/contemporarychristian/playlist.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://ritsatv.ru/files/poster/medium/900122.png",City TV
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 
@@ -1703,9 +1689,6 @@ http://140.238.127.147/streams/1.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/09/ea/4a/09ea4a04-74db-2e6e-1075-3784435a197b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png",DBM TV HD
 http://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="4673" tvg-logo="http://epg.it999.ru/img/4673.png",Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://forumimage.ru/uploads/20181121/154277839170344298.gif",Deluxe Music HD
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
@@ -1755,7 +1738,7 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://img1.pngindir.com/20181107/iqv/kisspng-philippines-filipino-tv-television-channel-gemaz1-tv-logo-sorusuna-uyun-ekilleri-pulsuz-5be2fcaf86ad18.3164470415416024795516.jpg",Factoria TV HD
 https://eu1.servers10.com:8081/8010/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="	https://smotret.tv/images/fm-italia.webp",FM Italia
+#EXTINF:-1 group-title="Music" tvg-logo="	https://smotret.tv/images/fm-italia.webp",FMITALIA TV
 https://stream4.xdevel.com/video0s975817-1185/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://goo.su/zsERE",GO TV HD
@@ -1832,9 +1815,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img/1021.png",MTV Yo! 2
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://vo-radio.ru/images/logoweb2/music-history-180.jpg",Music History Radio TV
-https://live.prd.dlive.tv/hls/live/mhtvradio.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://televizor.org/img/logopit/musikcolabfm.png",Music Colab FM
 http://hls.goodgame.ru/hls/163343.m3u8
@@ -1986,9 +1966,6 @@ http://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://artwork-cdn.7static.com/static/img/sleeveart/00/072/288/0007228889_200.jpg",Reload Radio Music Power HD
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i114.fastpic.ru/big/2021/0426/3d/dc88ce2287bfc9c551d0ac8020d4923d.jpg",Retro Dance 90's
-https://live.prd.dlive.tv/hls/live/andyx7.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-id="retro-music-cz" tvg-logo="https://online-red.com/images/tv/retro-music-tv.png",Retro Music Television
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
@@ -1997,9 +1974,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/736x/e2/e9/f3/e2e9f37d5014d6835213779b2c1be5e0.jpg",Rock TV
 https://fms-https1.mediadirect.ro/live3/rocktv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.phonostar.de/images/auto_created/Rockland_Radio3184x184.png",RockLand Radio TV HD
-http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="6009" tvg-logo="http://epg.it999.ru/img2/6009.png",Romantic & Ballads
 http://140.238.127.147/streams/8.m3u8
