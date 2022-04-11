@@ -60,7 +60,7 @@ https://strm.yandex.ru/kal/msk24_supres/msk24_supres0.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="nastoyaschee-vremia" tvg-logo="https://iptvxpix.ml/nastoiaschee-vremia.png",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="https://iptvxpix.ml/ntv-white.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
+#EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="ntv" tvg-logo="https://iptvxpix.ml/ntv-white.png",НТВ HD
@@ -75,7 +75,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="otr" tvg-logo="https://iptvxpix.ml/otr.png",ОТР HD
 https://strm.yandex.ru/kal/otr/otr0.m3u8
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
+#EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy" tvg-logo="https://iptvxpix.ml/pervyj.png",Первый канал HD
@@ -106,7 +106,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rentv" tvg-logo="https://iptvxpix.ml/rentv.png",Рен ТВ HD
 http://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="https://iptvxpix.ml/rossia1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
+#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="https://iptvxpix.ml/rossia1.png",Россия 1 HD
