@@ -262,9 +262,6 @@ http://109.200.130.124:7000/play/a00z
 #EXTINF:-1 group-title="Спортивные" tvg-id="start" tvg-logo="https://iptvxpix.ml/start.png",Старт HD
 https://strm.yandex.ru/kal/start/start0.m3u8
 
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://smotret.tv/images/telesport.webp",Телеспорт
-https://cdn1-2.tele-sport.ru/abr/main/playlist.m3u8
-
 #EXTINF:-1 group-title="Спортивные" tvg-id="ufc" tvg-logo="https://iptvxpix.ml/ufc.png",Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 
@@ -2735,6 +2732,9 @@ http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_MAMONT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="matur-tv" tvg-logo="https://iptvxpix.ml/matur-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матур ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.mycdn.me/i?r=AzGBqNaF5OQp2lMpnhRx4DEF39P811N_726CMkql99u8D-fHTflIBpO4ef52WOYQRso",Между.Net HD
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="mig-tv-noyabrsk" tvg-logo="https://iptvxpix.ml/mig-tv-noyabrsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Миг ТВ Ноябрьск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
