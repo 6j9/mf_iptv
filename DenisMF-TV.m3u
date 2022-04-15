@@ -200,17 +200,17 @@ http://109.200.130.124:7005/play/a00d
 https://mfe02.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football1" tvg-logo="https://iptvxpix.ml/match-football1.png",Матч! Футбол 1
-http://80.237.96.66:9090/stream/channelid/1447584418?ticket=421CCD7B1F55D2BEAF0796AF28338DBB6840D5C7&profile=pass
+http://109.200.130.124:7005/play/a00h
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football1" tvg-logo="https://epg.it999.ru/img/1043.png",Матч! Футбол 1 HD
 http://109.200.130.124:7005/play/a00h
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football2" tvg-logo="https://iptvxpix.ml/match-football2.png",Матч! Футбол 2
-http://80.237.96.66:9090/stream/channelid/927470349?ticket=4AC1FD6BFB840BFDA0D8FA44B2ABE1DE00617625&profile=pass
+http://109.200.130.124:7005/play/a00b
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football2" tvg-logo="http://epg.it999.ru/img/1042.png",Матч! Футбол 2 HD
 http://109.200.130.124:7005/play/a00b
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football3" tvg-logo="https://iptvxpix.ml/match-football3.png",Матч! Футбол 3
-http://80.237.96.66:9090/stream/channelid/1429424341?ticket=DC32E4FDAB18819CC3C91C835EEA0C57ED9FEEBD&profile=pass
+http://109.200.130.124:7005/play/a00c
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football3" tvg-logo="http://epg.it999.ru/img/2005.png",Матч! Футбол 3 HD
 http://109.200.130.124:7005/play/a00c
 
@@ -267,12 +267,6 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="football-ru" tvg-logo="https://iptvxpix.ml/football-ru.png",Футбол
 http://live-footballtv.cdnvideo.ru/footballtv-publish/footballtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="footbolny" tvg-logo="https://iptvxpix.ml/footbolny.png",Футбольный HD
-http://158.101.218.99:2134/channel/n3fb3760e/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="xokkejny" tvg-logo="https://iptvxpix.ml/xokkejny.png",Хоккейный HD
-http://158.101.218.99:2134/channel/n57d8419a/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
 
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
 https://tv.a21network.ru/stream/37909/index.m3u8
@@ -360,9 +354,6 @@ http://mfe02.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fight-sports-1046.png",FIGHT Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/fite-tv.webp",FITE TV
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://wholesalesneakerslist.com/images/partner5.png",Fox Sports News
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -1068,9 +1059,6 @@ http://st1.astra-uk.ru:81/f2bb83588a99a3902021c7e4f455652f/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="plan-b" tvg-logo="https://iptvxpix.ml/plan-b.png",Plan B HD
 http://145.249.228.229:8000/play/a003
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="shot-tv" tvg-logo="https://iptvxpix.ml/shot-tv.png",Shot TV
-http://91.210.251.19:4866/udp/239.0.1.118:4000
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-family" tvg-logo="https://iptvxpix.ml/star-family.png",Star Family HD
 https://mfe01.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
 
@@ -1107,9 +1095,6 @@ http://live-1.otcnet.ru/kinotvsd/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv" tvg-logo="https://iptvxpix.ml/kino-tv.png" tvg-shift="-7" shift="+7",Кино ТВ HD
 https://livetv.mylifeisgood.ml/channels/kinotv
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopokaz" tvg-logo="https://iptvxpix.ml/kinopokaz.png",Кинопоказ
-http://158.101.218.99:2134/channel/n7ffadd45/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="krasnaya-linia" tvg-logo="https://iptvxpix.ml/krasnaya-linia.png",Красная линия ТВ
 http://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
@@ -1311,9 +1296,6 @@ http://tv.streams.baikal-telecom.net/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://iptvxpix.ml/nickelodeon-hd.png",Nickelodeon HD
 http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
 
-#EXTINF:-1 group-title="Детские" tvg-id="nicktoons" tvg-logo="https://iptvxpix.ml/nicktoons.png",Nicktoons
-http://158.101.218.99:2134/channel/26b318fe/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
-
 #EXTINF:-1 group-title="Детские" tvg-id="niki-junior" tvg-logo="https://iptvxpix.ml/niki-junior.png",Niki Junior HD
 http://saveukraine.only4.tv/5515/video.m3u8?token=saveUkrain
 
@@ -1372,9 +1354,6 @@ http://st1.astra-uk.ru:81/721d8da68749d5a361038cf2f2a2204a/playlist.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="multimania" tvg-logo="https://iptvxpix.ml/multimania.png",Мультиландия
 http://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
-
-#EXTINF:-1 group-title="Детские" tvg-id="multsezon" tvg-logo="https://iptvxpix.ml/multsezon.png",МультСезон
-http://158.101.218.99:2134/channel/n1f848680/index.m3u8?q=f34b3d2dc463990f4fd3e79b5c5fe4a5
 
 #EXTINF:-1 group-title="Детские" tvg-id="o_" tvg-logo="https://iptvxpix.ml/o_.png",О!
 http://46.174.83.66/O/index.m3u8
@@ -1848,39 +1827,6 @@ http://s02.diazol.hu:10190/stream.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://ritsatv.ru/files/poster/medium/900184.png",MUZ TV Azerbaijan
 https://mfe01.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK HD
-http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK FLASHBACK HD
-http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK GLAZZBA HD
-http://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK HIP-HOP HD
-http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK JEKA HD
-http://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK ROCK HD
-http://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK OKK HD
-http://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK POPSTAR HD
-http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK RIVIERA HD
-http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK SENSE HD
-http://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rs-muzzik-tv-9234-300x225.jpg",MUZZIK WORLD HD
-http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.telenet.hu/images/upload/channel_logo/c.jpg",NM TV
 https://tv.a21network.ru/stream/40650/index.m3u8
 
@@ -1929,9 +1875,6 @@ http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://suzukantv.at.ua/LOGO-IPTV/NAGO_TV.png",Power Turk HD
 http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://img.catcast.tv/uploads/14032022/banners/41313-622f43cc4ef4b.png",Prokop TV ROCK
-https://v2.catcast.tv/content/41313/index.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/626px-Qmusic_logo.svg.png",Q Music
 http://ch.iptvmate.net/30cada41457f1d01f5ab9f1a608ebca6.m3u8
 
@@ -1970,9 +1913,6 @@ http://56b50ada2d659.streamlock.net:1935/LoveFM/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-150px/ehu5qslyrtna.jpg",Radio S TV
 http://sradio.ipradio.rs:1935/sradio/radiostv/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-150px/FTf7VRjMbe.png",Radio San Borja TV
-http://5c3fb01839654.streamlock.net:1935/iptvsanborja/livesanborjatv/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://lh3.googleusercontent.com/GovhY5w59PPgZG6DyIDxxcCTtUPgi_YFNxniJbQG5w8elAXe3AEGKMBDF9ZciFbeqZY=w170",Radio Stereo 5 TV
 http://stream1.aswifi.it/stereo5/live/index.m3u8
@@ -2171,7 +2111,7 @@ https://mfe02.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
 http://strm.yandex.ru/kal/tvbrics/tvbrics0.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="univer-tv" tvg-logo="https://iptvxpix.ml/univer-tv.png",Univer TV
-http://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore" tvg-logo="https://iptvxpix.ml/viasat-explore.png",Viasat Explore
 http://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
@@ -2358,6 +2298,10 @@ https://strm.yandex.ru/kal/spas/spas0.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 
 
+#EXTINF:-1 group-title="Региональные" tvg-id="chavash-en"  tvg-logo="https://television-planet.tv/uploads/posts/63456gregrewfwef.jpeg",Чаваш ЕН
+http://mhd58.iptv2022.com/ntrk/chavashen/324/vh1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="utv-cheboxary" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/201.png",ЮТВ Чебоксары
+http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (Чувашия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
@@ -3552,233 +3496,310 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 
 #EXTINF:-1 group-title="Взрослые" tvg-id="6321" tvg-logo="http://epg.it999.ru/img2/6321.png",Кино 18+ HD
 https://v2.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь HD
+http://46.174.83.66/Russkaya_Noch/video.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="sholk" tvg-logo="https://st.weblancer.net/download/1059784_250xr.jpg",Шёлк ТВ HD
+http://live-2.otcnet.ru/shelk/index.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://assets.bigcartel.com/theme_images/18251983/logo.png",Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://www.eropuls.de/out/flow/img/shoplogo.png",Eropuls DE
+#EXTINF:-1 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler
+http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
+#EXTINF:-1 group-title="Взрослые" tvg-id="2021" tvg-logo="http://epg.it999.ru/img/2021.png",Brazzers TV Europe
+http://109.200.130.124:7000/play/a012
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://yt3.ggpht.com/a/AATXAJwBSHNWFeTf8OW2SmlUcpqofdnfqC72cQSLRQ=s100-c-k-c0xffffffff-no-rj-mo",Eropuls DE
 https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="2193" tvg-logo="http://epg.it999.ru/img/2193.png",Erox HD
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1 group-title="Взрослые" tvg-id="3170" tvg-logo="http://epg.it999.ru/img/3170.png",Extasy HD
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="2780" tvg-logo="http://epg.it999.ru/img/2780.png",Extasy 4K
+http://213.81.133.133:8080/extasy4k/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="2322" tvg-logo="http://epg.it999.ru/img/2322.png",Hustler HD
+http://46.181.193.122:81/udp/239.255.43.53:1234
+#EXTINF:-1 group-title="Взрослые" tvg-id="hustler-tv" tvg-logo="https://iptvxpix.ml/hustler-tv.png",Hustler TV
+http://78.83.191.18:8000/play/a078
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.pinimg.com/236x/6e/ea/35/6eea353b0aa415cd0c1d49161bf2fc42.jpg",Jasmin TV
+http://109.71.162.112/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Jenny For You
 http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.imgur.com/WlrcyMe.png",Miami TV Jenny Live
 http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-
-#EXTINF:-1 group-title="Взрослые" tvg-id="2322" tvg-logo="http://epg.it999.ru/img/2322.png",Hustler HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/1
-#EXTINF:-1 group-title="Взрослые" tvg-id="2320" tvg-logo="http://epg.it999.ru/img/2320.png",Redlight HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/2
-#EXTINF:-1 group-title="Взрослые" tvg-id="2321" tvg-logo="http://epg.it999.ru/img/2321.png",Private TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/3
-#EXTINF:-1 group-title="Взрослые" tvg-id="2324" tvg-logo="http://epg.it999.ru/img/2324.png",Dorcel TV HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/4
-#EXTINF:-1 group-title="Взрослые" tvg-id="4939" tvg-logo="http://epg.it999.ru/img/4939.png",DORCEL XXX TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/5
-#EXTINF:-1 group-title="Взрослые" tvg-id="2528" tvg-logo="http://epg.it999.ru/img/2528.png",Vivid Red HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/6
-#EXTINF:-1 group-title="Взрослые" tvg-id="3234" tvg-logo="http://epg.it999.ru/img/3234.png",Vixen HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/7
-#EXTINF:-1 group-title="Взрослые" tvg-id="2193" tvg-logo="http://epg.it999.ru/img/2193.png",Erox HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/8
-#EXTINF:-1 group-title="Взрослые" tvg-id="2781" tvg-logo="http://epg.it999.ru/img/2781.png",Eroxxx HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/9
-#EXTINF:-1 group-title="Взрослые" tvg-id="2777" tvg-logo="http://epg.it999.ru/img/2777.png",Penthouse Gold HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/10
-#EXTINF:-1 group-title="Взрослые" tvg-id="2779" tvg-logo="http://epg.it999.ru/img/2779.png",Penthouse Quickies HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/11
-#EXTINF:-1 group-title="Взрослые" tvg-id="3266" tvg-logo="http://epg.it999.ru/img/3266.png",Super one HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/12
-#EXTINF:-1 group-title="Взрослые" tvg-id="3140" tvg-logo="http://epg.it999.ru/img/3140.png",Babes TV HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/13
-#EXTINF:-1 group-title="Взрослые" tvg-id="3257" tvg-logo="http://epg.it999.ru/img/3257.png",XY Plus HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/14
-#EXTINF:-1 group-title="Взрослые" tvg-id="3255" tvg-logo="http://epg.it999.ru/img/3255.png",XY Max HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/15
-#EXTINF:-1 group-title="Взрослые" tvg-id="3256" tvg-logo="http://epg.it999.ru/img/3256.png",XY Mix HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/16
-#EXTINF:-1 group-title="Взрослые" tvg-id="3233" tvg-logo="http://epg.it999.ru/img/3233.png",Vivid TV Europe
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/17
-#EXTINF:-1 group-title="Взрослые" tvg-id="3233" tvg-logo="http://epg.it999.ru/img/3233.png",Vivid Touch
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/18
-#EXTINF:-1 group-title="Взрослые" tvg-id="3167" tvg-logo="http://epg.it999.ru/img/3167.png",Dusk
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/19
-#EXTINF:-1 group-title="Взрослые" tvg-id="2322" tvg-logo="http://epg.it999.ru/img/2322.png",Hustler TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/20
-#EXTINF:-1 group-title="Взрослые" tvg-id="2775" tvg-logo="http://epg.it999.ru/img/2775.png",XXL
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/21
-#EXTINF:-1 group-title="Взрослые" tvg-id="4943" tvg-logo="http://epg.it999.ru/img/4943.png",Passie XxX
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/22
-#EXTINF:-1 group-title="Взрослые" tvg-id="2319" tvg-logo="http://epg.it999.ru/img/2319.png",Passion XXX
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/23
-#EXTINF:-1 group-title="Взрослые" tvg-id="3216" tvg-logo="http://epg.it999.ru/img/3216.png",Reality Kings HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/24
-#EXTINF:-1 group-title="Взрослые" tvg-id="3151" tvg-logo="http://epg.it999.ru/img/3151.png",Brazzers TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/25
-#EXTINF:-1 group-title="Взрослые" tvg-id="2021" tvg-logo="http://epg.it999.ru/img/2021.png",Brazzers TV Europe
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/26
-#EXTINF:-1 group-title="Взрослые" tvg-id="2021" tvg-logo="http://epg.it999.ru/img/2021.png",Brazzers TV Europe UA
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/27
-#EXTINF:-1 group-title="Взрослые" tvg-id="3244" tvg-logo="http://epg.it999.ru/img/3244.png",HOT
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/28
-#EXTINF:-1 group-title="Взрослые" tvg-id="3253" tvg-logo="http://epg.it999.ru/img/3253.png",Venus
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/29
-#EXTINF:-1 group-title="Взрослые" tvg-id="3251" tvg-logo="http://epg.it999.ru/img/3251.png",Sextreme TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/30
-#EXTINF:-1 group-title="Взрослые" tvg-id="3251" tvg-logo="http://epg.it999.ru/img/3251.png",Sexy Hot
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/31
-#EXTINF:-1 group-title="Взрослые" tvg-id="4932" tvg-logo="http://epg.it999.ru/img/4932.png",Meiden Van Holland
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/32
-#EXTINF:-1 group-title="Взрослые" tvg-id="3168" tvg-logo="http://epg.it999.ru/img/3168.png",Evil Angel HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/33
-#EXTINF:-1 group-title="Взрослые" tvg-id="3258" tvg-logo="http://epg.it999.ru/img/3258.png",Erotic
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/34
-#EXTINF:-1 group-title="Взрослые" tvg-id="3259" tvg-logo="http://epg.it999.ru/img/3259.png",Erotic 2
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/35
-#EXTINF:-1 group-title="Взрослые" tvg-id="3260" tvg-logo="http://epg.it999.ru/img/3260.png",Erotic 3
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/36
-#EXTINF:-1 group-title="Взрослые" tvg-id="3261" tvg-logo="http://epg.it999.ru/img/3261.png",Erotic 4
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/37
-#EXTINF:-1 group-title="Взрослые" tvg-id="4957" tvg-logo="http://epg.it999.ru/img/4957.png",Erotic 5
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/38
-#EXTINF:-1 group-title="Взрослые" tvg-id="3262" tvg-logo="http://epg.it999.ru/img/3262.png",Erotic 6
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/39
-#EXTINF:-1 group-title="Взрослые" tvg-id="3263" tvg-logo="http://epg.it999.ru/img/3263.png",Erotic 7
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/40
-#EXTINF:-1 group-title="Взрослые" tvg-id="3264" tvg-logo="http://epg.it999.ru/img/3264.png",Erotic 8
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/41
-#EXTINF:-1 group-title="Взрослые" tvg-id="4921" tvg-logo="http://epg.it999.ru/img/4921.png",Bang U
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/42
-#EXTINF:-1 group-title="Взрослые" tvg-id="2031" tvg-logo="http://epg.it999.ru/img/2031.png",Шалун
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/43
-#EXTINF:-1 group-title="Взрослые" tvg-id="sholk" tvg-logo="https://st.weblancer.net/download/1059784_250xr.jpg",Шелк ТВ
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/44
-#EXTINF:-1 group-title="Взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/45
-#EXTINF:-1 group-title="Взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy Europe
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/46
-#EXTINF:-1 group-title="Взрослые" tvg-id="2014" tvg-logo="http://epg.it999.ru/img/2014.png",Playboy Europe UA
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/47
-#EXTINF:-1 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/48
-#EXTINF:-1 group-title="Взрослые" tvg-id="2249" tvg-logo="http://epg.it999.ru/img/2249.png",Blue Hustler Europe
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/49
-#EXTINF:-1 group-title="Взрослые" tvg-id="2015" tvg-logo="http://epg.it999.ru/img/2015.png",Русская Ночь
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/50
-#EXTINF:-1 group-title="Взрослые" tvg-id="2313" tvg-logo="http://epg.it999.ru/img/2313.png",Barely legal
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/51
-#EXTINF:-1 group-title="Взрослые" tvg-id="2527" tvg-logo="http://epg.it999.ru/img/2527.png",O-la-la
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/52
-#EXTINF:-1 group-title="Взрослые" tvg-id="2526" tvg-logo="http://epg.it999.ru/img/2526.png",FrenchLover
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/53
-#EXTINF:-1 group-title="Взрослые" tvg-id="2525" tvg-logo="http://epg.it999.ru/img/2525.png",Нюарт
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/54
-#EXTINF:-1 group-title="Взрослые" tvg-id="2632" tvg-logo="http://epg.it999.ru/img/2632.png",Exxxotica HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/55
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Secret Circle TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/56
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Lust Pur TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/57
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Beate-Uhse.TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/58
-#EXTINF:-1 group-title="Взрослые" tvg-id="4919" tvg-logo="http://epg.it999.ru/img/4919.png",Pure Babes TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/59
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://img-ipad.lisisoft.com/imgmic/8/1/819-1-pinko-up.jpg",Pinko Club
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/60
-#EXTINF:-1 group-title="Взрослые" tvg-id="3153" tvg-logo="http://epg.it999.ru/img/3153.png",Cento X Cento
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/61
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Dream Porn HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/62
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",X-Dream TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/63
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",X-Dream TV 2
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/64
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Fantazzy TV 
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/68
-#EXTINF:-1 group-title="Взрослые" tvg-id="2321" tvg-logo="http://epg.it999.ru/img/2321.png",Private Spice
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/69
-#EXTINF:-1 group-title="Взрослые" tvg-id="4930" tvg-logo="http://epg.it999.ru/img/4930.png",LEO TV FHD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/71
-#EXTINF:-1 group-title="Взрослые" tvg-id="4929" tvg-logo="http://epg.it999.ru/img/4929.png",X1 TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/72
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",X Bizarre
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/73
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",X Desire
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/74
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",X Bunga Bunga
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/75
-#EXTINF:-1 group-title="Взрослые" tvg-id="2776" tvg-logo="http://epg.it999.ru/img/2776.png",Penthouse Passion HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/76
-#EXTINF:-1 group-title="Взрослые" tvg-id="3245" tvg-logo="http://epg.it999.ru/img/3245.png",HOT XXL HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/77
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Legal TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/78
-#EXTINF:-1 group-title="Взрослые" tvg-id="3206" tvg-logo="http://epg.it999.ru/img/3206.png",Naughty America
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/79
-#EXTINF:-1 group-title="Взрослые" tvg-id="3239" tvg-logo="http://epg.it999.ru/img/3239.png",Balkan Erotic
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/80
-#EXTINF:-1 group-title="Взрослые" tvg-id="3252" tvg-logo="http://epg.it999.ru/img/3252.png",Taboo
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/81
-#EXTINF:-1 group-title="Взрослые" tvg-id="3248" tvg-logo="http://epg.it999.ru/img/3248.png",Oldtimer
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/82
-#EXTINF:-1 group-title="Взрослые" tvg-id="3240" tvg-logo="http://epg.it999.ru/img/3240.png",Bangerz
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/83
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Net XxX
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/84
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Playhouse
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/85
-#EXTINF:-1 group-title="Взрослые" tvg-id="3246" tvg-logo="http://epg.it999.ru/img/3246.png",Hot Pleasure
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/86
-#EXTINF:-1 group-title="Взрослые" tvg-id="3203" tvg-logo="http://epg.it999.ru/img/3203.png",MILF TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/87
-#EXTINF:-1 group-title="Взрослые" tvg-id="3250" tvg-logo="http://epg.it999.ru/img/3250.png",Red XXX
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/88
-#EXTINF:-1 group-title="Взрослые" tvg-id="3242" tvg-logo="http://epg.it999.ru/img/3242.png",Extreme
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/89
-#EXTINF:-1 group-title="Взрослые" tvg-id="3247" tvg-logo="http://epg.it999.ru/img/3247.png",Lesbian Affair
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/90
-#EXTINF:-1 group-title="Взрослые" tvg-id="3241" tvg-logo="http://epg.it999.ru/img/3241.png",Emanuelle HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/91
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",SEX ATION
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/92
-#EXTINF:-1 group-title="Взрослые" tvg-id="3243" tvg-logo="http://epg.it999.ru/img/3243.png",Fast Boyz
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/93
-#EXTINF:-1 group-title="Взрослые" tvg-id="3254" tvg-logo="http://epg.it999.ru/img/3254.png",X-MO
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/94
-#EXTINF:-1 group-title="Взрослые" tvg-id="2777" tvg-logo="http://epg.it999.ru/img/2777.png",Penthouse Gold HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/95
-#EXTINF:-1 group-title="Взрослые" tvg-id="2193" tvg-logo="http://epg.it999.ru/img/2193.png",Erox HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/96
-#EXTINF:-1 group-title="Взрослые" tvg-id="2781" tvg-logo="http://epg.it999.ru/img/2781.png",Eroxxx HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/97
-#EXTINF:-1 group-title="Взрослые" tvg-id="3170" tvg-logo="http://epg.it999.ru/img/3170.png",Extasy HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/98
-#EXTINF:-1 group-title="Взрослые" tvg-id="2780" tvg-logo="http://epg.it999.ru/img/2780.png",Extasy 4K
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/99
-#EXTINF:-1 group-title="Взрослые" tvg-id="3266" tvg-logo="http://epg.it999.ru/img/3266.png",SuperOne HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/100
-#EXTINF:-1 group-title="Взрослые" tvg-id="2319" tvg-logo="http://epg.it999.ru/img/2319.png",Passion XXX 1
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/101
-#EXTINF:-1 group-title="Взрослые" tvg-id="2319" tvg-logo="http://epg.it999.ru/img/2319.png",Passion XXX 2
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/102
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Red lips HD
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/103
-#EXTINF:-1 group-title="Взрослые" tvg-id="4787" tvg-logo="http://epg.it999.ru/img/4787.png",KinoXXX 1
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/104
-#EXTINF:-1 group-title="Взрослые" tvg-id="4787" tvg-logo="http://epg.it999.ru/img/4787.png",KinoXXX 2
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/105
-#EXTINF:-1 group-title="Взрослые" tvg-id="4787" tvg-logo="http://epg.it999.ru/img/4787.png",KinoXXX 3
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/106
-#EXTINF:-1 group-title="Взрослые" tvg-id="4787" tvg-logo="http://epg.it999.ru/img/4787.png",KinoXXX 4
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/107
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://i.pinimg.com/236x/6e/ea/35/6eea353b0aa415cd0c1d49161bf2fc42.jpg",Jasmin TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/108
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/2491.png",Fashion TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/109
-#EXTINF:-1 group-title="Взрослые" tvg-logo="http://epg.it999.ru/img/2491.png",Fashion TV Europe
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/110
-#EXTINF:-1 group-title="Взрослые" tvg-id="3134" tvg-logo="http://epg.it999.ru/img/3134.png",A3 Bikini
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/111
+http://93.152.174.144:4000/play/pinkotv/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="2320" tvg-logo="http://epg.it999.ru/img/2320.png",Redlight HD
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="2320" tvg-logo="http://epg.it999.ru/img/2320.png",Redlight HD
+http://109.200.130.123:7032/play/353
 #EXTINF:-1 group-title="Взрослые" tvg-id="3232" tvg-logo="http://epg.it999.ru/img/3232.png",Visit-X TV
-http://Source-Streams.com:8081/buyasaponline/buyasaponline_26022019/112
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 group-title="Взрослые" tvg-id="2528" tvg-logo="http://epg.it999.ru/img/2528.png",Vivid Red HD
+http://109.200.130.123:7032/play/a00g
+
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 1
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17375
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 2
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17376
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 3
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17377
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 4
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17378
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 5
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17379
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 6
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17380
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 7
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17381
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 8
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17382
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 9
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17383
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Mega XXX 10
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17384
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 1
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17385
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 2
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17386
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 3
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17387
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 4
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17388
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 5
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17389
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 6
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17390
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 7
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17391
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 8
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17392
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 9
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17393
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Prime XXX 10
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/17394
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Venus
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20369
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: SestoSenso
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20370
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: SCT HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20371
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Private HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20372
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PORN 9
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20373
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PORN 8
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20374
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PORN 4
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20375
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PORN 3
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20376
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Pink Erotic 8
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20378
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Pink Erotic 7
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20379
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Pink Erotic 6
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20380
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Pink Erotic 5
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20381
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Pink Erotic 4
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20382
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Pink Erotic 3
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20383
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Pink Erotic 2
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20384
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Penthouse Gold
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20385
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Passion XXX
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20386
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Olala
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20387
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Hustler HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20388
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: HOT HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20389
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EVIL ANGEL
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20390
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROXXX HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20391
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 7
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20392
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 5
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20393
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20394
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: DUSK
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20395
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Dorcel
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20396
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Brazzers tv
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20397
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ALBA XXX3 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20398
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ALBA XXX2 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20399
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ALBA XXX1 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20400
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Amateur
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20401
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: CENTOXCENTO TV (PRIVE)
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31847
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Blue Hustler
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31848
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: RUSSKAYA NOCH
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31849
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: REDLIGHT HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31850
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: XXL TV
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31851
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^XXX VENUS TV
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31852
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^XXX COMPILATION
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31853
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^XXX ALBA XXX 6
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31854
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^XXX ALBA XXX 5
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31855
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^XXX ALBA XXX 4
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31856
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^XXX ALBA XXX 3
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31857
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^XXX ALBA XXX 2
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31858
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^XXX ALBA XXX 1
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31859
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^XXX ALBA XXX 1 HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31860
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^AL-XXX: Bunga Bunga
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31861
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",^AL-XXX: Bizzare Live
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31862
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: XY plus
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31863
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: XY mix
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31864
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: XY max
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31865
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EXTASY
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31866
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: XXL HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31867
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: VIVID TV
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31868
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: VIVID RED HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31869
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Stars XXX
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31870
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: SIRINA TV
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31871
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: SCT
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31872
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PlayBoy TV
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31873
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PRIVATE HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31874
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PRIVATE
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31875
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PENTHOUSE GOLD HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31877
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PENTHOUSE QUICKIES
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31878
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PASSIONXXX
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31879
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: PASSIEXXX
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31880
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: JASMIN.TV HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31881
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: BHot
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31882
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: HUSTLER TV
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31883
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: HUSTLER HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31884
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: Barely Legal
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31885
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: FRENCHLOVER
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31886
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROXXX
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31887
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 8
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31888
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 7
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31889
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 6
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31890
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 5
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31891
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 4
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31892
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 3
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31893
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 2
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31894
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: EROTIC 1
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31895
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ERO-X
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31896
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: DUSK
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31897
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: DORCEL
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31898
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: BRAZZERS TV EUROPE
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31899
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Threesome
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31900
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Teen
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31901
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Russian
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31902
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Pornstar
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31903
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT POV
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31904
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT MILF
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31905
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Latina
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31906
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Hardcore
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31907
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Fetish
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31908
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Cuckold
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31909
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Big Tits
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31910
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Big Dick
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31911
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",XXX: ADULT Big Ass
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31912
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",True Amateurs HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64835
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Babes TV HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64836
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Erox Ful HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64837
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Eroxxx Ful HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64838
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Dorcel TV HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64839
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Dorcel XXX HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64840
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Extasy 4K FULL HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64841
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Private TV HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64842
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Brazzers Ful HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64843
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Playboy TV HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64844
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Leo Gold HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64845
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Leo TV Ful HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64846
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Reality Kings
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64847
+#EXTINF:-1 group-title="Взрослые" tvg-logo="https://sun9-25.userapi.com/c858128/v858128482/4cc74/QRK69Ql7DnE.jpg",Red Light HD
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/64848
+
 
 #EXTINF:-1 group-title="Взрослые" tvg-id="3136" tvg-logo="http://epg.it999.ru/img/3136.png",AdultIPTV.net Anal
 http://live.redtraffic.xyz/anal.m3u8
