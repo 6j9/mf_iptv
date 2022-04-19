@@ -271,6 +271,12 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="football-ru" tvg-logo="https://iptvxpix.ml/football-ru.png",Футбол
 http://live-footballtv.cdnvideo.ru/footballtv-publish/footballtv/playlist.m3u8
 
+#EXTINF:-1 group-title="Спортивные" tvg-id="footbolny" tvg-logo="https://iptvxpix.ml/footbolny.png",Футбольный HD
+http://158.101.197.217:2134/channel/n3fb3760e/index.m3u8?q=cc66843c5c38698adab40c8d53df3ff5
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="xokkejny" tvg-logo="https://iptvxpix.ml/xokkejny.png",Хоккейный HD
+http://158.101.197.217:2134/channel/n57d8419a/index.m3u8?q=cc66843c5c38698adab40c8d53df3ff5
+
 #EXTINF:-1 group-title="Спортивные" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
 https://tv.a21network.ru/stream/37909/index.m3u8
 
@@ -357,6 +363,9 @@ http://mfe02.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fight-sports-1046.png",FIGHT Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_2.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://smotret.tv/images/fite-tv.webp",FITE TV
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-logo="https://wholesalesneakerslist.com/images/partner5.png",Fox Sports News
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -1100,7 +1109,7 @@ http://live-1.otcnet.ru/kinotvsd/mono.m3u8
 https://livetv.mylifeisgood.ml/channels/kinotv
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopokaz" tvg-logo="https://iptvxpix.ml/kinopokaz.png",Кинопоказ
-http://178.163.116.66:4022/udp/234.0.0.209:2000
+http://158.101.197.217:2134/channel/n7ffadd45/index.m3u8?q=cc66843c5c38698adab40c8d53df3ff5
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="krasnaya-linia" tvg-logo="https://iptvxpix.ml/krasnaya-linia.png",Красная линия ТВ
 http://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
