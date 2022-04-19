@@ -135,7 +135,7 @@ https://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="sarafan" tvg-logo="https://iptvxpix.ml/sarafan.png",Сарафан
 http://st1.astra-uk.ru:81/e4eb5830bf416d1b49e2996a7868d14d/playlist.m3u8
 
-#EXTINF:-1 group-title="Эфирные" tvg-logo="https://pic.rutubelist.ru/user/93/b8/93b83013072717fa52c8370fc1792d24.jpg",Соловьёв.Live
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://prwb.am/wp-content/uploads/2022/02/photo-230x230.jpg",Соловьёв.Live
 http://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="sts" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
@@ -298,7 +298,7 @@ http://109.200.130.124:7000/play/a010
 #EXTINF:-1 group-title="Спортивные" tvg-id="6130" tvg-logo="http://epg.it999.ru/img2/6130.png",Insport
 https://sc.id-tv.kz/INSPORTHD_34_35.m3u8
 
-#EXTINF:-1 group-title="Спортивные" tvg-logo="https://cutewallpaper.org/21/king-of-kings-logos/King-of-Kings-KOK-MMA-Promoter-Tapology.jpg",KOK Fights TV
+#EXTINF:-1 group-title="Спортивные" tvg-logo="https://st.mvs.wtf/uploads/image/5f06d21f5d8f436f62351f34/maxres.png",KOK Fights TV
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="m1global" tvg-logo="https://iptvxpix.ml/m1global.png",M-1 Global HD
@@ -1332,6 +1332,9 @@ http://st1.astra-uk.ru:81/d4f755858b7fa60b7c59bb197f085e58/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="da-vinci" tvg-logo="https://iptvxpix.ml/da-vinci.png",Да Винчи
 http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
 
+#EXTINF:-1 group-title="Детские" tvg-id="detsky-mir" tvg-logo="https://iptvxpix.ml/detsky-mir.png",Детский Мир
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+
 #EXTINF:-1 group-title="Детские" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 
@@ -1531,6 +1534,9 @@ http://topchantv.net:3456/live/cdn_Top/PPEIyMvacU/489.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8
 
+#EXTINF:-1 group-title="Музыкальные" tvg-id="zhar-ptica" tvg-logo="https://iptvxpix.ml/zhar-ptica.png",Жар Птица
+https://live-2.otcnet.ru/jarptica/index.m3u8
+
 #EXTINF:-1 group-title="Музыкальные" tvg-id="zhara" tvg-logo="https://iptvxpix.ml/zhara.png",ЖАРА
 http://st1.astra-uk.ru:81/a5f10ea150c0f151aac65728b6010176/playlist.m3u8
 
@@ -1610,45 +1616,45 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzsoyuz" tvg-logo="https://iptvxpix.ml/muzsoyuz.png",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Aillion
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Aillion
 https://sluhay.by/live/Ch149pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Among Your God
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Among Your God
 https://sluhay.by/live/Ch086pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Cover
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Cover
 https://sluhay.by/live/Ch117pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Christ
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Christ
 https://sluhay.by/live/Ch064pub/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_edm.png",Sluhay.by EDM
 https://sluhay.by/live/Ch091pub/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_live.png",Sluhay.by Egiazar
 https://sluhay.by/live/Ch341pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by HD
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by HD
 https://sluhay.by/live/Ch045pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Lenadi
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Lenadi
 https://sluhay.by/live/Ch052pub/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_live.png",Sluhay.by Live
 https://sluhay.by/live/Ch173pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Markuts Band
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Markuts Band
 https://sluhay.by/live/Ch360pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Mova
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_mova.png",Sluhay.by Mova
 https://sluhay.by/live/Ch034pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Moyo Тебе
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Moyo Тебе
 https://sluhay.by/live/Ch250pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Olia
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Olia
 https://sluhay.by/live/Ch015pub/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_pop.png",Sluhay.by Pop
 https://sluhay.by/live/Ch066pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Radio
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Radio
 https://sluhay.by/live/Ch048pub/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_rap.png",Sluhay.by Rap
 https://sluhay.by/live/Ch107pub/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_rock.png",Sluhay.by Rock
 https://sluhay.by/live/Ch114pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by The Glithchhh
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by The Glithchhh
 https://sluhay.by/live/Ch362pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Xtip
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Xtip
 https://sluhay.by/live/Ch056pub/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_channel.png",Sluhay.by Априори
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_main_big.png",Sluhay.by Априори
 https://sluhay.by/live/Ch363pub/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sluhay.by/assets/logo_live.png",www.doma.fun
 https://sluhay.by/live/Ch316pub/index.m3u8
@@ -1914,6 +1920,9 @@ http://stream1.aswifi.it/stereo5/live/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static-media.streema.com/media/cache/a0/e6/a0e6328d169196702493d0f886ec379d.jpg",Radio Taormina TV
 http://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://radiou.com/wp-content/uploads/2018/06/RadioUSiteHeaderTransparent.png",RADIOU TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://artwork-cdn.7static.com/static/img/sleeveart/00/072/288/0007228889_200.jpg",Reload Radio Music Power HD
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 
@@ -1997,9 +2006,6 @@ https://eu1.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://pager.nnov.ru/appletv/images/150x150/tvm3.jpg",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://top10gh.com/uploads/2021/4/utv_1618266714.jpg",U TV
-https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-id="5483" tvg-logo="http://epg.it999.ru/img2/5483.png",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
@@ -2116,6 +2122,12 @@ http://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="https://iptvxpix.ml/viasat-nature.png",Viasat Nature
 http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 
+#EXTINF:-1 group-title="Познавательные" tvg-id="world-fashion-channel" tvg-logo="https://iptvxpix.ml/world-fashion-channel.png",World Fashion Channel
+https://wfcint.mediacdn.ru/cdn/wfcrus/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="world-fashion-channel-en" tvg-logo="https://iptvxpix.ml/world-fashion-channel-en.png",World Fashion Channel En
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark" tvg-logo="https://iptvxpix.ml/zoopark.png",ZooПарк
 http://46.174.83.66/Zoopark/index.m3u8
 
@@ -2187,6 +2199,9 @@ https://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="https://iptvxpix.ml/kto-est-kto.png",Кто есть кто
 http://st1.astra-uk.ru:81/ee8f601cd12fbd60ddf49a071e53d3cb/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="mir-uvlecheniy" tvg-logo="https://iptvxpix.ml/mir-uvlecheniy.png",Кто Куда
+http://217.11.177.57/streams/media/mir-uvlecheniy_720x576/index.m3u8
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="kuxnia-tv" tvg-logo="https://iptvxpix.ml/kuhnia.png",Кухня ТВ
 http://st1.astra-uk.ru:81/e1a09d08b00badf71900742adf8e232e/playlist.m3u8
