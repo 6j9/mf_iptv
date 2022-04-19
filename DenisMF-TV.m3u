@@ -2317,19 +2317,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 http://mhd58.iptv2022.com/ntrk/chavashen/324/vh1/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="utv-cheboxary" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/201.png",ЮТВ Чебоксары
 http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="rossia1" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-24 (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="tvcentr" tvg-logo="https://nv.tvstroka.com/images/tvc.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="tvcentr" tvg-logo="https://nv.tvstroka.com/images/tvc.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="che" tvg-logo="http://www.oreol.tv/img/che_s.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="che" tvg-logo="http://www.oreol.tv/img/che_s.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 
