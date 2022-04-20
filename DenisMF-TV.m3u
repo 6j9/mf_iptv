@@ -6,6 +6,12 @@ https://strm.yandex.ru/kal/360tv_supres/360tv_supres0.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="360-news" tvg-logo="https://iptvxpix.ml/360-news.png",360° Новости
 https://strm.yandex.ru/kal/360news_supres/360news_supres0.m3u8
 
+#EXTINF:-1 group-title="Эфирные" tvg-id="8kanal-by" tvg-logo="https://iptvxpix.ml/8kanal-by.png",8 канал HD Беларусь
+http://80.94.225.126:8080/8kanalHD/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные" tvg-id="8kanal-eu" tvg-logo="https://iptvxpix.ml/8kanal-eu.png",8 канал Европа
+https://v4.proofix.ru/8tv-europe/index.m3u8
+
 #EXTINF:-1 group-title="Эфирные" tvg-id="cctv-ru" tvg-logo="https://iptvxpix.ml/cctv-ru.png",CGTN-Русский
 http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
@@ -242,7 +248,7 @@ http://st1.astra-uk.ru:81/9cbaa7594b1a1af55e54b25426638d99/playlist.m3u8
 http://46.174.83.66/Drive/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="konny-mir" tvg-logo="https://iptvxpix.ml/konny-mir.png",Конный мир
-http://cdn-01.bonus-tv.ru:80/konnyimir/index.m3u8
+https://bl.uma.media/live/400930/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd" tvg-logo="https://iptvxpix.ml/kxl-hd.png",КХЛ HD
 http://st1.astra-uk.ru:81/d9e765c5b8f65c43507d4dd00b4b1a7b/playlist.m3u8
@@ -1414,7 +1420,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
 
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1hd" tvg-logo="https://iptvxpix.ml/1hd-music.png",1HD Music
-http://dmitry-tv.ml/hls/CH_1HDMUSICTELEVISIONHD.m3u8
+https://live-1.otcnet.ru/onehdweb/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="aiva" tvg-logo="http://epg.it999.ru/img/2837.png",AIVA HD
 http://194.190.78.81:8080/aiva/index.m3u8
@@ -1668,8 +1674,14 @@ http://30a-tv.com/music.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="4fun" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082019/switch_4fun_full.png",4FUN.TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png",4 KURD
+http://51.210.199.23/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/1c/cd/4a/1ccd4a9098532f553d15ce963567aa82.jpg",Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8
+https://stream.ecable.tv/afrobeats/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/us-baeble-music.jpg",Baeble Music
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-baeblemusic/CDN/640x360_700000/index.m3u8
@@ -2320,19 +2332,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 http://mhd58.iptv2022.com/ntrk/chavashen/324/vh1/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="utv-cheboxary" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/201.png",ЮТВ Чебоксары
 http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="ntv" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia1" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="rossia1" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-24 (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="tvcentr" tvg-logo="https://nv.tvstroka.com/images/tvc.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="tvcentr" tvg-logo="https://nv.tvstroka.com/images/tvc.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ Центр
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-id="che" tvg-logo="http://www.oreol.tv/img/che_s.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че (Чувашия)
+#EXTINF:-1 group-title="Региональные" tvg-id="che" tvg-logo="http://www.oreol.tv/img/che_s.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 
@@ -2351,9 +2363,18 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/varia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-id="26-region" tvg-logo="https://iptvxpix.ml/26-region.png",26 Регион ТВ
+http://live.26region.tv/app2/stream_bypass/playlist.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-id="31-kanal-kz" tvg-logo="https://iptvxpix.ml/31-kanal-kz.png",31 канал Казахстан
+https://sc.id-tv.kz/31Kanal_34_35.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-id="31-kanal-chelyabinsk" tvg-logo="https://iptvxpix.ml/31-kanal-chelyabinsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",31 канал Челябинск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-id="4kanal-piatnica" tvg-logo="https://iptvxpix.ml/4kanal-piatnica.png",4 канал Екатеринбург
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_EKB1/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="no_epg" tvg-logo="https://assets.limehd.tv/uploads/channel/10478/thumb_1b6a765369e8bc9e0535852478409267.png" tvg-name="41 Регион" shift="+2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",41 Регион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -2363,6 +2384,9 @@ http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://pro100tv.my1.ru/_nw/2/55175243.png",43 канал HD
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-id="49kanal" tvg-logo="https://iptvxpix.ml/49kanal.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",49 канал Новосибирск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
@@ -2370,6 +2394,12 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant
 #EXTINF:-1 group-title="Региональные" tvg-id="6tv" tvg-logo="https://iptvxpix.ml/6tv.png" tvg-name="6ТВ (Хабаровск)" shift="+2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",6 ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-id="7tv" tvg-logo="https://iptvxpix.ml/7tv.png",7ТВ
+http://46.151.151.245:10001/play/a006/index.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-id="7kanal-kz" tvg-logo="https://iptvxpix.ml/7kanal-kz.png",7 канал Казахстан
+http://92.46.127.146:8080/7Channel/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="7kanal-krasnoyarsk" tvg-logo="https://iptvxpix.ml/7kanal-krasnoyarsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
@@ -2390,6 +2420,15 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.
 #EXTINF:-1 group-title="Региональные" tvg-id="acb-tv" tvg-logo="https://iptvxpix.ml/9-volna.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",9 Волна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
 http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_CHERKS_9VOLNA-CHRK/variant.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-id="abaitv" tvg-logo="https://iptvxpix.ml/abaitv.png",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/abaitv/abaitv_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Региональные" tvg-id="almaty" tvg-logo="https://iptvxpix.ml/almaty.png",Almaty
+http://91.185.3.218:4000/play/108
+
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://oskementv.kz/assets/regions/logo/altay.png?v=1",ALTAI TV
+https://stream.kaztrk.kz/regional/oskementv/index.m3u8
 
 #EXTINF:-1 group-title="Региональные" tvg-id="arirang" tvg-logo="https://iptvxpix.ml/arirang.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
